@@ -73,10 +73,9 @@ def main():
             for line in file:
                 weekUrls.append(line.strip())
 
-
     gameUrls = generate_game_urls(weekUrls)
 
-    with open('game_url_list.txt', 'w') as file:
+    with open('game_url_list.txt', 'a') as file:
         # Convert each element of the list to a string and write it to the file
         for item in gameUrls[0]:
             file.write(str(item) + '\n')
