@@ -55,16 +55,26 @@ def generate_game_urls(week_url_list):
 
 
 def main():
-    # Generate list of years
-    yearUrls = generate_year_urls(2000, 2022)
-    weekUrls = generate_week_urls(yearUrls, 1, 21)
+    print("Use 'bad_game_url_list.txt' as the weekUrls?")
+    user_input = input("Y/N: ")
 
-    # for years that have an extra week
-    weekUrls.append("https://www.pro-football-reference.com/years/2021/week_22.htm")
-    weekUrls.append("https://www.pro-football-reference.com/years/2022/week_22.htm")
+    if user_input == "N":
+        # Generate list of years
+        yearUrls = generate_year_urls(2000, 2022)
+        weekUrls = generate_week_urls(yearUrls, 1, 21)
+
+        # for years that have an extra week
+        weekUrls.append("https://www.pro-football-reference.com/years/2021/week_22.htm")
+        weekUrls.append("https://www.pro-football-reference.com/years/2022/week_22.htm")
+    else:
+        weekUrls = []
+        with open('bad_game_url_list.txt', 'r') as file:
+            # Read each line from the file and append it to the list
+            for line in file:
+                weekUrls.append(line.strip())
+
 
     gameUrls = generate_game_urls(weekUrls)
-
 
     with open('game_url_list.txt', 'w') as file:
         # Convert each element of the list to a string and write it to the file
