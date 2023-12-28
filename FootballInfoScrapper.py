@@ -24,6 +24,7 @@ def generate_week_urls(year_url_list, start, end):
 def generate_game_urls(week_url_list):
     url_list = []
     bad_url_list = []
+    count = 1
 
     for url in week_url_list:
 
@@ -31,11 +32,14 @@ def generate_game_urls(week_url_list):
         response = requests.get(url)
 
         wait_time = response.headers.get('Retry-After')
-        print(wait_time)
 
         if wait_time:
+            print(wait_time)
             time.sleep(int(wait_time) + 1)
             response = requests.get(url)
+        
+        print(f"#{count}")
+        count += 1
         
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
