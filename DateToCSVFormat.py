@@ -1,10 +1,6 @@
 # expected format: 20180906
 # start date: 20000903
 
-import os
-
-print("Current Working Directory:", os.getcwd())
-
 def main():
     
     unformatted_dates = []
