@@ -19,7 +19,6 @@ def main():
         year = int(date[:4])
         month = int(date[4:6])
         day = int(date[6:])
-        print(f"Year: {year}, Month: {month}, Day: {day}")
 
         relative_year = (year - 2000)
 
@@ -55,9 +54,9 @@ def main():
     
     with open('datesCSV.txt', 'w') as file:
         # Convert each element of the list to a string and write it to the file
-        file.write('"Year","Month","Days Since Sept 3rd 2000"')
+        file.write('"Year","Month","Days Since Sept 3rd 2000"\n')
         for item in formatted_dates:
-            file.write(f"{str(item[0])},{str(item[1])},{str(item[2])} \n")
+            file.write(f"{str(item[0])},{str(item[1])},{str(item[2])}\n")
 
 if __name__ == "__main__":
     main()
