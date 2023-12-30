@@ -1,5 +1,6 @@
 import time
 import requests
+import re
 from bs4 import BeautifulSoup
 
 from selenium import webdriver
@@ -12,9 +13,31 @@ options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--ignore-ssl-errors')
 options.add_argument("disable-quic")
+options.add_argument("--disable-proxy-certificate-handler")
+options.add_argument('--blink-settings=imagesEnabled=false')
+options.add_argument('--pageLoadStrategy=eager')
 
-# Set up the WebDriver (for example, using Chrome)
-driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+def Format_Weather(weather_text):
+
+    if "no wind" in weather_text:
+        weather_text = weather_text.replace("no wind", "0")
+
+    # Define a list of words to remove
+    words_to_remove = ["degrees", "relative humidity", "wind", "mph", "chill"]
+
+    # Create a regex pattern by joining the words with the "|" (OR) operator
+    pattern = re.compile(r'\b(?:' + '|'.join(map(re.escape, words_to_remove)) + r')\b\s*|\%', flags=re.IGNORECASE)
+
+    # Use the sub function to replace the matched words, spaces, and percentage signs with an empty string, keeping the commas
+    weather = re.sub(pattern, '', weather_text)
+
+    weather = weather.replace(" ", "")
+
+    comma_count = weather.count(',')
+    if comma_count == 2:
+        weather += ",N/A"
+
+    return weather
 
 
 def Information_Getter(game_url_list):
@@ -23,8 +46,12 @@ def Information_Getter(game_url_list):
     bad_infoCSV = []
     line = 0
 
-    for url in game_url_list[:10]:
+    # Set up the WebDriver (for example, using Chrome)
+    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
+    for url in game_url_list:
+
+        time.sleep(6)
         response = requests.get(url)
 
         wait_time = response.headers.get('Retry-After')
@@ -114,31 +141,46 @@ def Information_Getter(game_url_list):
             #---------------------------------------------------------------------------------------
             # Weather
             #---------------------------------------------------------------------------------------
-            try:
-                weather_element = WebDriverWait(driver, 5).until(
-                    EC.presence_of_element_located((By.XPATH, '//th[@data-stat="info" and text()="Weather"]'))
-                )
+            
+            if roof != "dome":
+                try:
+                    weather_element = WebDriverWait(driver, 5).until(
+                        EC.presence_of_element_located((By.XPATH, '//th[@data-stat="info" and text()="Weather"]'))
+                    )
 
-                weather = weather_element.find_element(By.XPATH, '../td[@data-stat="stat"]').text
+                    weather = weather_element.find_element(By.XPATH, '../td[@data-stat="stat"]').text
 
-            except:
-                print("Missing: Weather")
-                weather = "N/A"
+                    weather = Format_Weather(weather)
+
+                except:
+                    print("Missing: Weather")
+                    weather = "N/A,N/A,N/A,N/A"
+            else:
+                weather = "N/A,N/A,N/A,N/A"
 
             #---------------------------------------------------------------------------------------
             #---------------------------------------------------------------------------------------
             #---------------------------------------------------------------------------------------
 
             infoCSV.append(str(line) + "," + statium + "," + roof + "," + surface + "," + str(fgm) + "," + str(fga) + "," + weather)
-            print("#" + str(line) + "," + statium + "," + roof + "," + surface + "," + str(fgm) + "," + str(fga) + "," + weather)
+            print(str(line) + "," + statium + "," + roof + "," + surface + "," + str(fgm) + "," + str(fga) + "," + weather)
 
         else:
             print(f"Failed to retrieve the HTML content. Status code: {response.status_code}")
             bad_infoCSV.append(str(line) + "," + url)
 
 
-        print(f"#{line} out of ~8000")
+        print("out of 6162")
         line += 1
+
+        if (line % 100) == 0:
+            print("Reloading...")
+            # Reload browser
+            driver.quit()
+            driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+
+    
+    driver.quit()
 
     return [infoCSV, bad_infoCSV]
 
