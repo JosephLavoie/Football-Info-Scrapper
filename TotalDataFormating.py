@@ -16,13 +16,13 @@ def main():
     if len(dates) != len(info):
         print("!Lengths are not the same!")
 
-    for each in range(len(dates)):
-        formated_csv.append(dates(each) + "," + info(each))
+    for each in range(len(info)):
+        formated_csv.append(dates[each] + "," + info[each] + "\n")
     
     with open('NFLKicksInfo2000-2022.csv', 'w') as file:
         # Convert each element of the list to a string and write it to the file
         for each in formated_csv:
-            file.write(each)   
+            file.write(each)
 
 if __name__ == "__main__":
     main()
