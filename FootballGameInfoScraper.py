@@ -40,16 +40,16 @@ def Format_Weather(weather_text):
     return weather
 
 
-def Information_Getter(game_url_list):
+def Information_Getter(game_url_list, start_line):
 
     infoCSV = []
     bad_infoCSV = []
-    line = 0
+    line = start_line
 
     # Set up the WebDriver (for example, using Chrome)
     driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
-    for url in game_url_list:
+    for url in game_url_list[start_line:]:
 
         time.sleep(6)
         response = requests.get(url)
@@ -174,10 +174,20 @@ def Information_Getter(game_url_list):
         line += 1
 
         if (line % 100) == 0:
-            print("Reloading...")
-            # Reload browser
-            driver.quit()
-            driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+            print("Saving...")
+
+            with open('infoCSV.txt', 'a') as file:
+                # Convert each element of the list to a string and write it to the file
+                for item in infoCSV:
+                    file.write(str(item) + '\n')
+
+            if bad_infoCSV:
+                with open('bad_infoCSV.txt', 'a') as file:
+                    # Convert each element of the list to a string and write it to the file
+                    for item in bad_infoCSV:
+                        file.write(str(item) + '\n')
+
+            infoCSV = []
 
     
     driver.quit()
@@ -188,6 +198,7 @@ def Information_Getter(game_url_list):
 def main():
     print("Use 'bad_infoCSV.txt' instead of game_url_list.txt?")
     user_input = input("Y/N: ")
+    lineNumber = 0
 
     gameUrls = []
 
@@ -197,20 +208,24 @@ def main():
             for line in file:
                 gameUrls.append(line.strip())
         
+        print("Which line are we starting at?")
+        lineNumber = int(input("#: "))
+
+        
     else:
         with open('bad_infoCSV.txt', 'r') as file:
             # Read each line from the file and append it to the list
             for line in file:
                 gameUrls.append(line.strip())
 
-    infoLine = Information_Getter(gameUrls)
+    infoLine = Information_Getter(gameUrls, lineNumber)
 
     with open('infoCSV.txt', 'a') as file:
         # Convert each element of the list to a string and write it to the file
         for item in infoLine[0]:
             file.write(str(item) + '\n')
     
-    with open('bad_infoCSV.txt', 'w') as file:
+    with open('bad_infoCSV.txt', 'a') as file:
         # Convert each element of the list to a string and write it to the file
         for item in infoLine[1]:
             file.write(str(item) + '\n')
