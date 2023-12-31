@@ -1,7 +1,7 @@
 
 def main():
     
-    formated_csv, weather_csv, non_csv = [], [], []
+    formated_csv, weather_csv, bad_windchill_csv, windchill_csv, non_csv = [], [], [], []
 
     with open('NFLKicksInfo2000-2022.csv', 'r') as file:
         # Read each line from the file and append it to the list
@@ -10,10 +10,14 @@ def main():
     
 
     for each in formated_csv:
-        if "N/A" in each:
+        if "N/A,N/A" in each:
             non_csv.append(each)
+        elif "N/A" in each:
+            weather_csv.append(each)
+            bad_windchill_csv.append(each)
         else:
             weather_csv.append(each)
+            windchill_csv.append(each)
     
     with open('NFLKicksInfo2000-2022WeatherSplit.csv', 'w') as file:
         # Convert each element of the list to a string and write it to the file
@@ -23,6 +27,16 @@ def main():
     with open('NFLKicksInfo2000-2022NonSplit.csv', 'w') as file:
         # Convert each element of the list to a string and write it to the file
         for each in non_csv:
+            file.write(each)
+    
+    with open('NFLKicksInfo2000-2022WeatherSplitWindChill.csv', 'w') as file:
+        # Convert each element of the list to a string and write it to the file
+        for each in windchill_csv:
+            file.write(each)
+    
+    with open('NFLKicksInfo2000-2022WeatherSplitBadWindChill.csv', 'w') as file:
+        # Convert each element of the list to a string and write it to the file
+        for each in bad_windchill_csv:
             file.write(each)   
 
 if __name__ == "__main__":
