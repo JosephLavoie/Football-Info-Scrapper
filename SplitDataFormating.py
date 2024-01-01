@@ -42,7 +42,7 @@ def main():
         elif "N/A" in each:
             weather_csv.append(each)
             bad_windchill_csv.append(each)
-
+            
         else:
             weather_csv.append(each)
             windchill_csv.append(each)

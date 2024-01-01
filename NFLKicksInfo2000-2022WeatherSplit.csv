@@ -1,4 +1,4 @@
-"Year","Month","Days Since Sept 3rd 2000","#","Statium","Roof Type","Surface Type","Field Goals Made","Field Goals Missed","Temperture","Realtive Humitity","Wind Speed","Wind Chill"
+Year,Month,Days Since Sept 3rd 2000,#,Statium,Roof Type,Surface Type,Field Goals Made,Field Goals Missed,Temperture,Realtive Humitity,Wind Speed,Wind Chill
 2000,September,0,0,Arrowhead Stadium,outdoors,grass,2,2,90,50,5,0
 2000,September,0,2,FedExField,outdoors,grass,3,4,80,98,0,0
 2000,September,0,4,Cleveland Browns Stadium,outdoors,grass,2,2,78,63,6,0
@@ -3297,514 +3297,514 @@
 2016,October,5902,4367,FirstEnergy Stadium,outdoors,grass,3,3,53,91,15,N/A
 2016,October,5902,4369,Raymond James Stadium,outdoors,grass,2,4,86,54,15,N/A
 2016,October,5902,4372,Sports Authority Field at Mile High,outdoors,grass,2,3,76,19,6,0
-2016,October,5903,4375,Soldier Field,outdoors,grass,3,3,58,71,12,0
-2016,November,5905,4376,Raymond James Stadium,outdoors,grass,3,3,76,2
-2016,November,5908,4377,FirstEnergy Stadium,outdoors,grass,1,2,58,4
-2016,November,5908,4378,Arrowhead Stadium,outdoors,grass,4,5,62,7
-2016,November,5908,4379,Hard Rock Stadium,outdoors,grass,5,5,80,14
-2016,November,5908,4381,MetLife Stadium,outdoors,fieldturf,3,4,56,9
-2016,November,5908,4382,M&T Bank Stadium,outdoors,grass,2,2,65,15
-2016,November,5908,4383,Los Angeles Memorial Coliseum,outdoors,grass,3,6,75,2
-2016,November,5908,4384,Levi's Stadium,outdoors,grass,5,6,70,0
-2016,November,5908,4385,Lambeau Field,outdoors,grass,3,4,68,7
-2016,November,5908,4386,Qualcomm Stadium,outdoors,grass,3,3,76,6
-2016,November,5908,4387,Oakland-Alameda County Coliseum,outdoors,grass,5,6,65,6
-2016,November,5909,4388,CenturyLink Field,outdoors,fieldturf,2,3,61,4
-2016,November,5912,4389,M&T Bank Stadium,outdoors,grass,2,2,54,3
-2016,November,5915,4390,Bank of America Stadium,outdoors,grass,5,5,45,6
-2016,November,5915,4391,EverBank Field,outdoors,grass,3,5,69,10
-2016,November,5915,4393,MetLife Stadium,outdoors,fieldturf,3,3,62,7
-2016,November,5915,4394,Nissan Stadium,outdoors,grass,4,4,56,3
-2016,November,5915,4395,Lincoln Financial Field,outdoors,grass,6,9,58,10
-2016,November,5915,4396,Raymond James Stadium,outdoors,grass,3,3,81,4
-2016,November,5915,4397,FedExField,outdoors,grass,4,4,58,7
-2016,November,5915,4398,Qualcomm Stadium,outdoors,grass,2,2,85,11
-2016,November,5915,4400,Heinz Field,outdoors,grass,5,6,56,7
-2016,November,5915,4401,Gillette Stadium,outdoors,fieldturf,5,5,43,3
-2016,November,5916,4402,MetLife Stadium,outdoors,fieldturf,2,2,56,2
-2016,November,5919,4403,Bank of America Stadium,outdoors,grass,5,6,63,6
-2016,November,5922,4404,Paul Brown Stadium,outdoors,fieldturf,3,3,36,8
-2016,November,5922,4405,FirstEnergy Stadium,outdoors,grass,4,4,36,27
-2016,November,5922,4409,Arrowhead Stadium,outdoors,grass,5,5,46,9
-2016,November,5922,4411,MetLife Stadium,outdoors,fieldturf,2,3,41,10
-2016,November,5922,4412,Los Angeles Memorial Coliseum,outdoors,grass,1,2,63,3
-2016,November,5922,4413,CenturyLink Field,outdoors,fieldturf,2,3,54,5
-2016,November,5922,4414,Levi's Stadium,outdoors,grass,2,2,64,6
-2016,November,5922,4415,FedExField,outdoors,grass,2,3,38,23
-2016,November,5923,4416,Azteca Stadium,outdoors,grass,4,4,63,6
-2016,November,5929,4421,New Era Field,outdoors,a_turf,0,0,42,13
-2016,November,5929,4422,Soldier Field,outdoors,grass,2,2,40,11
-2016,November,5929,4423,FirstEnergy Stadium,outdoors,grass,2,2,48,10
-2016,November,5929,4425,Hard Rock Stadium,outdoors,grass,2,2,79,13
-2016,November,5929,4427,M&T Bank Stadium,outdoors,grass,6,6,50,12
-2016,November,5929,4428,Raymond James Stadium,outdoors,grass,1,2,81,6
-2016,November,5929,4429,MetLife Stadium,outdoors,fieldturf,4,6,47,10
-2016,November,5929,4430,Oakland-Alameda County Coliseum,outdoors,grass,2,2,59,12
-2016,November,5929,4431,Sports Authority Field at Mile High,outdoors,grass,4,5,44,21
-2016,November,5930,4432,Lincoln Financial Field,outdoors,grass,4,4,47,7
-2016,December,5937,4435,Soldier Field,outdoors,grass,3,3,33,5
-2016,December,5937,4436,Paul Brown Stadium,outdoors,fieldturf,4,5,42,10
-2016,December,5937,4437,Lambeau Field,outdoors,grass,0,0,32,8
-2016,December,5937,4438,EverBank Field,outdoors,grass,3,3,70,10
-2016,December,5937,4440,Gillette Stadium,outdoors,fieldturf,5,5,39,8
-2016,December,5937,4441,M&T Bank Stadium,outdoors,grass,1,2,47,3
-2016,December,5937,4442,Oakland-Alameda County Coliseum,outdoors,grass,4,4,59,4
-2016,December,5937,4444,Heinz Field,outdoors,grass,3,3,43,7
-2016,December,5937,4445,Qualcomm Stadium,outdoors,grass,2,4,72,7
-2016,December,5937,4446,CenturyLink Field,outdoors,fieldturf,4,4,37,4
-2016,December,5938,4447,MetLife Stadium,outdoors,fieldturf,3,3,45,6
-2016,December,5941,4448,Arrowhead Stadium,outdoors,grass,2,2,21,7
-2016,December,5944,4449,New Era Field,outdoors,a_turf,2,2,27,9
-2016,December,5944,4450,Bank of America Stadium,outdoors,grass,5,5,37,6
-2016,December,5944,4451,FirstEnergy Stadium,outdoors,grass,2,3,28,15
-2016,December,5944,4454,EverBank Field,outdoors,grass,7,9,71,5
-2016,December,5944,4455,Hard Rock Stadium,outdoors,grass,2,3,77,18
-2016,December,5944,4456,Nissan Stadium,outdoors,grass,3,3,50,5
-2016,December,5944,4457,Lincoln Financial Field,outdoors,grass,3,4,35,3
-2016,December,5944,4458,Levi's Stadium,outdoors,grass,4,6,54,8
-2016,December,5944,4459,Lambeau Field,outdoors,grass,2,3,26,5
-2016,December,5944,4460,Los Angeles Memorial Coliseum,outdoors,grass,0,0,65,1
-2016,December,5944,4461,Raymond James Stadium,outdoors,grass,6,6,79,9
-2016,December,5944,4462,MetLife Stadium,outdoors,fieldturf,1,2,32,0
-2016,December,5945,4463,Gillette Stadium,outdoors,fieldturf,3,4,31,3
-2016,December,5948,4464,CenturyLink Field,outdoors,fieldturf,2,2,36,5
-2016,December,5950,4465,MetLife Stadium,outdoors,fieldturf,2,2,35,5
-2016,December,5951,4466,New Era Field,outdoors,a_turf,4,4,26,15
-2016,December,5951,4467,Soldier Field,outdoors,grass,5,5,11,12
-2016,December,5951,4468,Paul Brown Stadium,outdoors,fieldturf,8,8,24,8
-2016,December,5951,4470,Arrowhead Stadium,outdoors,grass,3,3,1,5
-2016,December,5951,4472,MetLife Stadium,outdoors,fieldturf,3,3,55,1
-2016,December,5951,4473,M&T Bank Stadium,outdoors,grass,6,6,62,9
-2016,December,5951,4476,Sports Authority Field at Mile High,outdoors,grass,4,4,18,9
-2016,December,5951,4477,Qualcomm Stadium,outdoors,grass,5,5,62,5
-2016,December,5952,4479,FedExField,outdoors,grass,7,8,32,8
-2016,December,5955,4480,Lincoln Financial Field,outdoors,grass,5,5,40,10
-2016,December,5957,4481,New Era Field,outdoors,a_turf,3,6,38,13
-2016,December,5957,4482,Bank of America Stadium,outdoors,grass,7,8,56,5
-2016,December,5957,4483,Soldier Field,outdoors,grass,2,3,37,1
-2016,December,5957,4484,FirstEnergy Stadium,outdoors,grass,3,5,38,13
-2016,December,5957,4485,Lambeau Field,outdoors,grass,3,3,37,8
-2016,December,5957,4486,EverBank Field,outdoors,grass,5,5,67,5
-2016,December,5957,4487,Gillette Stadium,outdoors,fieldturf,3,4,40,6
-2016,December,5957,4488,Oakland-Alameda County Coliseum,outdoors,grass,1,1,50,9
-2016,December,5957,4490,Los Angeles Memorial Coliseum,outdoors,grass,0,0,59,6
-2016,December,5957,4491,CenturyLink Field,outdoors,fieldturf,3,5,39,2
-2016,December,5958,4493,Heinz Field,outdoors,grass,5,5,41,9
-2016,December,5958,4494,Arrowhead Stadium,outdoors,grass,3,4,53,9
-2017,January,5965,4496,Paul Brown Stadium,outdoors,fieldturf,3,3,40,6
-2017,January,5965,4498,Hard Rock Stadium,outdoors,grass,2,3,80,15
-2017,January,5965,4500,MetLife Stadium,outdoors,fieldturf,4,4,42,11
-2017,January,5965,4501,Nissan Stadium,outdoors,grass,2,3,52,7
-2017,January,5965,4502,Lincoln Financial Field,outdoors,grass,4,5,50,10
-2017,January,5965,4503,Heinz Field,outdoors,grass,1,2,41,1
-2017,January,5965,4504,Raymond James Stadium,outdoors,grass,2,7,81,6
-2017,January,5965,4506,Sports Authority Field at Mile High,outdoors,grass,1,2,45,9
-2017,January,5965,4507,Los Angeles Memorial Coliseum,outdoors,grass,5,5,59,0
-2017,January,5965,4508,Qualcomm Stadium,outdoors,grass,5,5,59,10
-2017,January,5965,4509,Levi's Stadium,outdoors,grass,4,4,54,5
-2017,January,5965,4510,FedExField,outdoors,grass,3,4,53,1
-2017,January,5971,4513,CenturyLink Field,outdoors,fieldturf,4,4,38,7
-2017,January,5972,4514,Heinz Field,outdoors,grass,3,3,17,16
-2017,January,5972,4515,Lambeau Field,outdoors,grass,3,3,14,7
-2017,January,5978,4517,Gillette Stadium,outdoors,fieldturf,5,5,28,6
-2017,January,5979,4519,Arrowhead Stadium,outdoors,grass,7,7,33,9
-2017,January,5986,4521,Gillette Stadium,outdoors,fieldturf,4,4,41,10
-2017,September,6213,4523,Gillette Stadium,outdoors,fieldturf,2,2,63,8
-2017,September,6216,4524,New Era Field,outdoors,a_turf,2,3,65,6
-2017,September,6216,4525,Soldier Field,outdoors,grass,4,4,64,10
-2017,September,6216,4526,Paul Brown Stadium,outdoors,fieldturf,2,2,68,9
-2017,September,6216,4527,FirstEnergy Stadium,outdoors,grass,1,1,63,11
-2017,September,6216,4530,Nissan Stadium,outdoors,grass,7,8,72,7
-2017,September,6216,4531,FedExField,outdoors,grass,4,4,67,5
-2017,September,6216,4532,Los Angeles Memorial Coliseum,outdoors,grass,4,5,90,2
-2017,September,6216,4533,Lambeau Field,outdoors,grass,4,4,71,11
-2017,September,6216,4534,Levi's Stadium,outdoors,grass,4,4,87,8
-2017,September,6217,4537,Sports Authority Field at Mile High,outdoors,grass,1,3,73,12
-2017,September,6220,4538,Paul Brown Stadium,outdoors,fieldturf,5,5,69,2
-2017,September,6223,4539,Bank of America Stadium,outdoors,grass,4,4,83,5
-2017,September,6223,4541,EverBank Field,outdoors,grass,4,4,84,10
-2017,September,6223,4542,Arrowhead Stadium,outdoors,grass,4,5,68,7
-2017,September,6223,4544,Heinz Field,outdoors,grass,5,5,78,1
-2017,September,6223,4545,M&T Bank Stadium,outdoors,grass,2,3,80,2
-2017,September,6223,4546,Raymond James Stadium,outdoors,grass,3,3,88,7
-2017,September,6223,4547,Oakland-Alameda County Coliseum,outdoors,grass,3,3,70,6
-2017,September,6223,4548,StubHub Center,outdoors,grass,5,7,71,7
-2017,September,6223,4549,Sports Authority Field at Mile High,outdoors,grass,1,2,72,5
-2017,September,6223,4550,Los Angeles Memorial Coliseum,outdoors,grass,4,5,74,3
-2017,September,6223,4551,CenturyLink Field,outdoors,fieldturf,5,5,65,12
-2017,September,6224,4553,MetLife Stadium,outdoors,fieldturf,2,2,72,5
-2017,September,6227,4554,Levi's Stadium,outdoors,grass,4,4,68,13
-2017,September,6230,4555,Wembley Stadium,outdoors,grass,3,3,70,10
-2017,September,6230,4556,New Era Field,outdoors,a_turf,7,7,83,5
-2017,September,6230,4557,Bank of America Stadium,outdoors,grass,4,5,82,6
-2017,September,6230,4558,Soldier Field,outdoors,grass,2,4,89,5
-2017,September,6230,4562,Gillette Stadium,outdoors,fieldturf,4,4,84,4
-2017,September,6230,4563,MetLife Stadium,outdoors,fieldturf,2,3,88,5
-2017,September,6230,4564,Lincoln Financial Field,outdoors,grass,3,4,89,6
-2017,September,6230,4565,Nissan Stadium,outdoors,grass,4,4,88,4
-2017,September,6230,4566,Lambeau Field,outdoors,grass,3,4,89,8
-2017,September,6230,4567,StubHub Center,outdoors,grass,2,2,84,5
-2017,September,6230,4568,FedExField,outdoors,grass,3,4,76,0
-2017,September,6234,4570,Lambeau Field,outdoors,grass,0,1,65,5
-2017,October,6238,4571,Wembley Stadium,outdoors,grass,2,3,63,13
-2017,October,6238,4573,FirstEnergy Stadium,outdoors,grass,1,2,63,6
-2017,October,6238,4577,Gillette Stadium,outdoors,fieldturf,5,5,61,6
-2017,October,6238,4578,MetLife Stadium,outdoors,fieldturf,5,7,64,5
-2017,October,6238,4579,M&T Bank Stadium,outdoors,grass,3,5,64,6
-2017,October,6238,4581,StubHub Center,outdoors,grass,5,5,72,6
-2017,October,6238,4582,Raymond James Stadium,outdoors,grass,3,6,91,8
-2017,October,6238,4583,Sports Authority Field at Mile High,outdoors,grass,4,5,72,7
-2017,October,6238,4584,CenturyLink Field,outdoors,fieldturf,2,3,61,8
-2017,October,6239,4585,Arrowhead Stadium,outdoors,grass,5,6,82,14
-2017,October,6242,4586,Raymond James Stadium,outdoors,grass,4,7,76,9
-2017,October,6245,4587,Paul Brown Stadium,outdoors,fieldturf,5,5,63,10
-2017,October,6245,4588,FirstEnergy Stadium,outdoors,grass,1,3,67,8
-2017,October,6245,4591,Hard Rock Stadium,outdoors,grass,2,2,89,9
-2017,October,6245,4592,MetLife Stadium,outdoors,fieldturf,2,2,76,7
-2017,October,6245,4593,Lincoln Financial Field,outdoors,grass,2,3,77,10
-2017,October,6245,4594,Heinz Field,outdoors,grass,4,4,73,9
-2017,October,6245,4595,Oakland-Alameda County Coliseum,outdoors,grass,4,4,72,8
-2017,October,6245,4596,Los Angeles Memorial Coliseum,outdoors,grass,4,5,78,0
-2017,October,6246,4599,Soldier Field,outdoors,grass,2,2,70,10
-2017,October,6249,4600,Bank of America Stadium,outdoors,grass,5,5,72,6
-2017,October,6252,4605,MetLife Stadium,outdoors,fieldturf,2,3,73,13
-2017,October,6252,4606,M&T Bank Stadium,outdoors,grass,5,5,69,7
-2017,October,6252,4607,FedExField,outdoors,grass,3,4,68,4
-2017,October,6252,4609,EverBank Field,outdoors,grass,3,5,88,10
-2017,October,6252,4610,Arrowhead Stadium,outdoors,grass,3,3,60,14
-2017,October,6252,4611,Oakland-Alameda County Coliseum,outdoors,grass,2,3,76,9
-2017,October,6252,4612,Sports Authority Field at Mile High,outdoors,grass,4,7,61,4
-2017,October,6253,4613,Nissan Stadium,outdoors,grass,8,8,57,7
-2017,October,6256,4614,Oakland-Alameda County Coliseum,outdoors,grass,4,6,62,1
-2017,October,6259,4615,New Era Field,outdoors,a_turf,5,6,74,9
-2017,October,6259,4616,Soldier Field,outdoors,grass,2,3,70,15
-2017,October,6259,4617,FirstEnergy Stadium,outdoors,grass,7,8,74,12
-2017,October,6259,4619,Lambeau Field,outdoors,grass,3,4,52,10
-2017,October,6259,4620,Hard Rock Stadium,outdoors,grass,1,1,86,18
-2017,October,6259,4622,Twickenham Stadium,outdoors,grass,4,5,54,10
-2017,October,6259,4623,Levi's Stadium,outdoors,grass,1,1,68,10
-2017,October,6259,4624,MetLife Stadium,outdoors,fieldturf,1,2,75,7
-2017,October,6259,4625,Heinz Field,outdoors,grass,5,5,79,6
-2017,October,6259,4626,StubHub Center,outdoors,grass,0,0,90,4
-2017,October,6259,4627,Gillette Stadium,outdoors,fieldturf,3,5,56,2
-2017,October,6260,4628,Lincoln Financial Field,outdoors,grass,3,4,70,9
-2017,October,6263,4629,M&T Bank Stadium,outdoors,grass,2,4,56,9
-2017,October,6266,4630,Twickenham Stadium,outdoors,grass,5,6,56,11
-2017,October,6266,4631,New Era Field,outdoors,a_turf,2,2,42,7
-2017,October,6266,4632,Paul Brown Stadium,outdoors,fieldturf,4,5,39,9
-2017,October,6266,4634,Gillette Stadium,outdoors,fieldturf,4,7,62,8
-2017,October,6266,4635,MetLife Stadium,outdoors,fieldturf,6,8,63,5
-2017,October,6266,4636,Lincoln Financial Field,outdoors,grass,3,4,67,12
-2017,October,6266,4637,Raymond James Stadium,outdoors,grass,2,2,63,13
-2017,October,6266,4638,CenturyLink Field,outdoors,fieldturf,3,3,50,2
-2017,October,6266,4639,FedExField,outdoors,grass,6,8,60,4
-2017,October,6267,4641,Arrowhead Stadium,outdoors,grass,7,7,44,12
-2017,November,6269,4642,MetLife Stadium,outdoors,fieldturf,2,2,68,11
-2017,November,6272,4643,Bank of America Stadium,outdoors,grass,3,3,61,4
-2017,November,6272,4645,EverBank Field,outdoors,grass,3,3,78,12
-2017,November,6272,4647,MetLife Stadium,outdoors,fieldturf,4,5,56,6
-2017,November,6272,4648,Nissan Stadium,outdoors,grass,3,3,75,10
-2017,November,6272,4649,Lincoln Financial Field,outdoors,grass,4,4,61,5
-2017,November,6272,4650,CenturyLink Field,outdoors,fieldturf,1,4,36,11
-2017,November,6272,4651,Levi's Stadium,outdoors,grass,3,4,61,8
-2017,November,6272,4653,Hard Rock Stadium,outdoors,grass,3,3,77,2
-2017,November,6273,4654,Lambeau Field,outdoors,grass,4,6,35,3
-2017,November,6279,4656,New Era Field,outdoors,a_turf,3,3,42,2
-2017,November,6279,4657,Soldier Field,outdoors,grass,6,7,40,6
-2017,November,6279,4660,EverBank Field,outdoors,grass,3,3,76,5
-2017,November,6279,4661,Nissan Stadium,outdoors,grass,1,2,53,4
-2017,November,6279,4662,Raymond James Stadium,outdoors,grass,4,4,79,16
-2017,November,6279,4663,FedExField,outdoors,grass,4,4,44,4
-2017,November,6279,4664,Los Angeles Memorial Coliseum,outdoors,grass,4,5,68,0
-2017,November,6279,4666,Levi's Stadium,outdoors,grass,3,4,68,5
-2017,November,6279,4667,Sports Authority Field at Mile High,outdoors,grass,5,5,48,5
-2017,November,6280,4668,Bank of America Stadium,outdoors,grass,1,1,49,6
-2017,November,6283,4669,Heinz Field,outdoors,grass,5,6,40,17
-2017,November,6286,4670,Soldier Field,outdoors,grass,3,4,33,16
-2017,November,6286,4671,FirstEnergy Stadium,outdoors,grass,2,3,38,16
-2017,November,6286,4672,Lambeau Field,outdoors,grass,3,3,28,14
-2017,November,6286,4674,Hard Rock Stadium,outdoors,grass,5,6,81,9
-2017,November,6286,4677,MetLife Stadium,outdoors,fieldturf,5,5,50,23
-2017,November,6286,4678,StubHub Center,outdoors,grass,5,6,76,6
-2017,November,6286,4679,Sports Authority Field at Mile High,outdoors,grass,1,2,60,7
-2017,November,6286,4680,Azteca Stadium,outdoors,grass,4,4,66,0
-2017,November,6287,4682,CenturyLink Field,outdoors,fieldturf,5,6,45,6
-2017,November,6290,4685,FedExField,outdoors,grass,3,3,33,0
-2017,November,6293,4687,Paul Brown Stadium,outdoors,fieldturf,6,7,46,3
-2017,November,6293,4689,Arrowhead Stadium,outdoors,grass,4,5,62,9
-2017,November,6293,4690,Gillette Stadium,outdoors,fieldturf,1,1,47,17
-2017,November,6293,4691,MetLife Stadium,outdoors,fieldturf,5,5,47,23
-2017,November,6293,4692,Lincoln Financial Field,outdoors,grass,2,3,49,17
-2017,November,6293,4693,Levi's Stadium,outdoors,grass,3,4,66,12
-2017,November,6293,4695,Oakland-Alameda County Coliseum,outdoors,grass,0,1,61,13
-2017,November,6293,4696,Los Angeles Memorial Coliseum,outdoors,grass,6,7,72,1
-2017,November,6293,4697,Heinz Field,outdoors,grass,1,2,38,7
-2017,November,6294,4698,M&T Bank Stadium,outdoors,grass,6,6,50,1
-2017,December,6301,4701,New Era Field,outdoors,a_turf,4,4,48,13
-2017,December,6301,4702,Soldier Field,outdoors,grass,5,5,54,6
-2017,December,6301,4703,Lambeau Field,outdoors,grass,4,4,42,8
-2017,December,6301,4704,EverBank Field,outdoors,grass,4,4,70,7
-2017,December,6301,4705,Hard Rock Stadium,outdoors,grass,2,2,80,11
-2017,December,6301,4706,MetLife Stadium,outdoors,fieldturf,4,5,48,0
-2017,December,6301,4707,Nissan Stadium,outdoors,grass,3,6,60,4
-2017,December,6301,4708,M&T Bank Stadium,outdoors,grass,3,4,53,4
-2017,December,6301,4709,StubHub Center,outdoors,grass,5,6,68,7
-2017,December,6301,4712,Oakland-Alameda County Coliseum,outdoors,grass,2,2,58,11
-2017,December,6301,4713,CenturyLink Field,outdoors,fieldturf,2,2,44,3
-2017,December,6302,4714,Paul Brown Stadium,outdoors,fieldturf,5,5,61,9
-2017,December,6308,4716,New Era Field,outdoors,a_turf,0,2,32,15
-2017,December,6308,4717,Bank of America Stadium,outdoors,grass,4,5,41,5
-2017,December,6308,4718,Paul Brown Stadium,outdoors,fieldturf,2,2,31,11
-2017,December,6308,4719,FirstEnergy Stadium,outdoors,grass,0,0,29,24
-2017,December,6308,4721,Arrowhead Stadium,outdoors,grass,4,4,46,13
-2017,December,6308,4722,MetLife Stadium,outdoors,fieldturf,2,4,39,11
-2017,December,6308,4723,Raymond James Stadium,outdoors,grass,1,1,55,9
-2017,December,6308,4725,Sports Authority Field at Mile High,outdoors,grass,3,4,60,3
-2017,December,6308,4726,StubHub Center,outdoors,grass,3,3,81,4
-2017,December,6308,4728,Los Angeles Memorial Coliseum,outdoors,grass,3,3,83,0
-2017,December,6308,4729,Heinz Field,outdoors,grass,5,5,33,12
-2017,December,6309,4730,Hard Rock Stadium,outdoors,grass,4,4,55,7
-2017,December,6314,4733,Arrowhead Stadium,outdoors,grass,3,4,53,9
-2017,December,6315,4734,New Era Field,outdoors,a_turf,4,4,22,8
-2017,December,6315,4735,Bank of America Stadium,outdoors,grass,2,2,51,5
-2017,December,6315,4736,FirstEnergy Stadium,outdoors,grass,3,3,36,0
-2017,December,6315,4737,EverBank Field,outdoors,grass,1,1,72,5
-2017,December,6315,4740,MetLife Stadium,outdoors,fieldturf,3,4,35,0
-2017,December,6315,4741,FedExField,outdoors,grass,7,7,50,1
-2017,December,6315,4742,CenturyLink Field,outdoors,fieldturf,2,2,47,15
-2017,December,6315,4743,Heinz Field,outdoors,grass,3,3,42,4
-2017,December,6315,4744,Levi's Stadium,outdoors,grass,9,9,65,17
-2017,December,6315,4745,Oakland-Alameda County Coliseum,outdoors,grass,3,4,57,4
-2017,December,6316,4746,Raymond James Stadium,outdoors,grass,1,3,71,2
-2017,December,6321,4747,M&T Bank Stadium,outdoors,grass,6,8,63,14
-2017,December,6321,4748,Lambeau Field,outdoors,grass,3,3,10,6
-2017,December,6322,4749,Bank of America Stadium,outdoors,grass,7,8,55,6
-2017,December,6322,4750,Soldier Field,outdoors,grass,1,1,24,8
-2017,December,6322,4751,Paul Brown Stadium,outdoors,fieldturf,5,6,35,2
-2017,December,6322,4752,Arrowhead Stadium,outdoors,grass,7,9,23,15
-2017,December,6322,4754,Gillette Stadium,outdoors,fieldturf,6,7,35,7
-2017,December,6322,4755,MetLife Stadium,outdoors,fieldturf,0,1,40,6
-2017,December,6322,4756,Nissan Stadium,outdoors,grass,3,5,39,11
-2017,December,6322,4757,FedExField,outdoors,grass,3,3,43,7
-2017,December,6322,4758,Levi's Stadium,outdoors,grass,2,2,52,0
-2017,December,6323,4762,Lincoln Financial Field,outdoors,grass,3,5,29,15
-2017,December,6329,4766,Gillette Stadium,outdoors,fieldturf,3,4,13,14
-2017,December,6329,4767,MetLife Stadium,outdoors,fieldturf,3,4,16,16
-2017,December,6329,4768,Lincoln Financial Field,outdoors,grass,0,1,19,17
-2017,December,6329,4769,Heinz Field,outdoors,grass,1,1,11,3
-2017,December,6329,4771,Sports Authority Field at Mile High,outdoors,grass,3,3,17,4
-2017,December,6329,4772,Hard Rock Stadium,outdoors,grass,4,4,71,9
-2017,December,6329,4773,Nissan Stadium,outdoors,grass,4,4,23,5
-2017,December,6329,4774,Los Angeles Memorial Coliseum,outdoors,grass,4,4,67,3
-2017,December,6329,4775,M&T Bank Stadium,outdoors,grass,3,3,19,12
-2017,December,6329,4776,StubHub Center,outdoors,grass,2,3,62,2
-2017,December,6329,4777,CenturyLink Field,outdoors,fieldturf,5,6,40,7
-2017,December,6329,4778,Raymond James Stadium,outdoors,grass,2,2,71,3
-2018,January,6335,4779,Arrowhead Stadium,outdoors,grass,1,2,33,10
-2018,January,6335,4780,Los Angeles Memorial Coliseum,outdoors,grass,6,6,62,3
-2018,January,6336,4781,EverBank Field,outdoors,grass,2,2,53,18
-2018,January,6342,4783,Lincoln Financial Field,outdoors,grass,4,4,32,16
-2018,January,6342,4784,Gillette Stadium,outdoors,fieldturf,0,1,24,12
-2018,January,6343,4785,Heinz Field,outdoors,grass,1,1,18,2
-2018,January,6350,4787,Gillette Stadium,outdoors,fieldturf,3,3,48,3
-2018,January,6350,4788,Lincoln Financial Field,outdoors,grass,1,1,47,5
-2018,September,6577,4790,Lincoln Financial Field,outdoors,grass,3,3,81,8
-2018,September,6580,4791,FirstEnergy Stadium,outdoors,grass,0,2,58,11
-2018,September,6580,4793,Hard Rock Stadium,outdoors,grass,4,4,89,7
-2018,September,6580,4796,Gillette Stadium,outdoors,fieldturf,4,4,62,10
-2018,September,6580,4797,MetLife Stadium,outdoors,fieldturf,5,5,59,7
-2018,September,6580,4798,M&T Bank Stadium,outdoors,grass,3,4,61,12
-2018,September,6580,4799,StubHub Center,outdoors,grass,3,4,84,8
-2018,September,6580,4800,Bank of America Stadium,outdoors,grass,1,2,81,9
-2018,September,6580,4802,Sports Authority Field at Mile High,outdoors,grass,3,4,84,5
-2018,September,6580,4803,Lambeau Field,outdoors,grass,4,4,62,10
-2018,September,6581,4805,Oakland-Alameda County Coliseum,outdoors,grass,6,7,69,10
-2018,September,6584,4806,Paul Brown Stadium,outdoors,fieldturf,3,3,82,3
-2018,September,6587,4808,New Era Field,outdoors,a_turf,3,3,83,6
-2018,September,6587,4809,Lambeau Field,outdoors,grass,5,9,80,5
-2018,September,6587,4811,MetLife Stadium,outdoors,fieldturf,2,2,80,4
-2018,September,6587,4812,Nissan Stadium,outdoors,grass,3,4,81,12
-2018,September,6587,4813,Heinz Field,outdoors,grass,0,1,80,10
-2018,September,6587,4814,Raymond James Stadium,outdoors,grass,0,1,91,9
-2018,September,6587,4815,FedExField,outdoors,grass,3,4,71,5
-2018,September,6587,4816,Los Angeles Memorial Coliseum,outdoors,grass,1,1,86,2
-2018,September,6587,4817,Levi's Stadium,outdoors,grass,5,5,73,12
-2018,September,6587,4818,Sports Authority Field at Mile High,outdoors,grass,4,4,92,4
-2018,September,6587,4819,TIAA Bank Stadium,outdoors,grass,3,4,97,15
-2018,September,6588,4821,Soldier Field,outdoors,grass,2,2,79,2
-2018,September,6591,4822,FirstEnergy Stadium,outdoors,grass,3,3,83,11
-2018,September,6594,4824,Bank of America Stadium,outdoors,grass,1,2,80,3
-2018,September,6594,4826,TIAA Bank Stadium,outdoors,grass,5,6,89,10
-2018,September,6594,4827,Arrowhead Stadium,outdoors,grass,3,3,70,4
-2018,September,6594,4828,Hard Rock Stadium,outdoors,grass,2,2,90,7
-2018,September,6594,4830,Lincoln Financial Field,outdoors,grass,5,6,61,5
-2018,September,6594,4831,M&T Bank Stadium,outdoors,grass,2,3,61,5
-2018,September,6594,4832,FedExField,outdoors,grass,2,2,62,6
-2018,September,6594,4833,Los Angeles Memorial Coliseum,outdoors,grass,1,2,80,5
-2018,September,6594,4835,CenturyLink Field,outdoors,fieldturf,3,3,61,4
-2018,September,6595,4837,Raymond James Stadium,outdoors,grass,3,4,77,5
-2018,September,6598,4838,Los Angeles Memorial Coliseum,outdoors,grass,4,5,75,3
-2018,September,6601,4840,Soldier Field,outdoors,grass,3,3,66,5
-2018,September,6601,4843,Lambeau Field,outdoors,grass,3,3,49,9
-2018,September,6601,4844,TIAA Bank Stadium,outdoors,grass,5,5,86,10
-2018,September,6601,4845,Gillette Stadium,outdoors,fieldturf,1,1,65,6
-2018,September,6601,4846,Nissan Stadium,outdoors,grass,5,5,80,4
-2018,September,6601,4848,Oakland-Alameda County Coliseum,outdoors,grass,5,7,71,8
-2018,September,6601,4849,MetLife Stadium,outdoors,fieldturf,5,5,71,7
-2018,September,6601,4850,StubHub Center,outdoors,grass,5,6,78,9
-2018,September,6601,4851,Heinz Field,outdoors,grass,6,6,69,2
-2018,October,6603,4852,Sports Authority Field at Mile High,outdoors,grass,5,5,65,5
-2018,October,6606,4853,Gillette Stadium,outdoors,fieldturf,2,3,66,6
-2018,October,6609,4854,New Era Field,outdoors,a_turf,6,6,62,8
-2018,October,6609,4855,Bank of America Stadium,outdoors,grass,7,7,80,3
-2018,October,6609,4856,Paul Brown Stadium,outdoors,fieldturf,3,4,87,4
-2018,October,6609,4857,FirstEnergy Stadium,outdoors,grass,5,7,72,5
-2018,October,6609,4859,Arrowhead Stadium,outdoors,grass,3,3,58,5
-2018,October,6609,4860,MetLife Stadium,outdoors,fieldturf,3,4,77,7
-2018,October,6609,4861,Heinz Field,outdoors,grass,1,1,83,5
-2018,October,6609,4862,StubHub Center,outdoors,grass,3,5,75,10
-2018,October,6609,4863,Lincoln Financial Field,outdoors,grass,5,7,79,6
-2018,October,6609,4864,CenturyLink Field,outdoors,fieldturf,3,3,53,5
-2018,October,6609,4865,Levi's Stadium,outdoors,grass,0,1,79,15
-2018,October,6613,4868,MetLife Stadium,outdoors,fieldturf,4,6,70,3
-2018,October,6616,4870,Paul Brown Stadium,outdoors,fieldturf,2,2,51,6
-2018,October,6616,4871,FirstEnergy Stadium,outdoors,grass,3,3,51,9
-2018,October,6616,4873,Hard Rock Stadium,outdoors,grass,3,4,89,8
-2018,October,6616,4875,MetLife Stadium,outdoors,fieldturf,9,9,60,7
-2018,October,6616,4876,Wembley Stadium,outdoors,grass,3,4,52,10
-2018,October,6616,4877,FedExField,outdoors,grass,4,4,52,0
-2018,October,6616,4878,Sports Authority Field at Mile High,outdoors,grass,5,6,25,6
-2018,October,6616,4880,Nissan Stadium,outdoors,grass,0,0,66,4
-2018,October,6616,4881,Gillette Stadium,outdoors,fieldturf,9,9,45,0
-2018,October,6617,4882,Lambeau Field,outdoors,grass,7,7,37,5
-2018,October,6623,4884,Wembley Stadium,outdoors,grass,4,5,66,6
-2018,October,6623,4885,Soldier Field,outdoors,grass,2,2,44,9
-2018,October,6623,4887,TIAA Bank Stadium,outdoors,grass,2,2,68,15
-2018,October,6623,4888,Hard Rock Stadium,outdoors,grass,4,5,89,8
-2018,October,6623,4889,MetLife Stadium,outdoors,fieldturf,4,5,46,16
-2018,October,6623,4890,Lincoln Financial Field,outdoors,grass,1,2,49,19
-2018,October,6623,4891,Raymond James Stadium,outdoors,grass,2,3,79,7
-2018,October,6623,4892,M&T Bank Stadium,outdoors,grass,2,2,54,15
-2018,October,6623,4893,Levi's Stadium,outdoors,grass,4,4,62,5
-2018,October,6623,4894,FedExField,outdoors,grass,3,4,52,12
-2018,October,6623,4895,Arrowhead Stadium,outdoors,grass,2,3,59,10
-2018,October,6630,4898,Wembley Stadium,outdoors,grass,5,5,48,12
-2018,October,6630,4899,Bank of America Stadium,outdoors,grass,3,3,61,10
-2018,October,6630,4900,Soldier Field,outdoors,grass,2,3,48,18
-2018,October,6630,4901,Paul Brown Stadium,outdoors,fieldturf,3,3,55,7
-2018,October,6630,4903,Arrowhead Stadium,outdoors,grass,2,3,56,12
-2018,October,6630,4904,MetLife Stadium,outdoors,fieldturf,4,5,51,11
-2018,October,6630,4905,Heinz Field,outdoors,grass,3,4,47,11
-2018,October,6630,4906,Oakland-Alameda County Coliseum,outdoors,grass,2,2,69,8
-2018,October,6630,4908,Los Angeles Memorial Coliseum,outdoors,grass,4,4,82,1
-2018,October,6631,4910,New Era Field,outdoors,a_turf,6,7,46,16
-2018,November,6633,4911,Levi's Stadium,outdoors,grass,3,4,82,8
-2018,November,6636,4912,New Era Field,outdoors,a_turf,3,3,49,12
-2018,November,6636,4913,Bank of America Stadium,outdoors,grass,0,0,62,8
-2018,November,6636,4914,FirstEnergy Stadium,outdoors,grass,2,2,53,16
-2018,November,6636,4915,Hard Rock Stadium,outdoors,grass,4,5,87,16
-2018,November,6636,4917,M&T Bank Stadium,outdoors,grass,4,4,55,6
-2018,November,6636,4918,FedExField,outdoors,grass,1,1,55,5
-2018,November,6636,4919,Sports Authority Field at Mile High,outdoors,grass,3,5,53,3
-2018,November,6636,4920,CenturyLink Field,outdoors,fieldturf,1,3,56,4
-2018,November,6636,4922,Gillette Stadium,outdoors,fieldturf,2,2,40,2
-2018,November,6640,4924,Heinz Field,outdoors,grass,1,1,40,4
-2018,November,6643,4925,Soldier Field,outdoors,grass,1,3,37,12
-2018,November,6643,4926,Paul Brown Stadium,outdoors,fieldturf,3,3,39,6
-2018,November,6643,4927,FirstEnergy Stadium,outdoors,grass,1,1,36,9
-2018,November,6643,4929,Arrowhead Stadium,outdoors,grass,2,2,43,5
-2018,November,6643,4930,MetLife Stadium,outdoors,fieldturf,3,3,46,10
-2018,November,6643,4931,Nissan Stadium,outdoors,grass,3,4,46,4
-2018,November,6643,4932,Raymond James Stadium,outdoors,grass,4,6,82,3
-2018,November,6643,4933,Oakland-Alameda County Coliseum,outdoors,grass,4,4,69,16
-2018,November,6643,4934,Lambeau Field,outdoors,grass,5,5,33,6
-2018,November,6643,4935,Los Angeles Memorial Coliseum,outdoors,grass,4,4,75,1
-2018,November,6643,4936,Lincoln Financial Field,outdoors,grass,4,5,38,5
-2018,November,6644,4937,Levi's Stadium,outdoors,grass,5,5,62,0
-2018,November,6647,4938,CenturyLink Field,outdoors,fieldturf,3,4,54,6
-2018,November,6650,4942,TIAA Bank Stadium,outdoors,grass,3,3,73,8
-2018,November,6650,4943,MetLife Stadium,outdoors,fieldturf,1,1,42,1
-2018,November,6650,4944,M&T Bank Stadium,outdoors,grass,3,4,48,8
-2018,November,6650,4945,FedExField,outdoors,grass,3,6,48,6
-2018,November,6650,4947,StubHub Center,outdoors,grass,4,4,69,4
-2018,November,6650,4949,Soldier Field,outdoors,grass,5,5,33,6
-2018,November,6651,4950,Los Angeles Memorial Coliseum,outdoors,grass,3,3,65,0
-2018,November,6657,4954,New Era Field,outdoors,a_turf,1,2,44,12
-2018,November,6657,4955,Bank of America Stadium,outdoors,grass,5,6,57,1
-2018,November,6657,4956,Paul Brown Stadium,outdoors,fieldturf,0,1,44,4
-2018,November,6657,4957,MetLife Stadium,outdoors,fieldturf,4,4,54,8
-2018,November,6657,4958,Lincoln Financial Field,outdoors,grass,6,6,56,10
-2018,November,6657,4959,M&T Bank Stadium,outdoors,grass,3,3,60,7
-2018,November,6657,4960,Raymond James Stadium,outdoors,grass,3,3,77,7
-2018,November,6657,4961,StubHub Center,outdoors,grass,2,3,74,3
-2018,November,6657,4963,Sports Authority Field at Mile High,outdoors,grass,2,3,41,7
-2018,December,6665,4968,Paul Brown Stadium,outdoors,fieldturf,2,3,63,12
-2018,December,6665,4970,Lambeau Field,outdoors,grass,3,4,34,20
-2018,December,6665,4972,TIAA Bank Stadium,outdoors,grass,2,2,78,13
-2018,December,6665,4973,Hard Rock Stadium,outdoors,grass,1,2,86,15
-2018,December,6665,4974,MetLife Stadium,outdoors,fieldturf,5,5,52,3
-2018,December,6665,4975,Raymond James Stadium,outdoors,grass,2,2,81,15
-2018,December,6665,4976,Nissan Stadium,outdoors,grass,7,7,70,13
-2018,December,6665,4977,Oakland-Alameda County Coliseum,outdoors,grass,4,4,57,6
-2018,December,6665,4978,Gillette Stadium,outdoors,fieldturf,2,4,53,6
-2018,December,6665,4979,CenturyLink Field,outdoors,fieldturf,2,2,45,2
-2018,December,6665,4980,Heinz Field,outdoors,grass,2,3,57,8
-2018,December,6666,4981,Lincoln Financial Field,outdoors,grass,4,4,36,15
-2018,December,6669,4982,Nissan Stadium,outdoors,grass,1,1,44,5
-2018,December,6672,4983,New Era Field,outdoors,a_turf,5,7,31,12
-2018,December,6672,4984,FirstEnergy Stadium,outdoors,grass,4,4,28,4
-2018,December,6672,4985,Lambeau Field,outdoors,grass,2,3,25,10
-2018,December,6672,4987,Arrowhead Stadium,outdoors,grass,3,5,27,0
-2018,December,6672,4988,Hard Rock Stadium,outdoors,grass,2,3,82,13
-2018,December,6672,4989,Raymond James Stadium,outdoors,grass,2,4,71,7
-2018,December,6672,4990,FedExField,outdoors,grass,2,2,33,6
-2018,December,6672,4992,Levi's Stadium,outdoors,grass,2,2,54,3
-2018,December,6672,4995,Oakland-Alameda County Coliseum,outdoors,grass,1,3,55,8
-2018,December,6672,4996,Soldier Field,outdoors,grass,4,6,29,4
-2018,December,6673,4997,CenturyLink Field,outdoors,fieldturf,2,3,48,9
-2018,December,6676,4998,Arrowhead Stadium,outdoors,grass,0,0,39,5
-2018,December,6678,4999,MetLife Stadium,outdoors,fieldturf,6,6,51,8
-2018,December,6678,5000,Sports Authority Field at Mile High,outdoors,grass,4,4,46,0
-2018,December,6679,5002,New Era Field,outdoors,a_turf,0,1,39,7
-2018,December,6679,5003,Soldier Field,outdoors,grass,4,4,45,10
-2018,December,6679,5004,Paul Brown Stadium,outdoors,fieldturf,6,6,43,2
-2018,December,6679,5006,TIAA Bank Stadium,outdoors,grass,5,5,64,12
-2018,December,6679,5008,MetLife Stadium,outdoors,fieldturf,1,2,40,6
-2018,December,6679,5009,M&T Bank Stadium,outdoors,grass,4,4,43,10
-2018,December,6679,5010,Levi's Stadium,outdoors,grass,5,5,61,11
-2018,December,6679,5011,Heinz Field,outdoors,grass,2,3,42,5
-2018,December,6679,5012,Los Angeles Memorial Coliseum,outdoors,grass,6,7,60,5
-2018,December,6680,5013,Bank of America Stadium,outdoors,grass,2,2,48,3
-2018,December,6685,5014,Nissan Stadium,outdoors,grass,5,5,51,9
-2018,December,6685,5015,StubHub Center,outdoors,grass,4,6,60,5
-2018,December,6686,5016,Bank of America Stadium,outdoors,grass,2,2,52,7
-2018,December,6686,5017,FirstEnergy Stadium,outdoors,grass,3,3,37,9
-2018,December,6686,5021,Hard Rock Stadium,outdoors,grass,1,3,73,9
-2018,December,6686,5022,Gillette Stadium,outdoors,fieldturf,3,4,40,12
-2018,December,6686,5023,MetLife Stadium,outdoors,fieldturf,4,5,43,8
-2018,December,6686,5024,Lincoln Financial Field,outdoors,grass,3,3,44,5
-2018,December,6686,5026,Levi's Stadium,outdoors,grass,3,4,50,5
-2018,December,6686,5028,CenturyLink Field,outdoors,fieldturf,4,5,43,8
-2018,December,6687,5029,Oakland-Alameda County Coliseum,outdoors,grass,2,3,58,14
-2018,December,6693,5030,New Era Field,outdoors,a_turf,1,2,33,9
-2018,December,6693,5031,Lambeau Field,outdoors,grass,1,1,26,15
-2018,December,6693,5034,Gillette Stadium,outdoors,fieldturf,2,2,33,2
-2018,December,6693,5035,MetLife Stadium,outdoors,fieldturf,2,3,37,2
-2018,December,6693,5036,Raymond James Stadium,outdoors,grass,4,4,80,5
-2018,December,6693,5037,Sports Authority Field at Mile High,outdoors,grass,1,1,51,6
-2018,December,6693,5038,Arrowhead Stadium,outdoors,grass,1,1,45,15
-2018,December,6693,5040,Heinz Field,outdoors,grass,5,5,42,9
-2018,December,6693,5041,Los Angeles Memorial Coliseum,outdoors,grass,3,3,65,3
-2018,December,6693,5042,M&T Bank Stadium,outdoors,grass,5,6,48,2
-2018,December,6693,5043,CenturyLink Field,outdoors,fieldturf,5,5,45,5
-2018,December,6693,5044,FedExField,outdoors,grass,1,1,46,3
-2018,December,6693,5045,Nissan Stadium,outdoors,grass,3,3,53,4
-2019,January,6700,5048,M&T Bank Stadium,outdoors,grass,6,8,52,12
-2019,January,6700,5049,Soldier Field,outdoors,grass,4,5,39,12
-2019,January,6706,5050,Arrowhead Stadium,outdoors,grass,1,2,32,13
-2019,January,6706,5051,Los Angeles Memorial Coliseum,outdoors,grass,3,4,57,1
-2019,January,6707,5052,Gillette Stadium,outdoors,fieldturf,2,2,26,3
-2019,January,6714,5055,Arrowhead Stadium,outdoors,grass,2,2,19,14
+2016,October,5903,4375,Soldier Field,outdoors,grass,3,3,58,N/A,12,0
+2016,November,5905,4376,Raymond James Stadium,outdoors,grass,3,3,76,N/A,2,N/A
+2016,November,5908,4377,FirstEnergy Stadium,outdoors,grass,1,2,58,N/A,4,N/A
+2016,November,5908,4378,Arrowhead Stadium,outdoors,grass,4,5,62,N/A,7,N/A
+2016,November,5908,4379,Hard Rock Stadium,outdoors,grass,5,5,80,N/A,14,N/A
+2016,November,5908,4381,MetLife Stadium,outdoors,fieldturf,3,4,56,N/A,9,N/A
+2016,November,5908,4382,M&T Bank Stadium,outdoors,grass,2,2,65,N/A,15,N/A
+2016,November,5908,4383,Los Angeles Memorial Coliseum,outdoors,grass,3,6,75,N/A,2,N/A
+2016,November,5908,4384,Levi's Stadium,outdoors,grass,5,6,70,N/A,0,N/A
+2016,November,5908,4385,Lambeau Field,outdoors,grass,3,4,68,N/A,7,N/A
+2016,November,5908,4386,Qualcomm Stadium,outdoors,grass,3,3,76,N/A,6,N/A
+2016,November,5908,4387,Oakland-Alameda County Coliseum,outdoors,grass,5,6,65,N/A,6,N/A
+2016,November,5909,4388,CenturyLink Field,outdoors,fieldturf,2,3,61,N/A,4,N/A
+2016,November,5912,4389,M&T Bank Stadium,outdoors,grass,2,2,54,N/A,3,N/A
+2016,November,5915,4390,Bank of America Stadium,outdoors,grass,5,5,45,N/A,6,N/A
+2016,November,5915,4391,EverBank Field,outdoors,grass,3,5,69,N/A,10,N/A
+2016,November,5915,4393,MetLife Stadium,outdoors,fieldturf,3,3,62,N/A,7,N/A
+2016,November,5915,4394,Nissan Stadium,outdoors,grass,4,4,56,N/A,3,N/A
+2016,November,5915,4395,Lincoln Financial Field,outdoors,grass,6,9,58,N/A,10,N/A
+2016,November,5915,4396,Raymond James Stadium,outdoors,grass,3,3,81,N/A,4,N/A
+2016,November,5915,4397,FedExField,outdoors,grass,4,4,58,N/A,7,N/A
+2016,November,5915,4398,Qualcomm Stadium,outdoors,grass,2,2,85,N/A,11,N/A
+2016,November,5915,4400,Heinz Field,outdoors,grass,5,6,56,N/A,7,N/A
+2016,November,5915,4401,Gillette Stadium,outdoors,fieldturf,5,5,43,N/A,3,N/A
+2016,November,5916,4402,MetLife Stadium,outdoors,fieldturf,2,2,56,N/A,2,N/A
+2016,November,5919,4403,Bank of America Stadium,outdoors,grass,5,6,63,N/A,6,N/A
+2016,November,5922,4404,Paul Brown Stadium,outdoors,fieldturf,3,3,36,N/A,8,N/A
+2016,November,5922,4405,FirstEnergy Stadium,outdoors,grass,4,4,36,N/A,27,N/A
+2016,November,5922,4409,Arrowhead Stadium,outdoors,grass,5,5,46,N/A,9,N/A
+2016,November,5922,4411,MetLife Stadium,outdoors,fieldturf,2,3,41,N/A,10,N/A
+2016,November,5922,4412,Los Angeles Memorial Coliseum,outdoors,grass,1,2,63,N/A,3,N/A
+2016,November,5922,4413,CenturyLink Field,outdoors,fieldturf,2,3,54,N/A,5,N/A
+2016,November,5922,4414,Levi's Stadium,outdoors,grass,2,2,64,N/A,6,N/A
+2016,November,5922,4415,FedExField,outdoors,grass,2,3,38,N/A,23,N/A
+2016,November,5923,4416,Azteca Stadium,outdoors,grass,4,4,63,N/A,6,N/A
+2016,November,5929,4421,New Era Field,outdoors,a_turf,0,0,42,N/A,13,N/A
+2016,November,5929,4422,Soldier Field,outdoors,grass,2,2,40,N/A,11,N/A
+2016,November,5929,4423,FirstEnergy Stadium,outdoors,grass,2,2,48,N/A,10,N/A
+2016,November,5929,4425,Hard Rock Stadium,outdoors,grass,2,2,79,N/A,13,N/A
+2016,November,5929,4427,M&T Bank Stadium,outdoors,grass,6,6,50,N/A,12,N/A
+2016,November,5929,4428,Raymond James Stadium,outdoors,grass,1,2,81,N/A,6,N/A
+2016,November,5929,4429,MetLife Stadium,outdoors,fieldturf,4,6,47,N/A,10,N/A
+2016,November,5929,4430,Oakland-Alameda County Coliseum,outdoors,grass,2,2,59,N/A,12,N/A
+2016,November,5929,4431,Sports Authority Field at Mile High,outdoors,grass,4,5,44,N/A,21,N/A
+2016,November,5930,4432,Lincoln Financial Field,outdoors,grass,4,4,47,N/A,7,N/A
+2016,December,5937,4435,Soldier Field,outdoors,grass,3,3,33,N/A,5,N/A
+2016,December,5937,4436,Paul Brown Stadium,outdoors,fieldturf,4,5,42,N/A,10,N/A
+2016,December,5937,4437,Lambeau Field,outdoors,grass,0,0,32,N/A,8,N/A
+2016,December,5937,4438,EverBank Field,outdoors,grass,3,3,70,N/A,10,N/A
+2016,December,5937,4440,Gillette Stadium,outdoors,fieldturf,5,5,39,N/A,8,N/A
+2016,December,5937,4441,M&T Bank Stadium,outdoors,grass,1,2,47,N/A,3,N/A
+2016,December,5937,4442,Oakland-Alameda County Coliseum,outdoors,grass,4,4,59,N/A,4,N/A
+2016,December,5937,4444,Heinz Field,outdoors,grass,3,3,43,N/A,7,N/A
+2016,December,5937,4445,Qualcomm Stadium,outdoors,grass,2,4,72,N/A,7,N/A
+2016,December,5937,4446,CenturyLink Field,outdoors,fieldturf,4,4,37,N/A,4,N/A
+2016,December,5938,4447,MetLife Stadium,outdoors,fieldturf,3,3,45,N/A,6,N/A
+2016,December,5941,4448,Arrowhead Stadium,outdoors,grass,2,2,21,N/A,7,N/A
+2016,December,5944,4449,New Era Field,outdoors,a_turf,2,2,27,N/A,9,N/A
+2016,December,5944,4450,Bank of America Stadium,outdoors,grass,5,5,37,N/A,6,N/A
+2016,December,5944,4451,FirstEnergy Stadium,outdoors,grass,2,3,28,N/A,15,N/A
+2016,December,5944,4454,EverBank Field,outdoors,grass,7,9,71,N/A,5,N/A
+2016,December,5944,4455,Hard Rock Stadium,outdoors,grass,2,3,77,N/A,18,N/A
+2016,December,5944,4456,Nissan Stadium,outdoors,grass,3,3,50,N/A,5,N/A
+2016,December,5944,4457,Lincoln Financial Field,outdoors,grass,3,4,35,N/A,3,N/A
+2016,December,5944,4458,Levi's Stadium,outdoors,grass,4,6,54,N/A,8,N/A
+2016,December,5944,4459,Lambeau Field,outdoors,grass,2,3,26,N/A,5,N/A
+2016,December,5944,4460,Los Angeles Memorial Coliseum,outdoors,grass,0,0,65,N/A,1,N/A
+2016,December,5944,4461,Raymond James Stadium,outdoors,grass,6,6,79,N/A,9,N/A
+2016,December,5944,4462,MetLife Stadium,outdoors,fieldturf,1,2,32,N/A,0,N/A
+2016,December,5945,4463,Gillette Stadium,outdoors,fieldturf,3,4,31,N/A,3,N/A
+2016,December,5948,4464,CenturyLink Field,outdoors,fieldturf,2,2,36,N/A,5,N/A
+2016,December,5950,4465,MetLife Stadium,outdoors,fieldturf,2,2,35,N/A,5,N/A
+2016,December,5951,4466,New Era Field,outdoors,a_turf,4,4,26,N/A,15,N/A
+2016,December,5951,4467,Soldier Field,outdoors,grass,5,5,11,N/A,12,N/A
+2016,December,5951,4468,Paul Brown Stadium,outdoors,fieldturf,8,8,24,N/A,8,N/A
+2016,December,5951,4470,Arrowhead Stadium,outdoors,grass,3,3,1,N/A,5,N/A
+2016,December,5951,4472,MetLife Stadium,outdoors,fieldturf,3,3,55,N/A,1,N/A
+2016,December,5951,4473,M&T Bank Stadium,outdoors,grass,6,6,62,N/A,9,N/A
+2016,December,5951,4476,Sports Authority Field at Mile High,outdoors,grass,4,4,18,N/A,9,N/A
+2016,December,5951,4477,Qualcomm Stadium,outdoors,grass,5,5,62,N/A,5,N/A
+2016,December,5952,4479,FedExField,outdoors,grass,7,8,32,N/A,8,N/A
+2016,December,5955,4480,Lincoln Financial Field,outdoors,grass,5,5,40,N/A,10,N/A
+2016,December,5957,4481,New Era Field,outdoors,a_turf,3,6,38,N/A,13,N/A
+2016,December,5957,4482,Bank of America Stadium,outdoors,grass,7,8,56,N/A,5,N/A
+2016,December,5957,4483,Soldier Field,outdoors,grass,2,3,37,N/A,1,N/A
+2016,December,5957,4484,FirstEnergy Stadium,outdoors,grass,3,5,38,N/A,13,N/A
+2016,December,5957,4485,Lambeau Field,outdoors,grass,3,3,37,N/A,8,N/A
+2016,December,5957,4486,EverBank Field,outdoors,grass,5,5,67,N/A,5,N/A
+2016,December,5957,4487,Gillette Stadium,outdoors,fieldturf,3,4,40,N/A,6,N/A
+2016,December,5957,4488,Oakland-Alameda County Coliseum,outdoors,grass,1,1,50,N/A,9,N/A
+2016,December,5957,4490,Los Angeles Memorial Coliseum,outdoors,grass,0,0,59,N/A,6,N/A
+2016,December,5957,4491,CenturyLink Field,outdoors,fieldturf,3,5,39,N/A,2,N/A
+2016,December,5958,4493,Heinz Field,outdoors,grass,5,5,41,N/A,9,N/A
+2016,December,5958,4494,Arrowhead Stadium,outdoors,grass,3,4,53,N/A,9,N/A
+2017,January,5965,4496,Paul Brown Stadium,outdoors,fieldturf,3,3,40,N/A,6,N/A
+2017,January,5965,4498,Hard Rock Stadium,outdoors,grass,2,3,80,N/A,15,N/A
+2017,January,5965,4500,MetLife Stadium,outdoors,fieldturf,4,4,42,N/A,11,N/A
+2017,January,5965,4501,Nissan Stadium,outdoors,grass,2,3,52,N/A,7,N/A
+2017,January,5965,4502,Lincoln Financial Field,outdoors,grass,4,5,50,N/A,10,N/A
+2017,January,5965,4503,Heinz Field,outdoors,grass,1,2,41,N/A,1,N/A
+2017,January,5965,4504,Raymond James Stadium,outdoors,grass,2,7,81,N/A,6,N/A
+2017,January,5965,4506,Sports Authority Field at Mile High,outdoors,grass,1,2,45,N/A,9,N/A
+2017,January,5965,4507,Los Angeles Memorial Coliseum,outdoors,grass,5,5,59,N/A,0,N/A
+2017,January,5965,4508,Qualcomm Stadium,outdoors,grass,5,5,59,N/A,10,N/A
+2017,January,5965,4509,Levi's Stadium,outdoors,grass,4,4,54,N/A,5,N/A
+2017,January,5965,4510,FedExField,outdoors,grass,3,4,53,N/A,1,N/A
+2017,January,5971,4513,CenturyLink Field,outdoors,fieldturf,4,4,38,N/A,7,N/A
+2017,January,5972,4514,Heinz Field,outdoors,grass,3,3,17,N/A,16,N/A
+2017,January,5972,4515,Lambeau Field,outdoors,grass,3,3,14,N/A,7,N/A
+2017,January,5978,4517,Gillette Stadium,outdoors,fieldturf,5,5,28,N/A,6,N/A
+2017,January,5979,4519,Arrowhead Stadium,outdoors,grass,7,7,33,N/A,9,N/A
+2017,January,5986,4521,Gillette Stadium,outdoors,fieldturf,4,4,41,N/A,10,N/A
+2017,September,6213,4523,Gillette Stadium,outdoors,fieldturf,2,2,63,N/A,8,N/A
+2017,September,6216,4524,New Era Field,outdoors,a_turf,2,3,65,N/A,6,N/A
+2017,September,6216,4525,Soldier Field,outdoors,grass,4,4,64,N/A,10,N/A
+2017,September,6216,4526,Paul Brown Stadium,outdoors,fieldturf,2,2,68,N/A,9,N/A
+2017,September,6216,4527,FirstEnergy Stadium,outdoors,grass,1,1,63,N/A,11,N/A
+2017,September,6216,4530,Nissan Stadium,outdoors,grass,7,8,72,N/A,7,N/A
+2017,September,6216,4531,FedExField,outdoors,grass,4,4,67,N/A,5,N/A
+2017,September,6216,4532,Los Angeles Memorial Coliseum,outdoors,grass,4,5,90,N/A,2,N/A
+2017,September,6216,4533,Lambeau Field,outdoors,grass,4,4,71,N/A,11,N/A
+2017,September,6216,4534,Levi's Stadium,outdoors,grass,4,4,87,N/A,8,N/A
+2017,September,6217,4537,Sports Authority Field at Mile High,outdoors,grass,1,3,73,N/A,12,N/A
+2017,September,6220,4538,Paul Brown Stadium,outdoors,fieldturf,5,5,69,N/A,2,N/A
+2017,September,6223,4539,Bank of America Stadium,outdoors,grass,4,4,83,N/A,5,N/A
+2017,September,6223,4541,EverBank Field,outdoors,grass,4,4,84,N/A,10,N/A
+2017,September,6223,4542,Arrowhead Stadium,outdoors,grass,4,5,68,N/A,7,N/A
+2017,September,6223,4544,Heinz Field,outdoors,grass,5,5,78,N/A,1,N/A
+2017,September,6223,4545,M&T Bank Stadium,outdoors,grass,2,3,80,N/A,2,N/A
+2017,September,6223,4546,Raymond James Stadium,outdoors,grass,3,3,88,N/A,7,N/A
+2017,September,6223,4547,Oakland-Alameda County Coliseum,outdoors,grass,3,3,70,N/A,6,N/A
+2017,September,6223,4548,StubHub Center,outdoors,grass,5,7,71,N/A,7,N/A
+2017,September,6223,4549,Sports Authority Field at Mile High,outdoors,grass,1,2,72,N/A,5,N/A
+2017,September,6223,4550,Los Angeles Memorial Coliseum,outdoors,grass,4,5,74,N/A,3,N/A
+2017,September,6223,4551,CenturyLink Field,outdoors,fieldturf,5,5,65,N/A,12,N/A
+2017,September,6224,4553,MetLife Stadium,outdoors,fieldturf,2,2,72,N/A,5,N/A
+2017,September,6227,4554,Levi's Stadium,outdoors,grass,4,4,68,N/A,13,N/A
+2017,September,6230,4555,Wembley Stadium,outdoors,grass,3,3,70,N/A,10,N/A
+2017,September,6230,4556,New Era Field,outdoors,a_turf,7,7,83,N/A,5,N/A
+2017,September,6230,4557,Bank of America Stadium,outdoors,grass,4,5,82,N/A,6,N/A
+2017,September,6230,4558,Soldier Field,outdoors,grass,2,4,89,N/A,5,N/A
+2017,September,6230,4562,Gillette Stadium,outdoors,fieldturf,4,4,84,N/A,4,N/A
+2017,September,6230,4563,MetLife Stadium,outdoors,fieldturf,2,3,88,N/A,5,N/A
+2017,September,6230,4564,Lincoln Financial Field,outdoors,grass,3,4,89,N/A,6,N/A
+2017,September,6230,4565,Nissan Stadium,outdoors,grass,4,4,88,N/A,4,N/A
+2017,September,6230,4566,Lambeau Field,outdoors,grass,3,4,89,N/A,8,N/A
+2017,September,6230,4567,StubHub Center,outdoors,grass,2,2,84,N/A,5,N/A
+2017,September,6230,4568,FedExField,outdoors,grass,3,4,76,N/A,0,N/A
+2017,September,6234,4570,Lambeau Field,outdoors,grass,0,1,65,N/A,5,N/A
+2017,October,6238,4571,Wembley Stadium,outdoors,grass,2,3,63,N/A,13,N/A
+2017,October,6238,4573,FirstEnergy Stadium,outdoors,grass,1,2,63,N/A,6,N/A
+2017,October,6238,4577,Gillette Stadium,outdoors,fieldturf,5,5,61,N/A,6,N/A
+2017,October,6238,4578,MetLife Stadium,outdoors,fieldturf,5,7,64,N/A,5,N/A
+2017,October,6238,4579,M&T Bank Stadium,outdoors,grass,3,5,64,N/A,6,N/A
+2017,October,6238,4581,StubHub Center,outdoors,grass,5,5,72,N/A,6,N/A
+2017,October,6238,4582,Raymond James Stadium,outdoors,grass,3,6,91,N/A,8,N/A
+2017,October,6238,4583,Sports Authority Field at Mile High,outdoors,grass,4,5,72,N/A,7,N/A
+2017,October,6238,4584,CenturyLink Field,outdoors,fieldturf,2,3,61,N/A,8,N/A
+2017,October,6239,4585,Arrowhead Stadium,outdoors,grass,5,6,82,N/A,14,N/A
+2017,October,6242,4586,Raymond James Stadium,outdoors,grass,4,7,76,N/A,9,N/A
+2017,October,6245,4587,Paul Brown Stadium,outdoors,fieldturf,5,5,63,N/A,10,N/A
+2017,October,6245,4588,FirstEnergy Stadium,outdoors,grass,1,3,67,N/A,8,N/A
+2017,October,6245,4591,Hard Rock Stadium,outdoors,grass,2,2,89,N/A,9,N/A
+2017,October,6245,4592,MetLife Stadium,outdoors,fieldturf,2,2,76,N/A,7,N/A
+2017,October,6245,4593,Lincoln Financial Field,outdoors,grass,2,3,77,N/A,10,N/A
+2017,October,6245,4594,Heinz Field,outdoors,grass,4,4,73,N/A,9,N/A
+2017,October,6245,4595,Oakland-Alameda County Coliseum,outdoors,grass,4,4,72,N/A,8,N/A
+2017,October,6245,4596,Los Angeles Memorial Coliseum,outdoors,grass,4,5,78,N/A,0,N/A
+2017,October,6246,4599,Soldier Field,outdoors,grass,2,2,70,N/A,10,N/A
+2017,October,6249,4600,Bank of America Stadium,outdoors,grass,5,5,72,N/A,6,N/A
+2017,October,6252,4605,MetLife Stadium,outdoors,fieldturf,2,3,73,N/A,13,N/A
+2017,October,6252,4606,M&T Bank Stadium,outdoors,grass,5,5,69,N/A,7,N/A
+2017,October,6252,4607,FedExField,outdoors,grass,3,4,68,N/A,4,N/A
+2017,October,6252,4609,EverBank Field,outdoors,grass,3,5,88,N/A,10,N/A
+2017,October,6252,4610,Arrowhead Stadium,outdoors,grass,3,3,60,N/A,14,N/A
+2017,October,6252,4611,Oakland-Alameda County Coliseum,outdoors,grass,2,3,76,N/A,9,N/A
+2017,October,6252,4612,Sports Authority Field at Mile High,outdoors,grass,4,7,61,N/A,4,N/A
+2017,October,6253,4613,Nissan Stadium,outdoors,grass,8,8,57,N/A,7,N/A
+2017,October,6256,4614,Oakland-Alameda County Coliseum,outdoors,grass,4,6,62,N/A,1,N/A
+2017,October,6259,4615,New Era Field,outdoors,a_turf,5,6,74,N/A,9,N/A
+2017,October,6259,4616,Soldier Field,outdoors,grass,2,3,70,N/A,15,N/A
+2017,October,6259,4617,FirstEnergy Stadium,outdoors,grass,7,8,74,N/A,12,N/A
+2017,October,6259,4619,Lambeau Field,outdoors,grass,3,4,52,N/A,10,N/A
+2017,October,6259,4620,Hard Rock Stadium,outdoors,grass,1,1,86,N/A,18,N/A
+2017,October,6259,4622,Twickenham Stadium,outdoors,grass,4,5,54,N/A,10,N/A
+2017,October,6259,4623,Levi's Stadium,outdoors,grass,1,1,68,N/A,10,N/A
+2017,October,6259,4624,MetLife Stadium,outdoors,fieldturf,1,2,75,N/A,7,N/A
+2017,October,6259,4625,Heinz Field,outdoors,grass,5,5,79,N/A,6,N/A
+2017,October,6259,4626,StubHub Center,outdoors,grass,0,0,90,N/A,4,N/A
+2017,October,6259,4627,Gillette Stadium,outdoors,fieldturf,3,5,56,N/A,2,N/A
+2017,October,6260,4628,Lincoln Financial Field,outdoors,grass,3,4,70,N/A,9,N/A
+2017,October,6263,4629,M&T Bank Stadium,outdoors,grass,2,4,56,N/A,9,N/A
+2017,October,6266,4630,Twickenham Stadium,outdoors,grass,5,6,56,N/A,11,N/A
+2017,October,6266,4631,New Era Field,outdoors,a_turf,2,2,42,N/A,7,N/A
+2017,October,6266,4632,Paul Brown Stadium,outdoors,fieldturf,4,5,39,N/A,9,N/A
+2017,October,6266,4634,Gillette Stadium,outdoors,fieldturf,4,7,62,N/A,8,N/A
+2017,October,6266,4635,MetLife Stadium,outdoors,fieldturf,6,8,63,N/A,5,N/A
+2017,October,6266,4636,Lincoln Financial Field,outdoors,grass,3,4,67,N/A,12,N/A
+2017,October,6266,4637,Raymond James Stadium,outdoors,grass,2,2,63,N/A,13,N/A
+2017,October,6266,4638,CenturyLink Field,outdoors,fieldturf,3,3,50,N/A,2,N/A
+2017,October,6266,4639,FedExField,outdoors,grass,6,8,60,N/A,4,N/A
+2017,October,6267,4641,Arrowhead Stadium,outdoors,grass,7,7,44,N/A,12,N/A
+2017,November,6269,4642,MetLife Stadium,outdoors,fieldturf,2,2,68,N/A,11,N/A
+2017,November,6272,4643,Bank of America Stadium,outdoors,grass,3,3,61,N/A,4,N/A
+2017,November,6272,4645,EverBank Field,outdoors,grass,3,3,78,N/A,12,N/A
+2017,November,6272,4647,MetLife Stadium,outdoors,fieldturf,4,5,56,N/A,6,N/A
+2017,November,6272,4648,Nissan Stadium,outdoors,grass,3,3,75,N/A,10,N/A
+2017,November,6272,4649,Lincoln Financial Field,outdoors,grass,4,4,61,N/A,5,N/A
+2017,November,6272,4650,CenturyLink Field,outdoors,fieldturf,1,4,36,N/A,11,N/A
+2017,November,6272,4651,Levi's Stadium,outdoors,grass,3,4,61,N/A,8,N/A
+2017,November,6272,4653,Hard Rock Stadium,outdoors,grass,3,3,77,N/A,2,N/A
+2017,November,6273,4654,Lambeau Field,outdoors,grass,4,6,35,N/A,3,N/A
+2017,November,6279,4656,New Era Field,outdoors,a_turf,3,3,42,N/A,2,N/A
+2017,November,6279,4657,Soldier Field,outdoors,grass,6,7,40,N/A,6,N/A
+2017,November,6279,4660,EverBank Field,outdoors,grass,3,3,76,N/A,5,N/A
+2017,November,6279,4661,Nissan Stadium,outdoors,grass,1,2,53,N/A,4,N/A
+2017,November,6279,4662,Raymond James Stadium,outdoors,grass,4,4,79,N/A,16,N/A
+2017,November,6279,4663,FedExField,outdoors,grass,4,4,44,N/A,4,N/A
+2017,November,6279,4664,Los Angeles Memorial Coliseum,outdoors,grass,4,5,68,N/A,0,N/A
+2017,November,6279,4666,Levi's Stadium,outdoors,grass,3,4,68,N/A,5,N/A
+2017,November,6279,4667,Sports Authority Field at Mile High,outdoors,grass,5,5,48,N/A,5,N/A
+2017,November,6280,4668,Bank of America Stadium,outdoors,grass,1,1,49,N/A,6,N/A
+2017,November,6283,4669,Heinz Field,outdoors,grass,5,6,40,N/A,17,N/A
+2017,November,6286,4670,Soldier Field,outdoors,grass,3,4,33,N/A,16,N/A
+2017,November,6286,4671,FirstEnergy Stadium,outdoors,grass,2,3,38,N/A,16,N/A
+2017,November,6286,4672,Lambeau Field,outdoors,grass,3,3,28,N/A,14,N/A
+2017,November,6286,4674,Hard Rock Stadium,outdoors,grass,5,6,81,N/A,9,N/A
+2017,November,6286,4677,MetLife Stadium,outdoors,fieldturf,5,5,50,N/A,23,N/A
+2017,November,6286,4678,StubHub Center,outdoors,grass,5,6,76,N/A,6,N/A
+2017,November,6286,4679,Sports Authority Field at Mile High,outdoors,grass,1,2,60,N/A,7,N/A
+2017,November,6286,4680,Azteca Stadium,outdoors,grass,4,4,66,N/A,0,N/A
+2017,November,6287,4682,CenturyLink Field,outdoors,fieldturf,5,6,45,N/A,6,N/A
+2017,November,6290,4685,FedExField,outdoors,grass,3,3,33,N/A,0,N/A
+2017,November,6293,4687,Paul Brown Stadium,outdoors,fieldturf,6,7,46,N/A,3,N/A
+2017,November,6293,4689,Arrowhead Stadium,outdoors,grass,4,5,62,N/A,9,N/A
+2017,November,6293,4690,Gillette Stadium,outdoors,fieldturf,1,1,47,N/A,17,N/A
+2017,November,6293,4691,MetLife Stadium,outdoors,fieldturf,5,5,47,N/A,23,N/A
+2017,November,6293,4692,Lincoln Financial Field,outdoors,grass,2,3,49,N/A,17,N/A
+2017,November,6293,4693,Levi's Stadium,outdoors,grass,3,4,66,N/A,12,N/A
+2017,November,6293,4695,Oakland-Alameda County Coliseum,outdoors,grass,0,1,61,N/A,13,N/A
+2017,November,6293,4696,Los Angeles Memorial Coliseum,outdoors,grass,6,7,72,N/A,1,N/A
+2017,November,6293,4697,Heinz Field,outdoors,grass,1,2,38,N/A,7,N/A
+2017,November,6294,4698,M&T Bank Stadium,outdoors,grass,6,6,50,N/A,1,N/A
+2017,December,6301,4701,New Era Field,outdoors,a_turf,4,4,48,N/A,13,N/A
+2017,December,6301,4702,Soldier Field,outdoors,grass,5,5,54,N/A,6,N/A
+2017,December,6301,4703,Lambeau Field,outdoors,grass,4,4,42,N/A,8,N/A
+2017,December,6301,4704,EverBank Field,outdoors,grass,4,4,70,N/A,7,N/A
+2017,December,6301,4705,Hard Rock Stadium,outdoors,grass,2,2,80,N/A,11,N/A
+2017,December,6301,4706,MetLife Stadium,outdoors,fieldturf,4,5,48,N/A,0,N/A
+2017,December,6301,4707,Nissan Stadium,outdoors,grass,3,6,60,N/A,4,N/A
+2017,December,6301,4708,M&T Bank Stadium,outdoors,grass,3,4,53,N/A,4,N/A
+2017,December,6301,4709,StubHub Center,outdoors,grass,5,6,68,N/A,7,N/A
+2017,December,6301,4712,Oakland-Alameda County Coliseum,outdoors,grass,2,2,58,N/A,11,N/A
+2017,December,6301,4713,CenturyLink Field,outdoors,fieldturf,2,2,44,N/A,3,N/A
+2017,December,6302,4714,Paul Brown Stadium,outdoors,fieldturf,5,5,61,N/A,9,N/A
+2017,December,6308,4716,New Era Field,outdoors,a_turf,0,2,32,N/A,15,N/A
+2017,December,6308,4717,Bank of America Stadium,outdoors,grass,4,5,41,N/A,5,N/A
+2017,December,6308,4718,Paul Brown Stadium,outdoors,fieldturf,2,2,31,N/A,11,N/A
+2017,December,6308,4719,FirstEnergy Stadium,outdoors,grass,0,0,29,N/A,24,N/A
+2017,December,6308,4721,Arrowhead Stadium,outdoors,grass,4,4,46,N/A,13,N/A
+2017,December,6308,4722,MetLife Stadium,outdoors,fieldturf,2,4,39,N/A,11,N/A
+2017,December,6308,4723,Raymond James Stadium,outdoors,grass,1,1,55,N/A,9,N/A
+2017,December,6308,4725,Sports Authority Field at Mile High,outdoors,grass,3,4,60,N/A,3,N/A
+2017,December,6308,4726,StubHub Center,outdoors,grass,3,3,81,N/A,4,N/A
+2017,December,6308,4728,Los Angeles Memorial Coliseum,outdoors,grass,3,3,83,N/A,0,N/A
+2017,December,6308,4729,Heinz Field,outdoors,grass,5,5,33,N/A,12,N/A
+2017,December,6309,4730,Hard Rock Stadium,outdoors,grass,4,4,55,N/A,7,N/A
+2017,December,6314,4733,Arrowhead Stadium,outdoors,grass,3,4,53,N/A,9,N/A
+2017,December,6315,4734,New Era Field,outdoors,a_turf,4,4,22,N/A,8,N/A
+2017,December,6315,4735,Bank of America Stadium,outdoors,grass,2,2,51,N/A,5,N/A
+2017,December,6315,4736,FirstEnergy Stadium,outdoors,grass,3,3,36,N/A,0,N/A
+2017,December,6315,4737,EverBank Field,outdoors,grass,1,1,72,N/A,5,N/A
+2017,December,6315,4740,MetLife Stadium,outdoors,fieldturf,3,4,35,N/A,0,N/A
+2017,December,6315,4741,FedExField,outdoors,grass,7,7,50,N/A,1,N/A
+2017,December,6315,4742,CenturyLink Field,outdoors,fieldturf,2,2,47,N/A,15,N/A
+2017,December,6315,4743,Heinz Field,outdoors,grass,3,3,42,N/A,4,N/A
+2017,December,6315,4744,Levi's Stadium,outdoors,grass,9,9,65,N/A,17,N/A
+2017,December,6315,4745,Oakland-Alameda County Coliseum,outdoors,grass,3,4,57,N/A,4,N/A
+2017,December,6316,4746,Raymond James Stadium,outdoors,grass,1,3,71,N/A,2,N/A
+2017,December,6321,4747,M&T Bank Stadium,outdoors,grass,6,8,63,N/A,14,N/A
+2017,December,6321,4748,Lambeau Field,outdoors,grass,3,3,10,N/A,6,N/A
+2017,December,6322,4749,Bank of America Stadium,outdoors,grass,7,8,55,N/A,6,N/A
+2017,December,6322,4750,Soldier Field,outdoors,grass,1,1,24,N/A,8,N/A
+2017,December,6322,4751,Paul Brown Stadium,outdoors,fieldturf,5,6,35,N/A,2,N/A
+2017,December,6322,4752,Arrowhead Stadium,outdoors,grass,7,9,23,N/A,15,N/A
+2017,December,6322,4754,Gillette Stadium,outdoors,fieldturf,6,7,35,N/A,7,N/A
+2017,December,6322,4755,MetLife Stadium,outdoors,fieldturf,0,1,40,N/A,6,N/A
+2017,December,6322,4756,Nissan Stadium,outdoors,grass,3,5,39,N/A,11,N/A
+2017,December,6322,4757,FedExField,outdoors,grass,3,3,43,N/A,7,N/A
+2017,December,6322,4758,Levi's Stadium,outdoors,grass,2,2,52,N/A,0,N/A
+2017,December,6323,4762,Lincoln Financial Field,outdoors,grass,3,5,29,N/A,15,N/A
+2017,December,6329,4766,Gillette Stadium,outdoors,fieldturf,3,4,13,N/A,14,N/A
+2017,December,6329,4767,MetLife Stadium,outdoors,fieldturf,3,4,16,N/A,16,N/A
+2017,December,6329,4768,Lincoln Financial Field,outdoors,grass,0,1,19,N/A,17,N/A
+2017,December,6329,4769,Heinz Field,outdoors,grass,1,1,11,N/A,3,N/A
+2017,December,6329,4771,Sports Authority Field at Mile High,outdoors,grass,3,3,17,N/A,4,N/A
+2017,December,6329,4772,Hard Rock Stadium,outdoors,grass,4,4,71,N/A,9,N/A
+2017,December,6329,4773,Nissan Stadium,outdoors,grass,4,4,23,N/A,5,N/A
+2017,December,6329,4774,Los Angeles Memorial Coliseum,outdoors,grass,4,4,67,N/A,3,N/A
+2017,December,6329,4775,M&T Bank Stadium,outdoors,grass,3,3,19,N/A,12,N/A
+2017,December,6329,4776,StubHub Center,outdoors,grass,2,3,62,N/A,2,N/A
+2017,December,6329,4777,CenturyLink Field,outdoors,fieldturf,5,6,40,N/A,7,N/A
+2017,December,6329,4778,Raymond James Stadium,outdoors,grass,2,2,71,N/A,3,N/A
+2018,January,6335,4779,Arrowhead Stadium,outdoors,grass,1,2,33,N/A,10,N/A
+2018,January,6335,4780,Los Angeles Memorial Coliseum,outdoors,grass,6,6,62,N/A,3,N/A
+2018,January,6336,4781,EverBank Field,outdoors,grass,2,2,53,N/A,18,N/A
+2018,January,6342,4783,Lincoln Financial Field,outdoors,grass,4,4,32,N/A,16,N/A
+2018,January,6342,4784,Gillette Stadium,outdoors,fieldturf,0,1,24,N/A,12,N/A
+2018,January,6343,4785,Heinz Field,outdoors,grass,1,1,18,N/A,2,N/A
+2018,January,6350,4787,Gillette Stadium,outdoors,fieldturf,3,3,48,N/A,3,N/A
+2018,January,6350,4788,Lincoln Financial Field,outdoors,grass,1,1,47,N/A,5,N/A
+2018,September,6577,4790,Lincoln Financial Field,outdoors,grass,3,3,81,N/A,8,N/A
+2018,September,6580,4791,FirstEnergy Stadium,outdoors,grass,0,2,58,N/A,11,N/A
+2018,September,6580,4793,Hard Rock Stadium,outdoors,grass,4,4,89,N/A,7,N/A
+2018,September,6580,4796,Gillette Stadium,outdoors,fieldturf,4,4,62,N/A,10,N/A
+2018,September,6580,4797,MetLife Stadium,outdoors,fieldturf,5,5,59,N/A,7,N/A
+2018,September,6580,4798,M&T Bank Stadium,outdoors,grass,3,4,61,N/A,12,N/A
+2018,September,6580,4799,StubHub Center,outdoors,grass,3,4,84,N/A,8,N/A
+2018,September,6580,4800,Bank of America Stadium,outdoors,grass,1,2,81,N/A,9,N/A
+2018,September,6580,4802,Sports Authority Field at Mile High,outdoors,grass,3,4,84,N/A,5,N/A
+2018,September,6580,4803,Lambeau Field,outdoors,grass,4,4,62,N/A,10,N/A
+2018,September,6581,4805,Oakland-Alameda County Coliseum,outdoors,grass,6,7,69,N/A,10,N/A
+2018,September,6584,4806,Paul Brown Stadium,outdoors,fieldturf,3,3,82,N/A,3,N/A
+2018,September,6587,4808,New Era Field,outdoors,a_turf,3,3,83,N/A,6,N/A
+2018,September,6587,4809,Lambeau Field,outdoors,grass,5,9,80,N/A,5,N/A
+2018,September,6587,4811,MetLife Stadium,outdoors,fieldturf,2,2,80,N/A,4,N/A
+2018,September,6587,4812,Nissan Stadium,outdoors,grass,3,4,81,N/A,12,N/A
+2018,September,6587,4813,Heinz Field,outdoors,grass,0,1,80,N/A,10,N/A
+2018,September,6587,4814,Raymond James Stadium,outdoors,grass,0,1,91,N/A,9,N/A
+2018,September,6587,4815,FedExField,outdoors,grass,3,4,71,N/A,5,N/A
+2018,September,6587,4816,Los Angeles Memorial Coliseum,outdoors,grass,1,1,86,N/A,2,N/A
+2018,September,6587,4817,Levi's Stadium,outdoors,grass,5,5,73,N/A,12,N/A
+2018,September,6587,4818,Sports Authority Field at Mile High,outdoors,grass,4,4,92,N/A,4,N/A
+2018,September,6587,4819,TIAA Bank Stadium,outdoors,grass,3,4,97,N/A,15,N/A
+2018,September,6588,4821,Soldier Field,outdoors,grass,2,2,79,N/A,2,N/A
+2018,September,6591,4822,FirstEnergy Stadium,outdoors,grass,3,3,83,N/A,11,N/A
+2018,September,6594,4824,Bank of America Stadium,outdoors,grass,1,2,80,N/A,3,N/A
+2018,September,6594,4826,TIAA Bank Stadium,outdoors,grass,5,6,89,N/A,10,N/A
+2018,September,6594,4827,Arrowhead Stadium,outdoors,grass,3,3,70,N/A,4,N/A
+2018,September,6594,4828,Hard Rock Stadium,outdoors,grass,2,2,90,N/A,7,N/A
+2018,September,6594,4830,Lincoln Financial Field,outdoors,grass,5,6,61,N/A,5,N/A
+2018,September,6594,4831,M&T Bank Stadium,outdoors,grass,2,3,61,N/A,5,N/A
+2018,September,6594,4832,FedExField,outdoors,grass,2,2,62,N/A,6,N/A
+2018,September,6594,4833,Los Angeles Memorial Coliseum,outdoors,grass,1,2,80,N/A,5,N/A
+2018,September,6594,4835,CenturyLink Field,outdoors,fieldturf,3,3,61,N/A,4,N/A
+2018,September,6595,4837,Raymond James Stadium,outdoors,grass,3,4,77,N/A,5,N/A
+2018,September,6598,4838,Los Angeles Memorial Coliseum,outdoors,grass,4,5,75,N/A,3,N/A
+2018,September,6601,4840,Soldier Field,outdoors,grass,3,3,66,N/A,5,N/A
+2018,September,6601,4843,Lambeau Field,outdoors,grass,3,3,49,N/A,9,N/A
+2018,September,6601,4844,TIAA Bank Stadium,outdoors,grass,5,5,86,N/A,10,N/A
+2018,September,6601,4845,Gillette Stadium,outdoors,fieldturf,1,1,65,N/A,6,N/A
+2018,September,6601,4846,Nissan Stadium,outdoors,grass,5,5,80,N/A,4,N/A
+2018,September,6601,4848,Oakland-Alameda County Coliseum,outdoors,grass,5,7,71,N/A,8,N/A
+2018,September,6601,4849,MetLife Stadium,outdoors,fieldturf,5,5,71,N/A,7,N/A
+2018,September,6601,4850,StubHub Center,outdoors,grass,5,6,78,N/A,9,N/A
+2018,September,6601,4851,Heinz Field,outdoors,grass,6,6,69,N/A,2,N/A
+2018,October,6603,4852,Sports Authority Field at Mile High,outdoors,grass,5,5,65,N/A,5,N/A
+2018,October,6606,4853,Gillette Stadium,outdoors,fieldturf,2,3,66,N/A,6,N/A
+2018,October,6609,4854,New Era Field,outdoors,a_turf,6,6,62,N/A,8,N/A
+2018,October,6609,4855,Bank of America Stadium,outdoors,grass,7,7,80,N/A,3,N/A
+2018,October,6609,4856,Paul Brown Stadium,outdoors,fieldturf,3,4,87,N/A,4,N/A
+2018,October,6609,4857,FirstEnergy Stadium,outdoors,grass,5,7,72,N/A,5,N/A
+2018,October,6609,4859,Arrowhead Stadium,outdoors,grass,3,3,58,N/A,5,N/A
+2018,October,6609,4860,MetLife Stadium,outdoors,fieldturf,3,4,77,N/A,7,N/A
+2018,October,6609,4861,Heinz Field,outdoors,grass,1,1,83,N/A,5,N/A
+2018,October,6609,4862,StubHub Center,outdoors,grass,3,5,75,N/A,10,N/A
+2018,October,6609,4863,Lincoln Financial Field,outdoors,grass,5,7,79,N/A,6,N/A
+2018,October,6609,4864,CenturyLink Field,outdoors,fieldturf,3,3,53,N/A,5,N/A
+2018,October,6609,4865,Levi's Stadium,outdoors,grass,0,1,79,N/A,15,N/A
+2018,October,6613,4868,MetLife Stadium,outdoors,fieldturf,4,6,70,N/A,3,N/A
+2018,October,6616,4870,Paul Brown Stadium,outdoors,fieldturf,2,2,51,N/A,6,N/A
+2018,October,6616,4871,FirstEnergy Stadium,outdoors,grass,3,3,51,N/A,9,N/A
+2018,October,6616,4873,Hard Rock Stadium,outdoors,grass,3,4,89,N/A,8,N/A
+2018,October,6616,4875,MetLife Stadium,outdoors,fieldturf,9,9,60,N/A,7,N/A
+2018,October,6616,4876,Wembley Stadium,outdoors,grass,3,4,52,N/A,10,N/A
+2018,October,6616,4877,FedExField,outdoors,grass,4,4,52,N/A,0,N/A
+2018,October,6616,4878,Sports Authority Field at Mile High,outdoors,grass,5,6,25,N/A,6,N/A
+2018,October,6616,4880,Nissan Stadium,outdoors,grass,0,0,66,N/A,4,N/A
+2018,October,6616,4881,Gillette Stadium,outdoors,fieldturf,9,9,45,N/A,0,N/A
+2018,October,6617,4882,Lambeau Field,outdoors,grass,7,7,37,N/A,5,N/A
+2018,October,6623,4884,Wembley Stadium,outdoors,grass,4,5,66,N/A,6,N/A
+2018,October,6623,4885,Soldier Field,outdoors,grass,2,2,44,N/A,9,N/A
+2018,October,6623,4887,TIAA Bank Stadium,outdoors,grass,2,2,68,N/A,15,N/A
+2018,October,6623,4888,Hard Rock Stadium,outdoors,grass,4,5,89,N/A,8,N/A
+2018,October,6623,4889,MetLife Stadium,outdoors,fieldturf,4,5,46,N/A,16,N/A
+2018,October,6623,4890,Lincoln Financial Field,outdoors,grass,1,2,49,N/A,19,N/A
+2018,October,6623,4891,Raymond James Stadium,outdoors,grass,2,3,79,N/A,7,N/A
+2018,October,6623,4892,M&T Bank Stadium,outdoors,grass,2,2,54,N/A,15,N/A
+2018,October,6623,4893,Levi's Stadium,outdoors,grass,4,4,62,N/A,5,N/A
+2018,October,6623,4894,FedExField,outdoors,grass,3,4,52,N/A,12,N/A
+2018,October,6623,4895,Arrowhead Stadium,outdoors,grass,2,3,59,N/A,10,N/A
+2018,October,6630,4898,Wembley Stadium,outdoors,grass,5,5,48,N/A,12,N/A
+2018,October,6630,4899,Bank of America Stadium,outdoors,grass,3,3,61,N/A,10,N/A
+2018,October,6630,4900,Soldier Field,outdoors,grass,2,3,48,N/A,18,N/A
+2018,October,6630,4901,Paul Brown Stadium,outdoors,fieldturf,3,3,55,N/A,7,N/A
+2018,October,6630,4903,Arrowhead Stadium,outdoors,grass,2,3,56,N/A,12,N/A
+2018,October,6630,4904,MetLife Stadium,outdoors,fieldturf,4,5,51,N/A,11,N/A
+2018,October,6630,4905,Heinz Field,outdoors,grass,3,4,47,N/A,11,N/A
+2018,October,6630,4906,Oakland-Alameda County Coliseum,outdoors,grass,2,2,69,N/A,8,N/A
+2018,October,6630,4908,Los Angeles Memorial Coliseum,outdoors,grass,4,4,82,N/A,1,N/A
+2018,October,6631,4910,New Era Field,outdoors,a_turf,6,7,46,N/A,16,N/A
+2018,November,6633,4911,Levi's Stadium,outdoors,grass,3,4,82,N/A,8,N/A
+2018,November,6636,4912,New Era Field,outdoors,a_turf,3,3,49,N/A,12,N/A
+2018,November,6636,4913,Bank of America Stadium,outdoors,grass,0,0,62,N/A,8,N/A
+2018,November,6636,4914,FirstEnergy Stadium,outdoors,grass,2,2,53,N/A,16,N/A
+2018,November,6636,4915,Hard Rock Stadium,outdoors,grass,4,5,87,N/A,16,N/A
+2018,November,6636,4917,M&T Bank Stadium,outdoors,grass,4,4,55,N/A,6,N/A
+2018,November,6636,4918,FedExField,outdoors,grass,1,1,55,N/A,5,N/A
+2018,November,6636,4919,Sports Authority Field at Mile High,outdoors,grass,3,5,53,N/A,3,N/A
+2018,November,6636,4920,CenturyLink Field,outdoors,fieldturf,1,3,56,N/A,4,N/A
+2018,November,6636,4922,Gillette Stadium,outdoors,fieldturf,2,2,40,N/A,2,N/A
+2018,November,6640,4924,Heinz Field,outdoors,grass,1,1,40,N/A,4,N/A
+2018,November,6643,4925,Soldier Field,outdoors,grass,1,3,37,N/A,12,N/A
+2018,November,6643,4926,Paul Brown Stadium,outdoors,fieldturf,3,3,39,N/A,6,N/A
+2018,November,6643,4927,FirstEnergy Stadium,outdoors,grass,1,1,36,N/A,9,N/A
+2018,November,6643,4929,Arrowhead Stadium,outdoors,grass,2,2,43,N/A,5,N/A
+2018,November,6643,4930,MetLife Stadium,outdoors,fieldturf,3,3,46,N/A,10,N/A
+2018,November,6643,4931,Nissan Stadium,outdoors,grass,3,4,46,N/A,4,N/A
+2018,November,6643,4932,Raymond James Stadium,outdoors,grass,4,6,82,N/A,3,N/A
+2018,November,6643,4933,Oakland-Alameda County Coliseum,outdoors,grass,4,4,69,N/A,16,N/A
+2018,November,6643,4934,Lambeau Field,outdoors,grass,5,5,33,N/A,6,N/A
+2018,November,6643,4935,Los Angeles Memorial Coliseum,outdoors,grass,4,4,75,N/A,1,N/A
+2018,November,6643,4936,Lincoln Financial Field,outdoors,grass,4,5,38,N/A,5,N/A
+2018,November,6644,4937,Levi's Stadium,outdoors,grass,5,5,62,N/A,0,N/A
+2018,November,6647,4938,CenturyLink Field,outdoors,fieldturf,3,4,54,N/A,6,N/A
+2018,November,6650,4942,TIAA Bank Stadium,outdoors,grass,3,3,73,N/A,8,N/A
+2018,November,6650,4943,MetLife Stadium,outdoors,fieldturf,1,1,42,N/A,1,N/A
+2018,November,6650,4944,M&T Bank Stadium,outdoors,grass,3,4,48,N/A,8,N/A
+2018,November,6650,4945,FedExField,outdoors,grass,3,6,48,N/A,6,N/A
+2018,November,6650,4947,StubHub Center,outdoors,grass,4,4,69,N/A,4,N/A
+2018,November,6650,4949,Soldier Field,outdoors,grass,5,5,33,N/A,6,N/A
+2018,November,6651,4950,Los Angeles Memorial Coliseum,outdoors,grass,3,3,65,N/A,0,N/A
+2018,November,6657,4954,New Era Field,outdoors,a_turf,1,2,44,N/A,12,N/A
+2018,November,6657,4955,Bank of America Stadium,outdoors,grass,5,6,57,N/A,1,N/A
+2018,November,6657,4956,Paul Brown Stadium,outdoors,fieldturf,0,1,44,N/A,4,N/A
+2018,November,6657,4957,MetLife Stadium,outdoors,fieldturf,4,4,54,N/A,8,N/A
+2018,November,6657,4958,Lincoln Financial Field,outdoors,grass,6,6,56,N/A,10,N/A
+2018,November,6657,4959,M&T Bank Stadium,outdoors,grass,3,3,60,N/A,7,N/A
+2018,November,6657,4960,Raymond James Stadium,outdoors,grass,3,3,77,N/A,7,N/A
+2018,November,6657,4961,StubHub Center,outdoors,grass,2,3,74,N/A,3,N/A
+2018,November,6657,4963,Sports Authority Field at Mile High,outdoors,grass,2,3,41,N/A,7,N/A
+2018,December,6665,4968,Paul Brown Stadium,outdoors,fieldturf,2,3,63,N/A,12,N/A
+2018,December,6665,4970,Lambeau Field,outdoors,grass,3,4,34,N/A,20,N/A
+2018,December,6665,4972,TIAA Bank Stadium,outdoors,grass,2,2,78,N/A,13,N/A
+2018,December,6665,4973,Hard Rock Stadium,outdoors,grass,1,2,86,N/A,15,N/A
+2018,December,6665,4974,MetLife Stadium,outdoors,fieldturf,5,5,52,N/A,3,N/A
+2018,December,6665,4975,Raymond James Stadium,outdoors,grass,2,2,81,N/A,15,N/A
+2018,December,6665,4976,Nissan Stadium,outdoors,grass,7,7,70,N/A,13,N/A
+2018,December,6665,4977,Oakland-Alameda County Coliseum,outdoors,grass,4,4,57,N/A,6,N/A
+2018,December,6665,4978,Gillette Stadium,outdoors,fieldturf,2,4,53,N/A,6,N/A
+2018,December,6665,4979,CenturyLink Field,outdoors,fieldturf,2,2,45,N/A,2,N/A
+2018,December,6665,4980,Heinz Field,outdoors,grass,2,3,57,N/A,8,N/A
+2018,December,6666,4981,Lincoln Financial Field,outdoors,grass,4,4,36,N/A,15,N/A
+2018,December,6669,4982,Nissan Stadium,outdoors,grass,1,1,44,N/A,5,N/A
+2018,December,6672,4983,New Era Field,outdoors,a_turf,5,7,31,N/A,12,N/A
+2018,December,6672,4984,FirstEnergy Stadium,outdoors,grass,4,4,28,N/A,4,N/A
+2018,December,6672,4985,Lambeau Field,outdoors,grass,2,3,25,N/A,10,N/A
+2018,December,6672,4987,Arrowhead Stadium,outdoors,grass,3,5,27,N/A,0,N/A
+2018,December,6672,4988,Hard Rock Stadium,outdoors,grass,2,3,82,N/A,13,N/A
+2018,December,6672,4989,Raymond James Stadium,outdoors,grass,2,4,71,N/A,7,N/A
+2018,December,6672,4990,FedExField,outdoors,grass,2,2,33,N/A,6,N/A
+2018,December,6672,4992,Levi's Stadium,outdoors,grass,2,2,54,N/A,3,N/A
+2018,December,6672,4995,Oakland-Alameda County Coliseum,outdoors,grass,1,3,55,N/A,8,N/A
+2018,December,6672,4996,Soldier Field,outdoors,grass,4,6,29,N/A,4,N/A
+2018,December,6673,4997,CenturyLink Field,outdoors,fieldturf,2,3,48,N/A,9,N/A
+2018,December,6676,4998,Arrowhead Stadium,outdoors,grass,0,0,39,N/A,5,N/A
+2018,December,6678,4999,MetLife Stadium,outdoors,fieldturf,6,6,51,N/A,8,N/A
+2018,December,6678,5000,Sports Authority Field at Mile High,outdoors,grass,4,4,46,N/A,0,N/A
+2018,December,6679,5002,New Era Field,outdoors,a_turf,0,1,39,N/A,7,N/A
+2018,December,6679,5003,Soldier Field,outdoors,grass,4,4,45,N/A,10,N/A
+2018,December,6679,5004,Paul Brown Stadium,outdoors,fieldturf,6,6,43,N/A,2,N/A
+2018,December,6679,5006,TIAA Bank Stadium,outdoors,grass,5,5,64,N/A,12,N/A
+2018,December,6679,5008,MetLife Stadium,outdoors,fieldturf,1,2,40,N/A,6,N/A
+2018,December,6679,5009,M&T Bank Stadium,outdoors,grass,4,4,43,N/A,10,N/A
+2018,December,6679,5010,Levi's Stadium,outdoors,grass,5,5,61,N/A,11,N/A
+2018,December,6679,5011,Heinz Field,outdoors,grass,2,3,42,N/A,5,N/A
+2018,December,6679,5012,Los Angeles Memorial Coliseum,outdoors,grass,6,7,60,N/A,5,N/A
+2018,December,6680,5013,Bank of America Stadium,outdoors,grass,2,2,48,N/A,3,N/A
+2018,December,6685,5014,Nissan Stadium,outdoors,grass,5,5,51,N/A,9,N/A
+2018,December,6685,5015,StubHub Center,outdoors,grass,4,6,60,N/A,5,N/A
+2018,December,6686,5016,Bank of America Stadium,outdoors,grass,2,2,52,N/A,7,N/A
+2018,December,6686,5017,FirstEnergy Stadium,outdoors,grass,3,3,37,N/A,9,N/A
+2018,December,6686,5021,Hard Rock Stadium,outdoors,grass,1,3,73,N/A,9,N/A
+2018,December,6686,5022,Gillette Stadium,outdoors,fieldturf,3,4,40,N/A,12,N/A
+2018,December,6686,5023,MetLife Stadium,outdoors,fieldturf,4,5,43,N/A,8,N/A
+2018,December,6686,5024,Lincoln Financial Field,outdoors,grass,3,3,44,N/A,5,N/A
+2018,December,6686,5026,Levi's Stadium,outdoors,grass,3,4,50,N/A,5,N/A
+2018,December,6686,5028,CenturyLink Field,outdoors,fieldturf,4,5,43,N/A,8,N/A
+2018,December,6687,5029,Oakland-Alameda County Coliseum,outdoors,grass,2,3,58,N/A,14,N/A
+2018,December,6693,5030,New Era Field,outdoors,a_turf,1,2,33,N/A,9,N/A
+2018,December,6693,5031,Lambeau Field,outdoors,grass,1,1,26,N/A,15,N/A
+2018,December,6693,5034,Gillette Stadium,outdoors,fieldturf,2,2,33,N/A,2,N/A
+2018,December,6693,5035,MetLife Stadium,outdoors,fieldturf,2,3,37,N/A,2,N/A
+2018,December,6693,5036,Raymond James Stadium,outdoors,grass,4,4,80,N/A,5,N/A
+2018,December,6693,5037,Sports Authority Field at Mile High,outdoors,grass,1,1,51,N/A,6,N/A
+2018,December,6693,5038,Arrowhead Stadium,outdoors,grass,1,1,45,N/A,15,N/A
+2018,December,6693,5040,Heinz Field,outdoors,grass,5,5,42,N/A,9,N/A
+2018,December,6693,5041,Los Angeles Memorial Coliseum,outdoors,grass,3,3,65,N/A,3,N/A
+2018,December,6693,5042,M&T Bank Stadium,outdoors,grass,5,6,48,N/A,2,N/A
+2018,December,6693,5043,CenturyLink Field,outdoors,fieldturf,5,5,45,N/A,5,N/A
+2018,December,6693,5044,FedExField,outdoors,grass,1,1,46,N/A,3,N/A
+2018,December,6693,5045,Nissan Stadium,outdoors,grass,3,3,53,N/A,4,N/A
+2019,January,6700,5048,M&T Bank Stadium,outdoors,grass,6,8,52,N/A,12,N/A
+2019,January,6700,5049,Soldier Field,outdoors,grass,4,5,39,N/A,12,N/A
+2019,January,6706,5050,Arrowhead Stadium,outdoors,grass,1,2,32,N/A,13,N/A
+2019,January,6706,5051,Los Angeles Memorial Coliseum,outdoors,grass,3,4,57,N/A,1,N/A
+2019,January,6707,5052,Gillette Stadium,outdoors,fieldturf,2,2,26,N/A,3,N/A
+2019,January,6714,5055,Arrowhead Stadium,outdoors,grass,2,2,19,N/A,14,N/A
 2019,September,6941,5057,Soldier Field,outdoors,grass,2,2,65,69,10,N/A
 2019,September,6944,5058,Bank of America Stadium,outdoors,grass,5,7,87,53,3,N/A
 2019,September,6944,5059,FirstEnergy Stadium,outdoors,grass,2,2,71,55,10,N/A
