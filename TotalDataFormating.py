@@ -1,4 +1,5 @@
 """
+STEP 5 - TotalDataFormating.py
 Formats all data together and puts it in a csv, like it should be. Creates
 NFLKicksInfo2000-2022.csv.
 

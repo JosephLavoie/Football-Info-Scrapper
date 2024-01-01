@@ -1,4 +1,5 @@
 """
+STEP 6 - SplitDataFormating.py
 Formats most of the data together and puts it in multiple different csv. Creates
 NFLKicksInfo2000-2022WeatherSplit.csv, NFLKicksInfo2000-2022NonSplit.csv,
 NFLKicksInfo2000-2022NonSplitClosedDome.csv,
