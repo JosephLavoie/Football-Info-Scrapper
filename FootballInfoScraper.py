@@ -172,7 +172,7 @@ def main():
 
     # Creates the begining of a file needed for FootballGameInfoScraper.py - STEP 2
     with open('infoCSV.txt', 'w') as file:
-        file.write('"#","Statium","Roof Type","Surface Type","Field Goals Made","Field Goals Missed","Temperture","Realtive Humitity","Wind Speed","Wind Chill"\n')
+        file.write('"#","Statium","Roof Type","Surface Type","Field Goals Made","Field Goals Attempted","Temperture","Realtive Humitity","Wind Speed","Wind Chill"\n')
 
 
 if __name__ == "__main__":

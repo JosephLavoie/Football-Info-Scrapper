@@ -1,4 +1,4 @@
-Year,Month,Days Since Sept 3rd 2000,#,Statium,Roof Type,Surface Type,Field Goals Made,Field Goals Missed,Temperture,Realtive Humitity,Wind Speed,Wind Chill
+Year,Month,Days Since Sept 3rd 2000,#,Statium,Roof Type,Surface Type,Field Goals Made,Field Goals Attempted,Temperture,Realtive Humitity,Wind Speed,Wind Chill
 2000,October,36,77,Veterans Stadium,outdoors,astroturf,1,3,49,56,10,N/A
 2000,October,43,95,Mile High Stadium,outdoors,grass,4,5,59,32,7,N/A
 2000,October,57,118,PSINet Stadium,outdoors,grass,3,3,53,0,15,N/A
