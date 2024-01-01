@@ -1,0 +1,1265 @@
+"Year","Month","Days Since Sept 3rd 2000","#","Statium","Roof Type","Surface Type","Field Goals Made","Field Goals Missed","Temperture","Realtive Humitity","Wind Speed","Wind Chill"
+2000,October,36,77,Veterans Stadium,outdoors,astroturf,1,3,49,56,10,N/A
+2000,October,43,95,Mile High Stadium,outdoors,grass,4,5,59,32,7,N/A
+2000,October,57,118,PSINet Stadium,outdoors,grass,3,3,53,0,15,N/A
+2000,October,57,123,Giants Stadium,outdoors,grass,1,2,45,52,18,N/A
+2000,November,63,140,Husky Stadium,outdoors,fieldturf,4,5,48,100,8,N/A
+2000,November,77,165,Adelphia Coliseum,outdoors,grass,2,2,44,38,6,N/A
+2000,November,84,185,Husky Stadium,outdoors,fieldturf,2,2,48,90,9,N/A
+2000,December,112,234,Mile High Stadium,outdoors,grass,2,4,45,31,7,N/A
+2000,December,113,241,PSINet Stadium,outdoors,grass,3,4,36,42,5,N/A
+2001,January,127,254,Adelphia Coliseum,outdoors,grass,2,5,48,42,6,N/A
+2001,January,127,255,Giants Stadium,outdoors,grass,3,4,39,62,5,N/A
+2001,January,134,256,Giants Stadium,outdoors,grass,2,3,35,76,5,N/A
+2001,September,371,272,Adelphia Coliseum,outdoors,grass,2,2,81,69,7,N/A
+2001,October,400,305,PSINet Stadium,outdoors,grass,2,3,55,38,11,N/A
+2001,October,400,307,Giants Stadium,outdoors,grass,6,6,55,38,16,N/A
+2001,October,421,346,PSINet Stadium,outdoors,grass,3,3,50,0,20,N/A
+2001,October,421,355,Veterans Stadium,outdoors,fieldturf,3,3,52,32,17,N/A
+2001,November,434,375,Giants Stadium,outdoors,grass,2,2,48,36,12,N/A
+2001,November,434,377,Cleveland Browns Stadium,outdoors,grass,6,7,42,32,6,N/A
+2001,November,434,382,Veterans Stadium,outdoors,fieldturf,3,3,50,29,10,N/A
+2001,November,435,386,Adelphia Coliseum,outdoors,grass,4,5,52,50,6,N/A
+2001,November,441,398,Invesco Field at Mile High,outdoors,grass,2,2,44,63,11,N/A
+2001,December,463,440,Veterans Stadium,outdoors,fieldturf,1,3,43,82,10,N/A
+2001,December,463,445,Invesco Field at Mile High,outdoors,grass,2,3,38,38,3,N/A
+2001,December,469,447,Giants Stadium,outdoors,grass,3,3,46,47,18,N/A
+2001,December,477,471,PSINet Stadium,outdoors,grass,3,4,46,0,0,N/A
+2001,December,477,472,Giants Stadium,outdoors,grass,3,3,43,47,7,N/A
+2002,January,491,499,Adelphia Coliseum,outdoors,grass,3,3,37,93,8,N/A
+2002,January,491,500,Giants Stadium,outdoors,grass,3,5,37,48,5,N/A
+2002,January,497,507,Veterans Stadium,outdoors,fieldturf,4,4,46,55,10,N/A
+2002,October,771,604,Invesco Field at Mile High,outdoors,grass,6,7,58,31,3,N/A
+2002,October,786,633,Veterans Stadium,outdoors,fieldturf,4,5,51,54,5,N/A
+2002,November,791,637,Ralph Wilson Stadium,outdoors,astroturf,1,4,40,52,3,N/A
+2002,November,805,667,The Coliseum,outdoors,grass,1,4,42,47,12,N/A
+2002,November,805,669,Giants Stadium,outdoors,grass,5,6,42,92,8,N/A
+2002,November,812,678,Heinz Field,outdoors,grass,3,4,45,63,14,N/A
+2002,December,820,697,Arrowhead Stadium,outdoors,grass,0,1,44,34,17,N/A
+2002,December,827,718,The Coliseum,outdoors,grass,3,4,42,73,3,N/A
+2002,December,827,719,Ravens Stadium,outdoors,grass,4,4,45,57,7,N/A
+2002,December,827,723,Giants Stadium,outdoors,grass,4,6,42,67,13,N/A
+2002,December,834,732,Veterans Stadium,outdoors,fieldturf,2,2,42,58,21,N/A
+2002,December,834,737,Invesco Field at Mile High,outdoors,grass,2,3,54,26,3,N/A
+2002,December,834,739,Giants Stadium,outdoors,grass,3,3,44,60,13,N/A
+2002,December,848,770,Invesco Field at Mile High,outdoors,grass,3,3,57,17,6,N/A
+2002,December,848,771,Giants Stadium,outdoors,grass,1,1,40,62,12,N/A
+2002,December,848,772,Memorial Stadium (Champaign),outdoors,astroplay,5,5,38,0,7,N/A
+2003,September,1099,799,The Coliseum,outdoors,grass,6,6,75,62,9,N/A
+2003,September,1113,823,The Coliseum,outdoors,grass,3,3,74,71,3,N/A
+2003,November,1155,902,M&T Bank Stadium,outdoors,sportturf,4,4,71,66,0,N/A
+2003,November,1162,918,The Coliseum,outdoors,grass,1,1,49,50,6,N/A
+2003,November,1162,919,Heinz Field,outdoors,dessograss,1,2,38,38,5,N/A
+2003,November,1162,923,Giants Stadium,outdoors,fieldturf,0,0,40,32,5,N/A
+2003,November,1183,964,Heinz Field,outdoors,dessograss,3,3,41,53,14,N/A
+2003,November,1183,966,Giants Stadium,outdoors,fieldturf,1,2,47,42,16,N/A
+2003,November,1183,968,M&T Bank Stadium,outdoors,sportturf,5,5,42,51,10,N/A
+2003,December,1191,979,Lambeau Field,outdoors,grass,4,4,35,78,16,N/A
+2003,December,1191,980,Alltel Stadium,outdoors,grass,2,3,56,0,7,N/A
+2003,December,1191,985,The Coliseum,outdoors,grass,7,7,42,70,0,N/A
+2003,December,1211,1025,Gillette Stadium,outdoors,grass,1,3,42,41,10,N/A
+2003,December,1212,1035,The Coliseum,outdoors,grass,6,6,59,34,16,N/A
+2003,December,1212,1037,Giants Stadium,outdoors,fieldturf,4,4,50,31,7,N/A
+2004,October,1506,1126,Ralph Wilson Stadium,outdoors,astroplay,4,5,45,0,25,N/A
+2004,October,1506,1130,The Coliseum,outdoors,grass,3,3,60,47,0,N/A
+2004,October,1506,1132,Cleveland Browns Stadium,outdoors,grass,3,4,46,0,12,N/A
+2004,October,1506,1135,Lincoln Financial Field,outdoors,grass,3,3,56,47,21,N/A
+2004,October,1513,1151,McAfee Coliseum,outdoors,grass,5,5,62,74,10,N/A
+2004,November,1533,1187,The Coliseum,outdoors,grass,2,5,56,61,9,N/A
+2004,November,1547,1216,Paul Brown Stadium,outdoors,fieldturf,5,5,38,76,13,N/A
+2004,December,1562,1250,Alltel Stadium,outdoors,grass,3,4,53,0,15,N/A
+2004,December,1562,1252,Invesco Field at Mile High,outdoors,grass,3,3,37,43,8,N/A
+2004,December,1568,1260,Giants Stadium,outdoors,fieldturf,5,5,42,65,5,N/A
+2004,December,1569,1266,Lincoln Financial Field,outdoors,grass,0,1,37,65,4,N/A
+2005,January,1583,1301,Lincoln Financial Field,outdoors,grass,2,4,43,63,8,N/A
+2005,September,1841,1341,The Coliseum,outdoors,grass,4,4,75,62,0,N/A
+2005,October,1856,1368,The Coliseum,outdoors,grass,2,3,82,60,9,N/A
+2005,October,1863,1390,Invesco Field at Mile High,outdoors,grass,2,3,50,83,7,N/A
+2005,October,1884,1429,Tiger Stadium (LSU),outdoors,grass,6,7,76,30,3,N/A
+2005,November,1890,1444,Tiger Stadium (LSU),outdoors,grass,3,4,85,51,0,N/A
+2005,November,1904,1466,The Coliseum,outdoors,grass,1,1,56,30,3,N/A
+2005,November,1911,1488,The Coliseum,outdoors,grass,4,5,63,71,21,N/A
+2005,December,1919,1504,Tiger Stadium (LSU),outdoors,grass,2,3,74,65,9,N/A
+2005,December,1926,1513,Giants Stadium,outdoors,fieldturf,5,6,39,56,12,N/A
+2005,December,1926,1517,The Coliseum,outdoors,grass,3,6,43,53,12,N/A
+2005,December,1926,1520,Lincoln Financial Field,outdoors,grass,7,8,38,62,7,N/A
+2005,December,1926,1523,Invesco Field at Mile High,outdoors,grass,3,3,41,46,5,N/A
+2005,December,1932,1528,Giants Stadium,outdoors,fieldturf,3,3,39,55,8,N/A
+2005,December,1933,1535,Tiger Stadium (LSU),outdoors,grass,3,4,55,45,8,N/A
+2005,December,1933,1536,The Coliseum,outdoors,grass,1,2,45,44,4,N/A
+2005,December,1941,1558,Giants Stadium,outdoors,fieldturf,1,1,41,59,18,N/A
+2006,January,1947,1567,Heinz Field,outdoors,dessograss,0,0,39,63,6,N/A
+2006,January,1954,1577,Giants Stadium,outdoors,fieldturf,3,3,44,50,6,N/A
+2006,September,2195,1586,Heinz Field,outdoors,dessograss,1,2,69,65,1,N/A
+2006,September,2198,1593,LP Field,outdoors,grass,1,3,85,53,5,N/A
+2006,September,2212,1622,Heinz Field,outdoors,dessograss,2,3,69,69,15,N/A
+2006,October,2220,1639,LP Field,outdoors,grass,3,4,75,48,0,N/A
+2006,October,2228,1659,Invesco Field at Mile High,outdoors,grass,3,3,39,100,7,N/A
+2006,October,2234,1669,Heinz Field,outdoors,dessograss,1,2,52,40,6,N/A
+2006,October,2241,1673,Arrowhead Stadium,outdoors,grass,3,5,40,68,9,N/A
+2006,October,2241,1681,Cleveland Browns Stadium,outdoors,grass,1,2,48,72,15,N/A
+2006,October,2248,1692,Giants Stadium,outdoors,fieldturf,2,2,53,32,20,N/A
+2006,October,2248,1693,Lincoln Financial Field,outdoors,grass,4,4,53,38,24,N/A
+2006,November,2254,1710,Heinz Field,outdoors,dessograss,3,4,53,29,5,N/A
+2006,November,2261,1721,LP Field,outdoors,grass,3,5,47,58,11,N/A
+2006,November,2261,1725,Heinz Field,outdoors,dessograss,2,4,39,75,9,N/A
+2006,November,2261,1728,Giants Stadium,outdoors,fieldturf,3,5,48,81,9,N/A
+2006,November,2269,1745,Alltel Stadium,outdoors,grass,5,5,45,0,7,N/A
+2006,November,2275,1759,LP Field,outdoors,grass,1,2,69,28,8,N/A
+2006,December,2283,1769,LP Field,outdoors,grass,3,4,40,53,11,N/A
+2006,December,2283,1774,Giants Stadium,outdoors,fieldturf,5,6,45,47,9,N/A
+2006,December,2283,1775,Heinz Field,outdoors,dessograss,3,4,42,43,7,N/A
+2006,December,2297,1806,Giants Stadium,outdoors,fieldturf,3,4,56,43,7,N/A
+2006,December,2304,1812,Ralph Wilson Stadium,outdoors,astroplay,8,8,39,78,15,N/A
+2006,December,2304,1813,Heinz Field,outdoors,dessograss,1,1,41,62,10,N/A
+2006,December,2304,1816,Cleveland Browns Stadium,outdoors,grass,3,4,41,0,8,N/A
+2006,December,2304,1820,Giants Stadium,outdoors,fieldturf,3,4,52,40,20,N/A
+2006,December,2311,1827,Arrowhead Stadium,outdoors,grass,1,1,40,89,10,N/A
+2006,December,2311,1831,LP Field,outdoors,grass,5,7,63,86,13,N/A
+2006,December,2311,1836,Lincoln Financial Field,outdoors,grass,2,3,47,48,6,N/A
+2007,September,2569,1871,Heinz Field,outdoors,dessograss,5,5,59,51,4,N/A
+2007,September,2576,1891,Heinz Field,outdoors,dessograss,6,6,72,37,6,N/A
+2007,October,2591,1919,Heinz Field,outdoors,dessograss,0,0,80,59,2,N/A
+2007,October,2612,1959,LP Field,outdoors,grass,5,5,58,64,16,N/A
+2007,November,2618,1976,LP Field,outdoors,grass,2,3,66,35,8,N/A
+2007,November,2619,1982,Heinz Field,outdoors,dessograss,1,1,52,78,5,N/A
+2007,November,2625,1987,Heinz Field,outdoors,dessograss,3,4,40,85,3,N/A
+2007,November,2625,1989,LP Field,outdoors,grass,2,2,62,30,11,N/A
+2007,November,2625,1993,Giants Stadium,outdoors,fieldturf,3,3,47,35,8,N/A
+2007,November,2632,2001,Lincoln Financial Field,outdoors,grass,1,2,42,81,13,N/A
+2007,November,2639,2021,Cleveland Browns Stadium,outdoors,grass,3,4,41,49,14,N/A
+2007,November,2639,2027,Gillette Stadium,outdoors,fieldturf,1,2,39,49,8,N/A
+2007,November,2640,2028,Heinz Field,outdoors,dessograss,1,2,60,97,10,N/A
+2007,December,2647,2033,LP Field,outdoors,grass,2,3,61,60,19,N/A
+2007,December,2647,2043,Heinz Field,outdoors,dessograss,2,3,48,93,9,N/A
+2007,December,2654,2051,Lincoln Financial Field,outdoors,grass,5,6,36,79,3,N/A
+2007,December,2668,2089,LP Field,outdoors,grass,1,2,42,38,10,N/A
+2007,December,2674,2093,Giants Stadium,outdoors,fieldturf,3,3,44,53,8,N/A
+2007,December,2675,2107,M&T Bank Stadium,outdoors,sportturf,2,2,42,100,5,N/A
+2008,January,2682,2110,Heinz Field,outdoors,dessograss,2,3,39,95,8,N/A
+2008,September,2926,2126,Heinz Field,outdoors,dessograss,2,2,72,47,11,N/A
+2008,September,2926,2128,LP Field,outdoors,grass,2,3,78,58,0,N/A
+2008,September,2940,2156,LP Field,outdoors,grass,3,3,80,49,4,N/A
+2008,September,2947,2173,LP Field,outdoors,grass,4,5,78,43,10,N/A
+2008,September,2948,2179,Heinz Field,outdoors,dessograss,5,5,65,75,3,N/A
+2008,October,2962,2202,Invesco Field at Mile High,outdoors,grass,2,2,43,76,6,N/A
+2008,October,2969,2213,Giants Stadium,outdoors,fieldturf,3,4,51,45,14,N/A
+2008,October,2976,2233,Heinz Field,outdoors,dessograss,4,4,62,50,10,N/A
+2008,October,2977,2235,LP Field,outdoors,grass,3,4,45,46,10,N/A
+2008,November,2982,2241,LP Field,outdoors,grass,7,8,69,38,0,N/A
+2008,November,2982,2245,Giants Stadium,outdoors,fieldturf,0,0,48,36,6,N/A
+2008,November,2989,2260,Heinz Field,outdoors,dessograss,3,3,44,60,11,N/A
+2008,November,2989,2262,Lincoln Financial Field,outdoors,grass,4,4,48,63,5,N/A
+2008,November,2993,2264,Gillette Stadium,outdoors,fieldturf,5,5,44,99,6,N/A
+2008,November,2996,2270,Giants Stadium,outdoors,fieldturf,2,3,49,46,19,N/A
+2008,November,2996,2271,Raymond James Stadium,outdoors,grass,6,7,62,43,10,N/A
+2008,November,3003,2284,LP Field,outdoors,grass,4,4,52,26,6,N/A
+2008,November,3003,2285,M&T Bank Stadium,outdoors,sportturf,2,3,39,38,5,N/A
+2008,November,3003,2290,Invesco Field at Mile High,outdoors,grass,2,4,47,30,15,N/A
+2008,November,3003,2293,Qwest Field,outdoors,fieldturf,3,5,49,60,4,N/A
+2008,November,3007,2298,Lincoln Financial Field,outdoors,grass,2,2,41,62,5,N/A
+2008,November,3010,2301,Paul Brown Stadium,outdoors,fieldturf,3,3,42,93,3,N/A
+2008,November,3010,2304,Raymond James Stadium,outdoors,grass,5,5,73,83,30,N/A
+2008,November,3010,2307,Gillette Stadium,outdoors,fieldturf,5,7,34,100,3,N/A
+2008,December,3018,2323,Qwest Field,outdoors,fieldturf,3,3,50,86,3,N/A
+2008,December,3019,2327,Bank of America Stadium,outdoors,grass,2,3,38,31,4,N/A
+2008,December,3025,2334,Paul Brown Stadium,outdoors,fieldturf,4,4,49,40,15,N/A
+2008,December,3025,2339,Bank of America Stadium,outdoors,grass,4,5,46,64,5,N/A
+2008,December,3025,2341,M&T Bank Stadium,outdoors,sportturf,5,5,45,53,14,N/A
+2008,December,3032,2350,Raymond James Stadium,outdoors,grass,3,3,72,82,10,N/A
+2008,December,3032,2353,Oakland-Alameda County Coliseum,outdoors,grass,5,5,48,80,6,N/A
+2008,December,3032,2357,FedExField,outdoors,grass,2,3,42,39,17,N/A
+2008,December,3039,2362,Paul Brown Stadium,outdoors,fieldturf,3,3,43,56,17,N/A
+2008,December,3039,2365,Heinz Field,outdoors,dessograss,1,2,48,50,22,N/A
+2008,December,3039,2366,Raymond James Stadium,outdoors,grass,2,2,77,61,5,N/A
+2009,January,3052,2380,LP Field,outdoors,grass,3,4,53,90,11,N/A
+2009,January,3052,2381,Bank of America Stadium,outdoors,grass,4,5,45,60,10,N/A
+2009,February,3071,2386,Raymond James Stadium,outdoors,grass,2,2,66,43,1,N/A
+2009,September,3294,2387,Heinz Field,outdoors,dessograss,3,5,67,54,9,N/A
+2009,September,3297,2394,Raymond James Stadium,outdoors,grass,2,4,85,82,6,N/A
+2009,September,3304,2410,LP Field,outdoors,grass,3,3,77,83,13,N/A
+2009,September,3311,2420,Raymond James Stadium,outdoors,grass,1,2,88,75,12,N/A
+2009,October,3319,2447,Heinz Field,outdoors,dessograss,1,1,54,66,4,N/A
+2009,October,3326,2449,Arrowhead Stadium,outdoors,grass,4,6,40,60,5,N/A
+2009,October,3326,2451,Ralph Wilson Stadium,outdoors,astroplay,3,3,47,54,13,N/A
+2009,October,3326,2461,LP Field,outdoors,grass,4,4,57,75,4,N/A
+2009,October,3333,2463,Raymond James Stadium,outdoors,grass,0,2,64,54,17,N/A
+2009,October,3333,2464,Heinz Field,outdoors,dessograss,2,2,41,77,9,N/A
+2009,October,3333,2466,Lambeau Field,outdoors,grass,4,4,46,65,13,N/A
+2009,October,3333,2469,FedExField,outdoors,grass,6,6,45,79,13,N/A
+2009,October,3340,2479,Cleveland Browns Stadium,outdoors,grass,2,3,50,45,12,N/A
+2009,October,3340,2480,Heinz Field,outdoors,dessograss,3,3,52,57,5,N/A
+2009,November,3346,2490,Soldier Field,outdoors,grass,3,3,50,46,8,N/A
+2009,November,3346,2491,Ralph Wilson Stadium,outdoors,astroplay,4,4,49,47,5,N/A
+2009,November,3346,2498,LP Field,outdoors,grass,3,3,59,40,11,N/A
+2009,November,3346,2501,Lambeau Field,outdoors,grass,3,4,48,56,6,N/A
+2009,November,3353,2509,Raymond James Stadium,outdoors,grass,1,2,82,48,13,N/A
+2009,November,3353,2511,Qwest Field,outdoors,fieldturf,6,7,48,80,11,N/A
+2009,November,3360,2519,LP Field,outdoors,grass,3,4,68,50,5,N/A
+2009,November,3360,2520,Heinz Field,outdoors,dessograss,8,9,64,55,4,N/A
+2009,November,3360,2527,Lambeau Field,outdoors,grass,1,3,47,43,10,N/A
+2009,November,3361,2530,Cleveland Browns Stadium,outdoors,grass,1,2,46,0,16,N/A
+2009,November,3367,2533,Raymond James Stadium,outdoors,grass,1,1,79,78,8,N/A
+2009,November,3367,2539,Giants Stadium,outdoors,fieldturf,3,5,53,54,10,N/A
+2009,November,3367,2543,Gillette Stadium,outdoors,fieldturf,1,2,45,68,10,N/A
+2009,November,3367,2545,Soldier Field,outdoors,grass,5,6,47,87,5,N/A
+2009,November,3374,2551,Ralph Wilson Stadium,outdoors,astroplay,1,2,49,64,15,N/A
+2009,November,3374,2560,LP Field,outdoors,grass,3,3,59,52,9,N/A
+2009,December,3382,2564,Arrowhead Stadium,outdoors,grass,5,5,37,45,6,N/A
+2009,December,3382,2570,Bank of America Stadium,outdoors,grass,5,7,43,50,7,N/A
+2009,December,3382,2575,Giants Stadium,outdoors,fieldturf,2,4,37,46,8,N/A
+2009,December,3389,2581,Raymond James Stadium,outdoors,grass,5,6,73,94,5,N/A
+2009,December,3389,2583,Soldier Field,outdoors,grass,2,3,38,82,8,N/A
+2009,December,3389,2586,Gillette Stadium,outdoors,fieldturf,3,4,40,59,4,N/A
+2009,December,3389,2587,M&T Bank Stadium,outdoors,sportturf,3,4,36,100,3,N/A
+2009,December,3389,2590,LP Field,outdoors,grass,4,4,54,87,0,N/A
+2009,December,3389,2593,Giants Stadium,outdoors,fieldturf,2,2,42,91,0,N/A
+2009,December,3396,2601,LP Field,outdoors,grass,5,5,35,72,5,N/A
+2009,December,3396,2609,Bank of America Stadium,outdoors,grass,0,1,37,43,5,N/A
+2009,December,3403,2617,Heinz Field,outdoors,dessograss,5,5,39,49,9,N/A
+2009,December,3403,2618,Paul Brown Stadium,outdoors,fieldturf,2,2,41,50,14,N/A
+2009,December,3403,2620,Giants Stadium,outdoors,fieldturf,3,3,50,39,12,N/A
+2009,December,3403,2624,Lincoln Financial Field,outdoors,grass,5,5,45,52,7,N/A
+2009,December,3403,2625,FedExField,outdoors,grass,1,1,37,53,8,N/A
+2010,January,3410,2633,Raymond James Stadium,outdoors,grass,3,4,44,0,5,N/A
+2010,January,3410,2638,Invesco Field at Mile High,outdoors,grass,4,4,36,63,6,N/A
+2010,September,3661,2660,Heinz Field,outdoors,grass,6,9,65,67,9,N/A
+2010,September,3661,2661,Raymond James Stadium,outdoors,grass,1,2,87,78,6,N/A
+2010,September,3668,2674,LP Field,outdoors,grass,5,5,87,49,3,N/A
+2010,September,3675,2692,Raymond James Stadium,outdoors,grass,3,3,90,62,7,N/A
+2010,October,3683,2706,LP Field,outdoors,grass,6,7,54,67,13,N/A
+2010,October,3683,2707,Heinz Field,outdoors,grass,1,4,52,86,5,N/A
+2010,October,3697,2735,Heinz Field,outdoors,grass,1,1,61,48,13,N/A
+2010,October,3697,2736,Raymond James Stadium,outdoors,grass,1,4,81,48,9,N/A
+2010,October,3704,2748,Raymond James Stadium,outdoors,grass,5,5,84,62,9,N/A
+2010,October,3711,2767,Gillette Stadium,outdoors,fieldturf,1,1,49,0,16,N/A
+2010,November,3717,2773,Cleveland Browns Stadium,outdoors,grass,2,2,43,0,13,N/A
+2010,November,3717,2775,M&T Bank Stadium,outdoors,fieldturf,5,7,50,38,11,N/A
+2010,November,3717,2777,Bank of America Stadium,outdoors,grass,3,4,50,33,7,N/A
+2010,November,3717,2782,Lambeau Field,outdoors,grass,1,2,43,62,3,N/A
+2010,November,3718,2783,Paul Brown Stadium,outdoors,fieldturf,2,5,44,65,2,N/A
+2010,November,3724,2786,Soldier Field,outdoors,grass,4,6,44,57,22,N/A
+2010,November,3724,2787,Cleveland Browns Stadium,outdoors,grass,4,7,46,77,17,N/A
+2010,November,3724,2790,Raymond James Stadium,outdoors,grass,4,4,73,57,7,N/A
+2010,November,3724,2792,Invesco Field at Mile High,outdoors,grass,1,3,43,34,6,N/A
+2010,November,3724,2796,Heinz Field,outdoors,grass,3,4,49,86,8,N/A
+2010,November,3731,2801,Heinz Field,outdoors,grass,1,1,57,62,9,N/A
+2010,November,3731,2805,LP Field,outdoors,grass,7,9,66,53,12,N/A
+2010,November,3731,2811,Gillette Stadium,outdoors,fieldturf,1,1,37,0,6,N/A
+2010,November,3731,2812,Lincoln Financial Field,outdoors,grass,5,6,45,68,7,N/A
+2010,November,3738,2820,New Meadowlands Stadium,outdoors,fieldturf,5,5,43,43,6,N/A
+2010,November,3738,2821,FedExField,outdoors,grass,3,3,47,44,5,N/A
+2010,November,3738,2822,Cleveland Browns Stadium,outdoors,grass,4,6,39,0,5,N/A
+2010,November,3738,2825,Soldier Field,outdoors,grass,5,5,45,57,16,N/A
+2010,November,3738,2826,M&T Bank Stadium,outdoors,fieldturf,2,2,48,37,3,N/A
+2010,November,3738,2827,Invesco Field at Mile High,outdoors,grass,5,6,45,23,12,N/A
+2010,December,3743,2830,Lincoln Financial Field,outdoors,grass,3,3,36,55,5,N/A
+2010,December,3746,2842,Qwest Field,outdoors,fieldturf,1,2,45,0,6,N/A
+2010,December,3746,2843,Raymond James Stadium,outdoors,grass,1,1,72,53,9,N/A
+2010,December,3753,2847,Ralph Wilson Stadium,outdoors,astroplay,4,4,36,95,6,N/A
+2010,December,3753,2849,Heinz Field,outdoors,grass,3,3,37,89,8,N/A
+2010,December,3753,2850,Bank of America Stadium,outdoors,grass,2,2,44,94,14,N/A
+2010,December,3753,2852,FedExField,outdoors,grass,4,6,43,96,5,N/A
+2010,December,3760,2867,LP Field,outdoors,grass,2,2,36,56,4,N/A
+2010,December,3760,2871,Raymond James Stadium,outdoors,grass,5,5,54,96,10,N/A
+2010,December,3760,2872,Bank of America Stadium,outdoors,grass,6,6,42,57,6,N/A
+2010,December,3767,2884,EverBank Field,outdoors,grass,3,4,38,64,18,N/A
+2010,December,3767,2889,Invesco Field at Mile High,outdoors,grass,4,4,50,18,7,N/A
+2010,December,3767,2891,Raymond James Stadium,outdoors,grass,1,2,49,56,16,N/A
+2011,January,3774,2897,Gillette Stadium,outdoors,fieldturf,1,2,47,91,5,N/A
+2011,January,3774,2901,New Meadowlands Stadium,outdoors,fieldturf,1,1,48,78,5,N/A
+2011,January,3774,2905,Lincoln Financial Field,outdoors,grass,2,3,40,66,10,N/A
+2011,January,3774,2908,FedExField,outdoors,grass,1,3,37,79,7,N/A
+2011,January,3780,2910,Qwest Field,outdoors,fieldturf,5,5,40,0,8,N/A
+2011,September,4025,2929,Raymond James Stadium,outdoors,grass,4,4,86,55,6,N/A
+2011,September,4032,2943,Heinz Field,outdoors,grass,1,2,63,59,12,N/A
+2011,September,4039,2966,Raymond James Stadium,outdoors,grass,5,5,89,94,9,N/A
+2011,October,4047,2973,Cleveland Browns Stadium,outdoors,grass,3,3,48,0,24,N/A
+2011,October,4054,2988,Heinz Field,outdoors,grass,2,2,70,53,3,N/A
+2011,October,4061,3002,Heinz Field,outdoors,grass,3,4,58,52,10,N/A
+2011,October,4068,3012,LP Field,outdoors,grass,2,2,72,35,0,N/A
+2011,October,4075,3026,MetLife Stadium,outdoors,fieldturf,3,3,41,55,12,N/A
+2011,October,4075,3027,LP Field,outdoors,grass,3,3,62,35,0,N/A
+2011,October,4075,3032,Heinz Field,outdoors,grass,4,6,40,79,3,N/A
+2011,October,4075,3035,Lincoln Financial Field,outdoors,grass,2,2,42,64,5,N/A
+2011,November,4081,3044,LP Field,outdoors,grass,2,2,68,39,13,N/A
+2011,November,4081,3049,Heinz Field,outdoors,grass,5,6,50,43,2,N/A
+2011,November,4088,3062,CenturyLink Field,outdoors,fieldturf,6,8,50,0,10,N/A
+2011,November,4089,3066,Lambeau Field,outdoors,grass,1,2,47,68,13,N/A
+2011,November,4095,3078,Soldier Field,outdoors,grass,3,4,42,78,13,N/A
+2011,November,4102,3088,LP Field,outdoors,grass,4,5,47,96,20,N/A
+2011,December,4110,3100,Heinz Field,outdoors,grass,0,2,59,28,14,N/A
+2011,December,4110,3102,Soldier Field,outdoors,grass,2,3,46,79,17,N/A
+2011,December,4117,3120,LP Field,outdoors,grass,4,4,41,44,7,N/A
+2011,December,4117,3121,FedExField,outdoors,grass,4,4,40,33,0,N/A
+2011,December,4117,3122,Bank of America Stadium,outdoors,grass,1,3,43,45,10,N/A
+2011,December,4117,3124,Sports Authority Field at Mile High,outdoors,grass,3,4,50,22,7,N/A
+2011,December,4117,3125,Lambeau Field,outdoors,grass,4,4,43,55,15,N/A
+2011,December,4118,3128,CenturyLink Field,outdoors,fieldturf,5,6,40,0,7,N/A
+2011,December,4124,3134,Soldier Field,outdoors,grass,1,1,39,65,5,N/A
+2011,December,4124,3137,Arrowhead Stadium,outdoors,grass,4,5,50,58,10,N/A
+2011,December,4130,3147,Paul Brown Stadium,outdoors,fieldturf,4,6,38,63,8,N/A
+2011,December,4130,3149,LP Field,outdoors,grass,4,4,44,60,2,N/A
+2011,December,4130,3150,Heinz Field,outdoors,grass,2,4,36,67,4,N/A
+2011,December,4130,3151,Arrowhead Stadium,outdoors,grass,5,8,38,57,7,N/A
+2011,December,4130,3153,M&T Bank Stadium,outdoors,sportturf,2,2,44,32,10,N/A
+2011,December,4130,3155,FedExField,outdoors,grass,6,7,45,36,9,N/A
+2011,December,4130,3158,CenturyLink Field,outdoors,fieldturf,5,6,48,0,8,N/A
+2012,January,4139,3172,Paul Brown Stadium,outdoors,fieldturf,4,5,42,68,19,N/A
+2012,January,4139,3173,Cleveland Browns Stadium,outdoors,grass,5,6,49,66,24,N/A
+2012,January,4139,3176,MetLife Stadium,outdoors,fieldturf,1,3,48,83,7,N/A
+2012,January,4146,3179,MetLife Stadium,outdoors,fieldturf,1,2,44,43,12,N/A
+2012,January,4146,3180,Sports Authority Field at Mile High,outdoors,grass,6,6,40,38,6,N/A
+2012,September,4389,3196,LP Field,outdoors,grass,4,4,74,45,4,N/A
+2012,September,4389,3200,Raymond James Stadium,outdoors,grass,4,4,83,79,15,N/A
+2012,September,4396,3216,Heinz Field,outdoors,grass,3,3,71,36,2,N/A
+2012,September,4403,3225,LP Field,outdoors,grass,7,9,68,32,5,N/A
+2012,September,4410,3248,Raymond James Stadium,outdoors,grass,4,7,89,52,11,N/A
+2012,October,4418,3254,Heinz Field,outdoors,grass,3,3,48,68,4,N/A
+2012,October,4418,3255,Paul Brown Stadium,outdoors,fieldturf,3,5,49,55,6,N/A
+2012,October,4418,3257,FedExField,outdoors,grass,2,3,52,77,3,N/A
+2012,October,4422,3265,LP Field,outdoors,grass,7,8,64,52,2,N/A
+2012,October,4425,3267,Raymond James Stadium,outdoors,grass,2,3,85,55,9,N/A
+2012,October,4432,3284,Raymond James Stadium,outdoors,grass,0,1,77,36,8,N/A
+2012,October,4439,3293,Heinz Field,outdoors,grass,4,4,45,88,10,N/A
+2012,October,4439,3294,Soldier Field,outdoors,grass,6,7,49,51,18,N/A
+2012,October,4439,3297,Lambeau Field,outdoors,grass,4,5,44,47,10,N/A
+2012,October,4439,3298,Cleveland Browns Stadium,outdoors,grass,2,2,44,89,19,N/A
+2012,October,4439,3300,LP Field,outdoors,grass,4,6,52,49,18,N/A
+2012,October,4439,3301,Wembley Stadium,outdoors,astroplay,1,1,49,84,9,N/A
+2012,October,4439,3302,Arrowhead Stadium,outdoors,grass,7,7,50,40,3,N/A
+2012,November,4445,3309,Lambeau Field,outdoors,grass,2,3,39,57,7,N/A
+2012,November,4445,3311,Cleveland Browns Stadium,outdoors,grass,6,6,39,69,8,N/A
+2012,November,4445,3313,LP Field,outdoors,grass,4,4,50,63,6,N/A
+2012,November,4445,3314,FedExField,outdoors,grass,2,3,50,44,3,N/A
+2012,November,4445,3317,MetLife Stadium,outdoors,fieldturf,3,4,44,58,5,N/A
+2012,November,4449,3320,EverBank Field,outdoors,grass,3,4,50,0,0,N/A
+2012,November,4452,3327,Raymond James Stadium,outdoors,grass,3,3,80,51,10,N/A
+2012,November,4453,3333,Heinz Field,outdoors,grass,5,6,45,84,16,N/A
+2012,November,4456,3334,Ralph Wilson Stadium,outdoors,a_turf,4,5,35,73,5,N/A
+2012,November,4459,3345,Gillette Stadium,outdoors,fieldturf,2,4,42,62,14,N/A
+2012,November,4459,3346,Heinz Field,outdoors,grass,3,4,46,52,5,N/A
+2012,November,4466,3351,Soldier Field,outdoors,grass,3,5,41,26,5,N/A
+2012,November,4466,3352,Paul Brown Stadium,outdoors,fieldturf,3,4,41,47,9,N/A
+2012,November,4466,3354,Raymond James Stadium,outdoors,grass,4,7,65,30,7,N/A
+2012,December,4474,3367,Lambeau Field,outdoors,grass,3,5,45,79,8,N/A
+2012,December,4474,3369,LP Field,outdoors,grass,2,2,66,60,19,N/A
+2012,December,4474,3373,MetLife Stadium,outdoors,fieldturf,2,4,46,89,6,N/A
+2012,December,4481,3382,Cleveland Browns Stadium,outdoors,grass,3,4,44,70,5,N/A
+2012,December,4481,3385,Heinz Field,outdoors,grass,3,3,45,80,10,N/A
+2012,December,4481,3387,Raymond James Stadium,outdoors,grass,1,3,69,92,1,N/A
+2012,December,4481,3392,MetLife Stadium,outdoors,fieldturf,3,4,42,88,1,N/A
+2012,December,4481,3393,CenturyLink Field,outdoors,fieldturf,3,3,48,82,8,N/A
+2012,December,4488,3401,Soldier Field,outdoors,grass,2,4,44,79,9,N/A
+2012,December,4488,3402,Cleveland Browns Stadium,outdoors,grass,1,1,59,67,18,N/A
+2012,December,4489,3411,LP Field,outdoors,grass,1,2,54,83,10,N/A
+2012,December,4495,3420,MetLife Stadium,outdoors,fieldturf,3,3,39,54,13,N/A
+2012,December,4495,3421,Lincoln Financial Field,outdoors,grass,4,4,40,52,11,N/A
+2012,December,4495,3422,Raymond James Stadium,outdoors,grass,2,2,59,28,8,N/A
+2012,December,4495,3423,Bank of America Stadium,outdoors,grass,3,4,53,43,3,N/A
+2012,December,4495,3426,M&T Bank Stadium,outdoors,sportturf,4,4,51,33,7,N/A
+2012,December,4495,3427,CenturyLink Field,outdoors,fieldturf,2,3,45,76,3,N/A
+2012,December,4502,3431,LP Field,outdoors,grass,1,1,39,50,4,N/A
+2012,December,4502,3437,Qualcomm Stadium,outdoors,grass,1,1,50,80,3,N/A
+2012,December,4502,3441,Candlestick Park,outdoors,grass,4,6,50,70,5,N/A
+2013,January,4509,3446,M&T Bank Stadium,outdoors,sportturf,4,5,49,36,8,N/A
+2013,January,4523,3453,Gillette Stadium,outdoors,fieldturf,2,2,41,34,18,N/A
+2013,September,4753,3461,Heinz Field,outdoors,grass,3,3,73,76,9,N/A
+2013,September,4760,3482,Raymond James Stadium,outdoors,grass,3,5,93,47,8,N/A
+2013,September,4767,3501,Heinz Field,outdoors,grass,5,5,56,72,5,N/A
+2013,September,4774,3508,Raymond James Stadium,outdoors,grass,3,3,84,55,5,N/A
+2013,October,4789,3539,Raymond James Stadium,outdoors,grass,3,3,82,42,3,N/A
+2013,October,4796,3556,LP Field,outdoors,grass,2,2,68,32,3,N/A
+2013,October,4796,3557,Lambeau Field,outdoors,grass,3,4,46,65,8,N/A
+2013,October,4796,3558,Heinz Field,outdoors,grass,7,7,57,49,14,N/A
+2013,October,4800,3562,Raymond James Stadium,outdoors,grass,3,3,70,53,5,N/A
+2013,November,4809,3581,MetLife Stadium,outdoors,fieldturf,6,7,48,53,14,N/A
+2013,November,4809,3583,CenturyLink Field,outdoors,fieldturf,3,3,48,68,4,N/A
+2013,November,4809,3584,FirstEnergy Stadium,outdoors,grass,2,2,46,54,9,N/A
+2013,November,4809,3585,Gillette Stadium,outdoors,fieldturf,3,3,44,44,6,N/A
+2013,November,4810,3587,Lambeau Field,outdoors,grass,4,4,49,77,14,N/A
+2013,November,4816,3589,Lambeau Field,outdoors,grass,4,7,45,48,12,N/A
+2013,November,4816,3591,Heinz Field,outdoors,grass,4,4,46,56,21,N/A
+2013,November,4816,3594,Soldier Field,outdoors,grass,2,3,47,51,6,N/A
+2013,November,4816,3596,MetLife Stadium,outdoors,fieldturf,3,3,49,71,14,N/A
+2013,November,4817,3601,Raymond James Stadium,outdoors,grass,4,4,73,74,5,N/A
+2013,November,4820,3602,LP Field,outdoors,grass,5,5,44,36,3,N/A
+2013,November,4823,3607,Heinz Field,outdoors,grass,5,5,60,87,12,N/A
+2013,November,4823,3609,Raymond James Stadium,outdoors,grass,4,5,79,74,6,N/A
+2013,November,4823,3614,CenturyLink Field,outdoors,fieldturf,4,4,50,81,14,N/A
+2013,November,4823,3615,Sports Authority Field at Mile High,outdoors,grass,3,4,43,34,6,N/A
+2013,December,4838,3634,FirstEnergy Stadium,outdoors,grass,3,4,40,61,7,N/A
+2013,December,4838,3637,MetLife Stadium,outdoors,fieldturf,4,5,48,59,4,N/A
+2013,December,4838,3638,Lincoln Financial Field,outdoors,grass,1,1,46,53,4,N/A
+2013,December,4839,3646,CenturyLink Field,outdoors,fieldturf,2,2,41,62,6,N/A
+2013,December,4845,3654,Raymond James Stadium,outdoors,grass,4,4,82,62,13,N/A
+2013,December,4852,3668,Raymond James Stadium,outdoors,grass,4,4,70,64,7,N/A
+2013,December,4852,3676,LP Field,outdoors,grass,5,6,37,64,4,N/A
+2013,December,4859,3680,Ralph Wilson Stadium,outdoors,a_turf,4,4,41,79,8,N/A
+2013,December,4859,3689,CenturyLink Field,outdoors,fieldturf,4,5,48,94,6,N/A
+2013,December,4866,3695,Paul Brown Stadium,outdoors,fieldturf,5,5,43,93,3,N/A
+2013,December,4866,3698,LP Field,outdoors,grass,4,4,53,61,4,N/A
+2013,December,4866,3699,Heinz Field,outdoors,grass,2,2,40,93,5,N/A
+2013,December,4866,3706,Gillette Stadium,outdoors,fieldturf,6,6,39,100,8,N/A
+2013,December,4866,3709,CenturyLink Field,outdoors,fieldturf,3,3,40,93,5,N/A
+2014,January,4873,3713,Paul Brown Stadium,outdoors,fieldturf,3,3,42,84,5,N/A
+2014,January,4879,3715,CenturyLink Field,outdoors,fieldturf,3,5,48,75,20,N/A
+2014,January,4880,3718,Sports Authority Field at Mile High,outdoors,grass,2,4,41,20,17,N/A
+2014,February,4898,3721,MetLife Stadium,outdoors,fieldturf,2,2,49,63,4,N/A
+2014,September,5117,3728,Heinz Field,outdoors,grass,5,5,71,55,6,N/A
+2014,September,5117,3734,Raymond James Stadium,outdoors,grass,2,3,88,29,6,N/A
+2014,September,5124,3740,FirstEnergy Stadium,outdoors,grass,3,3,61,62,6,N/A
+2014,September,5124,3741,LP Field,outdoors,grass,5,5,75,45,2,N/A
+2014,September,5124,3748,Raymond James Stadium,outdoors,grass,5,6,88,47,8,N/A
+2014,September,5131,3758,FirstEnergy Stadium,outdoors,grass,3,5,71,70,23,N/A
+2014,September,5138,3776,Heinz Field,outdoors,grass,3,4,74,54,3,N/A
+2014,October,5146,3785,LP Field,outdoors,grass,2,2,67,31,13,N/A
+2014,October,5146,3786,Lincoln Financial Field,outdoors,grass,2,2,59,37,16,N/A
+2014,October,5153,3800,FirstEnergy Stadium,outdoors,grass,2,2,58,48,13,N/A
+2014,October,5153,3804,LP Field,outdoors,grass,3,4,67,87,7,N/A
+2014,October,5153,3805,Raymond James Stadium,outdoors,grass,3,5,84,62,6,N/A
+2014,October,5160,3814,Soldier Field,outdoors,grass,2,4,50,64,10,N/A
+2014,October,5160,3816,Ralph Wilson Stadium,outdoors,a_turf,4,4,41,58,9,N/A
+2014,October,5160,3819,Lambeau Field,outdoors,grass,2,2,48,73,12,N/A
+2014,October,5160,3822,FedExField,outdoors,grass,5,5,55,43,13,N/A
+2014,October,5161,3827,Heinz Field,outdoors,grass,6,6,57,57,6,N/A
+2014,October,5167,3835,Raymond James Stadium,outdoors,grass,4,5,77,34,5,N/A
+2014,October,5167,3839,FirstEnergy Stadium,outdoors,grass,5,5,55,53,20,N/A
+2014,October,5167,3840,Heinz Field,outdoors,grass,2,2,62,28,12,N/A
+2014,November,5173,3844,Paul Brown Stadium,outdoors,fieldturf,2,2,42,42,3,N/A
+2014,November,5173,3845,FirstEnergy Stadium,outdoors,grass,4,6,42,67,8,N/A
+2014,November,5173,3854,Heinz Field,outdoors,grass,1,1,38,57,6,N/A
+2014,November,5177,3856,Paul Brown Stadium,outdoors,fieldturf,2,3,42,86,17,N/A
+2014,November,5180,3857,Ralph Wilson Stadium,outdoors,a_turf,3,3,42,72,10,N/A
+2014,November,5180,3862,Raymond James Stadium,outdoors,grass,5,5,64,73,5,N/A
+2014,November,5180,3863,Wembley Stadium,outdoors,grass,1,2,50,71,3,N/A
+2014,November,5181,3868,Lincoln Financial Field,outdoors,grass,1,1,52,61,5,N/A
+2014,November,5187,3873,Bank of America Stadium,outdoors,grass,5,7,48,28,3,N/A
+2014,November,5187,3875,MetLife Stadium,outdoors,fieldturf,4,4,42,53,0,N/A
+2014,November,5187,3876,FedExField,outdoors,grass,2,4,45,39,6,N/A
+2014,November,5194,3893,Sports Authority Field at Mile High,outdoors,grass,1,2,39,36,6,N/A
+2014,November,5201,3906,Heinz Field,outdoors,grass,3,4,63,55,15,N/A
+2014,November,5201,3908,Raymond James Stadium,outdoors,grass,2,2,77,54,7,N/A
+2014,December,5203,3913,MetLife Stadium,outdoors,fieldturf,5,8,42,75,6,N/A
+2014,December,5206,3914,Soldier Field,outdoors,grass,2,2,35,62,5,N/A
+2014,December,5209,3915,Paul Brown Stadium,outdoors,fieldturf,2,2,39,70,8,N/A
+2014,December,5209,3922,LP Field,outdoors,grass,5,6,45,57,6,N/A
+2014,December,5209,3923,FedExField,outdoors,grass,1,3,45,37,8,N/A
+2014,December,5209,3926,Lincoln Financial Field,outdoors,grass,1,1,45,32,15,N/A
+2014,December,5216,3932,Ralph Wilson Stadium,outdoors,a_turf,6,7,38,89,10,N/A
+2014,December,5216,3933,FirstEnergy Stadium,outdoors,grass,3,3,43,94,7,N/A
+2014,December,5216,3935,Gillette Stadium,outdoors,fieldturf,4,5,43,55,9,N/A
+2014,December,5216,3936,MetLife Stadium,outdoors,fieldturf,3,3,43,63,9,N/A
+2014,December,5216,3940,LP Field,outdoors,grass,4,5,54,58,6,N/A
+2014,December,5216,3943,CenturyLink Field,outdoors,fieldturf,1,1,46,74,4,N/A
+2014,December,5216,3944,Lincoln Financial Field,outdoors,grass,3,3,41,69,9,N/A
+2014,December,5217,3945,Soldier Field,outdoors,grass,1,2,44,93,5,N/A
+2014,December,5223,3951,Heinz Field,outdoors,grass,6,6,36,50,1,N/A
+2014,December,5223,3955,Raymond James Stadium,outdoors,grass,3,4,75,65,7,N/A
+2014,December,5223,3956,Bank of America Stadium,outdoors,grass,3,4,48,65,3,N/A
+2014,December,5224,3961,Paul Brown Stadium,outdoors,fieldturf,3,4,47,70,8,N/A
+2014,December,5230,3964,Gillette Stadium,outdoors,fieldturf,4,4,49,74,9,N/A
+2014,December,5230,3965,MetLife Stadium,outdoors,fieldturf,6,6,48,82,8,N/A
+2014,December,5230,3966,LP Field,outdoors,grass,3,4,40,99,6,N/A
+2014,December,5230,3970,Raymond James Stadium,outdoors,grass,2,2,79,74,6,N/A
+2014,December,5230,3973,Sports Authority Field at Mile High,outdoors,grass,4,4,40,28,7,N/A
+2014,December,5230,3976,CenturyLink Field,outdoors,fieldturf,4,4,43,81,5,N/A
+2014,December,5230,3977,Heinz Field,outdoors,grass,3,4,37,68,5,N/A
+2015,January,5236,3979,Heinz Field,outdoors,grass,6,6,48,80,10,N/A
+2015,January,5244,3985,Sports Authority Field at Mile High,outdoors,grass,3,4,40,71,7,N/A
+2015,September,5488,4001,Raymond James Stadium,outdoors,grass,0,0,84,66,8,N/A
+2015,September,5495,4012,Heinz Field,outdoors,grass,1,1,66,60,10,N/A
+2015,September,5502,4030,Nissan Stadium,outdoors,grass,2,2,74,77,3,N/A
+2015,October,5507,4037,Heinz Field,outdoors,grass,5,7,63,62,8,N/A
+2015,October,5510,4044,Raymond James Stadium,outdoors,grass,4,6,74,92,5,N/A
+2015,October,5517,4059,Nissan Stadium,outdoors,grass,2,2,67,58,5,N/A
+2015,October,5524,4067,Ralph Wilson Stadium,outdoors,a_turf,2,2,40,73,4,N/A
+2015,October,5524,4068,FirstEnergy Stadium,outdoors,grass,5,6,47,52,20,N/A
+2015,October,5524,4072,MetLife Stadium,outdoors,fieldturf,4,5,49,30,16,N/A
+2015,October,5524,4073,Nissan Stadium,outdoors,grass,2,2,56,39,8,N/A
+2015,October,5524,4074,Heinz Field,outdoors,grass,6,7,45,47,12,N/A
+2015,October,5525,4079,Lincoln Financial Field,outdoors,grass,2,2,44,49,6,N/A
+2015,October,5531,4086,Nissan Stadium,outdoors,grass,1,2,59,95,8,N/A
+2015,November,5537,4102,Heinz Field,outdoors,grass,4,5,62,71,11,N/A
+2015,November,5544,4109,Ralph Wilson Stadium,outdoors,a_turf,2,2,49,55,7,N/A
+2015,November,5544,4114,Heinz Field,outdoors,grass,3,4,54,38,5,N/A
+2015,November,5544,4117,Raymond James Stadium,outdoors,grass,8,9,80,90,3,N/A
+2015,November,5551,4125,Heinz Field,outdoors,grass,4,4,61,32,12,N/A
+2015,November,5551,4128,Raymond James Stadium,outdoors,grass,3,5,79,56,13,N/A
+2015,November,5558,4137,Bank of America Stadium,outdoors,grass,3,3,50,63,8,N/A
+2015,November,5558,4140,Lincoln Financial Field,outdoors,grass,2,2,48,41,15,N/A
+2015,November,5558,4141,M&T Bank Stadium,outdoors,sportturf,3,6,47,39,14,N/A
+2015,November,5558,4146,CenturyLink Field,outdoors,fieldturf,3,3,46,60,6,N/A
+2015,November,5565,4153,Paul Brown Stadium,outdoors,fieldturf,1,1,41,88,8,N/A
+2015,November,5565,4157,Nissan Stadium,outdoors,grass,1,1,56,100,4,N/A
+2015,November,5565,4160,FedExField,outdoors,grass,2,3,46,93,5,N/A
+2015,November,5566,4164,FirstEnergy Stadium,outdoors,grass,4,5,45,58,9,N/A
+2015,December,5573,4167,Ralph Wilson Stadium,outdoors,a_turf,1,2,47,65,8,N/A
+2015,December,5573,4168,Soldier Field,outdoors,grass,2,4,50,55,5,N/A
+2015,December,5573,4169,TCF Bank Stadium,outdoors,fieldturf,1,1,37,86,3,N/A
+2015,December,5573,4171,FirstEnergy Stadium,outdoors,grass,4,5,45,63,12,N/A
+2015,December,5573,4173,MetLife Stadium,outdoors,fieldturf,5,6,51,50,8,N/A
+2015,December,5573,4174,Raymond James Stadium,outdoors,grass,5,5,79,63,18,N/A
+2015,December,5573,4179,Heinz Field,outdoors,grass,4,5,37,74,2,N/A
+2015,December,5580,4190,Raymond James Stadium,outdoors,grass,2,3,81,63,15,N/A
+2015,December,5580,4192,Arrowhead Stadium,outdoors,grass,2,4,61,97,14,N/A
+2015,December,5587,4201,TCF Bank Stadium,outdoors,fieldturf,2,2,36,0,3,N/A
+2015,December,5587,4202,Gillette Stadium,outdoors,fieldturf,5,6,40,41,12,N/A
+2015,December,5587,4203,MetLife Stadium,outdoors,fieldturf,1,2,41,37,8,N/A
+2015,December,5587,4204,M&T Bank Stadium,outdoors,sportturf,2,2,41,35,5,N/A
+2015,December,5587,4205,FedExField,outdoors,grass,1,1,43,30,3,N/A
+2015,December,5587,4207,CenturyLink Field,outdoors,fieldturf,5,5,47,56,10,N/A
+2015,December,5587,4208,Heinz Field,outdoors,grass,2,2,41,35,8,N/A
+2015,December,5587,4211,Lincoln Financial Field,outdoors,grass,3,3,37,54,4,N/A
+2015,December,5591,4213,O.co Coliseum,outdoors,grass,4,5,47,70,25,N/A
+2015,December,5593,4214,Lincoln Financial Field,outdoors,grass,2,2,52,72,6,N/A
+2015,December,5594,4216,Ralph Wilson Stadium,outdoors,a_turf,3,4,39,83,11,N/A
+2015,December,5594,4223,Raymond James Stadium,outdoors,grass,4,5,83,59,13,N/A
+2016,January,5602,4238,MetLife Stadium,outdoors,fieldturf,3,3,45,38,17,N/A
+2016,January,5602,4241,Sports Authority Field at Mile High,outdoors,grass,4,4,50,21,5,N/A
+2016,January,5615,4249,Gillette Stadium,outdoors,fieldturf,4,4,38,86,6,N/A
+2016,January,5616,4251,Bank of America Stadium,outdoors,grass,2,3,43,65,7,N/A
+2016,January,5616,4252,Sports Authority Field at Mile High,outdoors,grass,8,8,43,36,9,N/A
+2016,January,5623,4253,Sports Authority Field at Mile High,outdoors,grass,4,4,46,36,6,N/A
+2016,January,5623,4254,Bank of America Stadium,outdoors,grass,2,2,39,39,4,N/A
+2016,September,5852,4264,Nissan Stadium,outdoors,grass,5,7,76,47,5,N/A
+2016,September,5859,4277,Heinz Field,outdoors,grass,4,4,72,86,4,N/A
+2016,September,5866,4296,Nissan Stadium,outdoors,grass,2,2,89,49,2,N/A
+2016,September,5866,4298,Raymond James Stadium,outdoors,grass,1,2,91,58,4,N/A
+2016,October,5874,4313,Raymond James Stadium,outdoors,grass,2,2,88,63,7,N/A
+2016,October,5874,4317,Heinz Field,outdoors,grass,0,1,59,80,6,N/A
+2016,October,5881,4324,Heinz Field,outdoors,grass,3,3,57,60,9,N/A
+2016,October,5881,4331,Lambeau Field,outdoors,grass,6,6,49,0,7,N/A
+2016,October,5892,4348,Lambeau Field,outdoors,grass,3,4,47,63,10,N/A
+2016,October,5895,4354,Nissan Stadium,outdoors,grass,4,4,68,50,5,N/A
+2016,October,5895,4360,Heinz Field,outdoors,grass,3,5,63,54,13,N/A
+2016,October,5902,4366,New Era Field,outdoors,a_turf,3,4,49,92,9,N/A
+2016,October,5902,4367,FirstEnergy Stadium,outdoors,grass,3,3,53,91,15,N/A
+2016,October,5902,4369,Raymond James Stadium,outdoors,grass,2,4,86,54,15,N/A
+2019,September,6941,5057,Soldier Field,outdoors,grass,2,2,65,69,10,N/A
+2019,September,6944,5058,Bank of America Stadium,outdoors,grass,5,7,87,53,3,N/A
+2019,September,6944,5059,FirstEnergy Stadium,outdoors,grass,2,2,71,55,10,N/A
+2019,September,6944,5060,TIAA Bank Stadium,outdoors,grass,6,6,91,54,6,N/A
+2019,September,6944,5061,Hard Rock Stadium,outdoors,grass,2,2,91,56,8,N/A
+2019,September,6944,5063,MetLife Stadium,outdoors,fieldturf,1,2,77,46,6,N/A
+2019,September,6944,5064,Lincoln Financial Field,outdoors,grass,3,3,79,49,4,N/A
+2019,September,6944,5065,StubHub Center,outdoors,grass,2,4,77,52,10,N/A
+2019,September,6944,5066,CenturyLink Field,outdoors,fieldturf,2,3,64,82,7,N/A
+2019,September,6944,5069,Raymond James Stadium,outdoors,grass,4,5,93,52,9,N/A
+2019,September,6944,5070,Gillette Stadium,outdoors,fieldturf,5,5,66,62,2,N/A
+2019,September,6945,5072,Ring Central Coliseum,outdoors,grass,4,5,68,66,15,N/A
+2019,September,6948,5073,Bank of America Stadium,outdoors,grass,6,7,85,55,3,N/A
+2019,September,6951,5074,Paul Brown Stadium,outdoors,grass,3,5,81,45,5,N/A
+2019,September,6951,5076,Lambeau Field,outdoors,grass,1,2,72,75,5,N/A
+2019,September,6951,5078,Hard Rock Stadium,outdoors,grass,1,2,87,67,4,N/A
+2019,September,6951,5079,MetLife Stadium,outdoors,fieldturf,0,1,79,48,5,N/A
+2019,September,6951,5080,Nissan Stadium,outdoors,grass,1,2,93,45,1,N/A
+2019,September,6951,5081,Heinz Field,outdoors,grass,2,3,81,51,3,N/A
+2019,September,6951,5082,M&T Bank Stadium,outdoors,grass,6,6,82,60,8,N/A
+2019,September,6951,5083,FedExField,outdoors,grass,1,1,80,46,7,N/A
+2019,September,6951,5084,Ring Central Coliseum,outdoors,grass,1,1,70,61,13,N/A
+2019,September,6951,5085,Empower Field at Mile High,outdoors,grass,5,5,87,14,3,N/A
+2019,September,6951,5086,Los Angeles Memorial Coliseum,outdoors,grass,5,5,85,44,4,N/A
+2019,September,6952,5088,MetLife Stadium,outdoors,fieldturf,4,4,72,69,3,N/A
+2019,September,6955,5089,TIAA Bank Stadium,outdoors,grass,2,2,73,87,9,N/A
+2019,September,6958,5090,New Era Field,outdoors,astroturf,3,4,83,53,13,N/A
+2019,September,6958,5093,Lambeau Field,outdoors,grass,3,4,69,93,7,N/A
+2019,September,6958,5096,Gillette Stadium,outdoors,fieldturf,1,1,81,49,10,N/A
+2019,September,6958,5097,Lincoln Financial Field,outdoors,grass,3,4,84,53,7,N/A
+2019,September,6958,5099,Raymond James Stadium,outdoors,grass,5,6,88,46,11,N/A
+2019,September,6958,5100,StubHub Center,outdoors,grass,2,3,87,37,4,N/A
+2019,September,6958,5101,CenturyLink Field,outdoors,fieldturf,0,0,63,85,8,N/A
+2019,September,6958,5102,Levi's Stadium,outdoors,grass,3,3,79,36,3,N/A
+2019,September,6958,5103,FirstEnergy Stadium,outdoors,grass,4,5,83,33,12,N/A
+2019,September,6959,5104,FedExField,outdoors,grass,2,4,87,39,5,N/A
+2019,September,6962,5105,Lambeau Field,outdoors,grass,2,2,60,62,3,N/A
+2019,September,6965,5107,New Era Field,outdoors,astroturf,2,3,58,71,10,N/A
+2019,September,6965,5111,Hard Rock Stadium,outdoors,grass,4,6,88,53,15,N/A
+2019,September,6965,5112,MetLife Stadium,outdoors,fieldturf,2,2,77,42,11,N/A
+2019,September,6965,5113,M&T Bank Stadium,outdoors,grass,3,3,83,57,8,N/A
+2019,September,6965,5115,Los Angeles Memorial Coliseum,outdoors,grass,4,4,74,41,2,N/A
+2019,September,6965,5116,Soldier Field,outdoors,grass,3,3,67,89,8,N/A
+2019,September,6965,5117,Empower Field at Mile High,outdoors,grass,5,5,87,11,14,N/A
+2019,September,6966,5119,Heinz Field,outdoors,grass,3,3,76,72,1,N/A
+2019,October,6970,5120,CenturyLink Field,outdoors,fieldturf,4,6,57,56,7,N/A
+2019,October,6973,5121,Bank of America Stadium,outdoors,grass,2,4,72,59,4,N/A
+2019,October,6973,5122,Paul Brown Stadium,outdoors,grass,7,8,76,68,6,N/A
+2019,October,6973,5125,MetLife Stadium,outdoors,fieldturf,5,5,66,73,10,N/A
+2019,October,6973,5126,Nissan Stadium,outdoors,grass,0,4,77,71,13,N/A
+2019,October,6973,5127,Lincoln Financial Field,outdoors,grass,1,2,68,68,10,N/A
+2019,October,6973,5128,Heinz Field,outdoors,grass,7,7,70,74,7,N/A
+2019,October,6973,5129,Tottenham Stadium,outdoors,grass,1,1,59,60,15,N/A
+2019,October,6973,5130,FedExField,outdoors,grass,2,2,70,66,8,N/A
+2019,October,6973,5131,StubHub Center,outdoors,grass,4,6,85,35,12,N/A
+2019,October,6973,5133,Arrowhead Stadium,outdoors,grass,6,6,59,75,3,N/A
+2019,October,6974,5134,Levi's Stadium,outdoors,grass,2,5,87,36,8,N/A
+2019,October,6977,5135,Gillette Stadium,outdoors,fieldturf,0,1,54,61,13,N/A
+2019,October,6980,5136,Tottenham Stadium,outdoors,grass,4,6,61,86,14,N/A
+2019,October,6980,5137,FirstEnergy Stadium,outdoors,grass,2,2,58,38,20,N/A
+2019,October,6980,5138,TIAA Bank Stadium,outdoors,grass,4,4,81,56,3,N/A
+2019,October,6980,5139,Arrowhead Stadium,outdoors,grass,2,4,56,47,2,N/A
+2019,October,6980,5140,Hard Rock Stadium,outdoors,grass,2,3,84,66,13,N/A
+2019,October,6980,5142,M&T Bank Stadium,outdoors,grass,4,4,64,43,7,N/A
+2019,October,6980,5144,Los Angeles Memorial Coliseum,outdoors,grass,2,3,77,42,2,N/A
+2019,October,6980,5145,Empower Field at Mile High,outdoors,grass,3,3,69,9,7,N/A
+2019,October,6980,5146,MetLife Stadium,outdoors,fieldturf,4,5,66,38,7,N/A
+2019,October,6980,5147,StubHub Center,outdoors,grass,2,3,71,61,9,N/A
+2019,October,6981,5148,Lambeau Field,outdoors,grass,8,8,43,73,5,N/A
+2019,October,6984,5149,Empower Field at Mile High,outdoors,grass,3,4,75,7,6,N/A
+2019,October,6987,5151,New Era Field,outdoors,astroturf,3,3,65,54,7,N/A
+2019,October,6987,5152,Paul Brown Stadium,outdoors,grass,5,5,70,63,2,N/A
+2019,October,6987,5155,Lambeau Field,outdoors,grass,1,1,55,74,6,N/A
+2019,October,6987,5156,MetLife Stadium,outdoors,fieldturf,2,3,56,78,3,N/A
+2019,October,6987,5157,FedExField,outdoors,grass,3,5,55,93,12,N/A
+2019,October,6987,5158,Nissan Stadium,outdoors,grass,3,3,77,40,2,N/A
+2019,October,6987,5159,Soldier Field,outdoors,grass,3,5,54,84,6,N/A
+2019,October,6987,5160,CenturyLink Field,outdoors,fieldturf,6,7,50,79,8,N/A
+2019,October,6988,5162,MetLife Stadium,outdoors,fieldturf,1,1,58,73,0,N/A
+2019,October,6994,5165,New Era Field,outdoors,astroturf,1,2,54,87,23,N/A
+2019,October,6994,5166,Soldier Field,outdoors,grass,4,7,52,59,9,N/A
+2019,October,6994,5171,Nissan Stadium,outdoors,grass,5,5,59,67,3,N/A
+2019,October,6994,5172,Wembley Stadium,outdoors,grass,2,2,48,69,5,N/A
+2019,October,6994,5173,Levi's Stadium,outdoors,grass,2,2,66,20,19,N/A
+2019,October,6994,5175,Gillette Stadium,outdoors,fieldturf,4,6,49,91,11,N/A
+2019,October,6994,5176,Arrowhead Stadium,outdoors,grass,2,3,54,60,5,N/A
+2019,October,6995,5177,Heinz Field,outdoors,grass,2,3,59,50,2,N/A
+2019,November,7000,5179,Wembley Stadium,outdoors,grass,3,4,53,54,6,N/A
+2019,November,7000,5180,New Era Field,outdoors,astroturf,4,4,42,56,18,N/A
+2019,November,7000,5181,Bank of America Stadium,outdoors,grass,1,5,58,34,5,N/A
+2019,November,7000,5182,Arrowhead Stadium,outdoors,grass,5,5,54,37,15,N/A
+2019,November,7000,5183,Hard Rock Stadium,outdoors,grass,4,6,85,64,11,N/A
+2019,November,7000,5184,Lincoln Financial Field,outdoors,grass,3,3,52,37,13,N/A
+2019,November,7000,5185,Heinz Field,outdoors,grass,5,6,48,47,12,N/A
+2019,November,7000,5186,Ring Central Coliseum,outdoors,grass,2,3,71,34,6,N/A
+2019,November,7000,5187,CenturyLink Field,outdoors,fieldturf,4,7,54,66,6,N/A
+2019,November,7000,5188,Empower Field at Mile High,outdoors,grass,5,5,55,32,4,N/A
+2019,November,7000,5190,M&T Bank Stadium,outdoors,grass,3,3,48,41,1,N/A
+2019,November,7001,5191,MetLife Stadium,outdoors,fieldturf,7,8,51,58,10,N/A
+2019,November,7004,5192,Ring Central Coliseum,outdoors,grass,3,4,54,84,9,N/A
+2019,November,7007,5193,Soldier Field,outdoors,grass,2,2,40,80,12,N/A
+2019,November,7007,5194,Paul Brown Stadium,outdoors,grass,2,2,56,53,9,N/A
+2019,November,7007,5197,MetLife Stadium,outdoors,fieldturf,2,3,48,50,8,N/A
+2019,November,7007,5198,Nissan Stadium,outdoors,grass,4,5,63,35,9,N/A
+2019,November,7007,5199,Raymond James Stadium,outdoors,grass,5,5,77,53,8,N/A
+2019,November,7007,5202,Heinz Field,outdoors,grass,2,3,55,44,12,N/A
+2019,November,7008,5204,Levi's Stadium,outdoors,grass,5,6,77,32,3,N/A
+2019,November,7011,5205,FirstEnergy Stadium,outdoors,grass,0,3,36,57,10,N/A
+2019,November,7014,5206,Bank of America Stadium,outdoors,grass,4,5,51,50,11,N/A
+2019,November,7014,5209,Hard Rock Stadium,outdoors,grass,3,3,62,74,13,N/A
+2019,November,7014,5211,M&T Bank Stadium,outdoors,grass,2,4,44,56,10,N/A
+2019,November,7014,5212,Raymond James Stadium,outdoors,grass,3,3,55,79,4,N/A
+2019,November,7014,5213,FedExField,outdoors,grass,1,3,43,58,8,N/A
+2019,November,7014,5214,Levi's Stadium,outdoors,grass,3,3,72,46,0,N/A
+2019,November,7014,5215,Lincoln Financial Field,outdoors,grass,4,4,42,57,13,N/A
+2019,November,7014,5216,Ring Central Coliseum,outdoors,grass,2,3,76,41,13,N/A
+2019,November,7014,5217,Los Angeles Memorial Coliseum,outdoors,grass,1,3,79,20,0,N/A
+2019,November,7015,5218,Azteca Stadium,outdoors,grass,4,5,67,63,7,N/A
+2019,November,7021,5221,New Era Field,outdoors,astroturf,3,3,40,75,17,N/A
+2019,November,7021,5222,Soldier Field,outdoors,grass,2,4,48,59,12,N/A
+2019,November,7021,5223,Paul Brown Stadium,outdoors,grass,4,4,46,62,10,N/A
+2019,November,7021,5224,FirstEnergy Stadium,outdoors,grass,3,4,39,73,14,N/A
+2019,November,7021,5226,MetLife Stadium,outdoors,fieldturf,3,5,43,93,12,N/A
+2019,November,7021,5227,Lincoln Financial Field,outdoors,grass,2,2,40,78,17,N/A
+2019,November,7021,5228,FedExField,outdoors,grass,7,8,46,56,17,N/A
+2019,November,7021,5229,Nissan Stadium,outdoors,grass,2,2,52,54,9,N/A
+2019,November,7021,5230,Gillette Stadium,outdoors,fieldturf,5,8,38,90,16,N/A
+2019,November,7021,5231,Levi's Stadium,outdoors,grass,3,3,63,40,7,N/A
+2019,November,7022,5232,Los Angeles Memorial Coliseum,outdoors,grass,3,3,62,64,5,N/A
+2019,December,7029,5236,Bank of America Stadium,outdoors,grass,3,4,64,77,16,N/A
+2019,December,7029,5237,Paul Brown Stadium,outdoors,grass,4,5,46,77,15,N/A
+2019,December,7029,5241,MetLife Stadium,outdoors,fieldturf,3,3,32,86,10,N/A
+2019,December,7029,5242,Heinz Field,outdoors,grass,4,4,46,91,6,N/A
+2019,December,7029,5243,M&T Bank Stadium,outdoors,grass,3,4,40,91,13,N/A
+2019,December,7029,5245,Empower Field at Mile High,outdoors,grass,5,6,33,51,7,N/A
+2019,December,7029,5246,Arrowhead Stadium,outdoors,grass,2,3,36,55,20,N/A
+2019,December,7030,5248,CenturyLink Field,outdoors,fieldturf,4,4,51,65,1,N/A
+2019,December,7033,5249,Soldier Field,outdoors,grass,2,3,44,66,9,N/A
+2019,December,7036,5251,New Era Field,outdoors,astroturf,4,4,43,48,18,N/A
+2019,December,7036,5252,FirstEnergy Stadium,outdoors,grass,6,6,48,58,16,N/A
+2019,December,7036,5253,Lambeau Field,outdoors,grass,3,3,37,75,10,N/A
+2019,December,7036,5257,MetLife Stadium,outdoors,fieldturf,10,11,41,47,9,N/A
+2019,December,7036,5258,Raymond James Stadium,outdoors,grass,3,4,78,58,9,N/A
+2019,December,7036,5261,Gillette Stadium,outdoors,fieldturf,4,5,32,56,8,N/A
+2019,December,7036,5262,Ring Central Coliseum,outdoors,grass,0,1,59,78,5,N/A
+2019,December,7036,5263,Los Angeles Memorial Coliseum,outdoors,grass,2,3,60,79,4,N/A
+2019,December,7037,5264,Lincoln Financial Field,outdoors,grass,2,3,53,87,11,N/A
+2019,December,7040,5265,M&T Bank Stadium,outdoors,grass,0,1,33,55,3,N/A
+2019,December,7043,5266,Bank of America Stadium,outdoors,grass,2,2,56,45,5,N/A
+2019,December,7043,5267,Paul Brown Stadium,outdoors,grass,4,4,36,58,6,N/A
+2019,December,7043,5269,Lambeau Field,outdoors,grass,2,2,11,70,7,N/A
+2019,December,7043,5270,Arrowhead Stadium,outdoors,grass,4,4,24,88,8,N/A
+2019,December,7043,5271,MetLife Stadium,outdoors,fieldturf,2,3,48,42,19,N/A
+2019,December,7043,5272,Nissan Stadium,outdoors,grass,1,2,45,71,4,N/A
+2019,December,7043,5273,FedExField,outdoors,grass,3,3,52,44,13,N/A
+2019,December,7043,5275,Ring Central Coliseum,outdoors,grass,5,6,59,52,7,N/A
+2019,December,7043,5276,StubHub Center,outdoors,grass,5,5,64,28,14,N/A
+2019,December,7043,5278,Levi's Stadium,outdoors,grass,4,4,55,58,6,N/A
+2019,December,7043,5279,Heinz Field,outdoors,grass,2,2,31,67,6,N/A
+2019,December,7049,5281,Raymond James Stadium,outdoors,grass,5,6,73,65,11,N/A
+2019,December,7049,5282,Gillette Stadium,outdoors,fieldturf,4,4,33,64,2,N/A
+2019,December,7049,5283,Levi's Stadium,outdoors,grass,3,4,58,66,12,N/A
+2019,December,7050,5285,FirstEnergy Stadium,outdoors,grass,2,2,49,41,10,N/A
+2019,December,7050,5287,Hard Rock Stadium,outdoors,grass,3,4,76,68,15,N/A
+2019,December,7050,5288,MetLife Stadium,outdoors,fieldturf,4,4,45,52,6,N/A
+2019,December,7050,5289,Nissan Stadium,outdoors,grass,1,1,50,59,4,N/A
+2019,December,7050,5290,FedExField,outdoors,grass,0,1,44,52,6,N/A
+2019,December,7050,5291,Empower Field at Mile High,outdoors,grass,3,3,67,8,3,N/A
+2019,December,7050,5292,StubHub Center,outdoors,grass,2,2,64,60,10,N/A
+2019,December,7050,5293,Lincoln Financial Field,outdoors,grass,4,6,47,46,7,N/A
+2019,December,7050,5294,CenturyLink Field,outdoors,fieldturf,4,5,43,87,7,N/A
+2019,December,7050,5295,Soldier Field,outdoors,grass,3,3,45,66,10,N/A
+2019,December,7057,5297,New Era Field,outdoors,astroturf,4,6,43,85,7,N/A
+2019,December,7057,5298,Bank of America Stadium,outdoors,grass,1,1,63,89,9,N/A
+2019,December,7057,5299,Paul Brown Stadium,outdoors,grass,3,3,64,80,7,N/A
+2019,December,7057,5301,Arrowhead Stadium,outdoors,grass,1,1,40,70,16,N/A
+2019,December,7057,5303,Gillette Stadium,outdoors,fieldturf,3,3,43,41,2,N/A
+2019,December,7057,5304,Raymond James Stadium,outdoors,grass,5,8,78,77,12,N/A
+2019,December,7057,5306,Empower Field at Mile High,outdoors,grass,6,8,31,43,6,N/A
+2019,December,7057,5309,MetLife Stadium,outdoors,fieldturf,3,3,42,69,5,N/A
+2019,December,7057,5310,Los Angeles Memorial Coliseum,outdoors,grass,2,3,62,47,0,N/A
+2019,December,7057,5311,M&T Bank Stadium,outdoors,grass,5,5,46,91,7,N/A
+2019,December,7057,5312,CenturyLink Field,outdoors,fieldturf,2,2,51,70,3,N/A
+2020,January,7064,5314,Gillette Stadium,outdoors,fieldturf,2,2,44,88,4,N/A
+2020,January,7065,5316,Lincoln Financial Field,outdoors,grass,4,5,41,40,17,N/A
+2020,January,7071,5317,Levi's Stadium,outdoors,grass,3,3,56,67,11,N/A
+2020,January,7071,5318,M&T Bank Stadium,outdoors,grass,2,2,69,70,12,N/A
+2020,January,7072,5320,Lambeau Field,outdoors,grass,1,2,23,74,8,N/A
+2020,January,7079,5322,Levi's Stadium,outdoors,grass,3,3,58,56,5,N/A
+2020,September,7312,5324,Arrowhead Stadium,outdoors,grass,2,3,56,95,7,N/A
+2020,September,7315,5326,Bills Stadium,outdoors,astroturf,3,5,67,93,15,N/A
+2020,September,7315,5327,Bank of America Stadium,outdoors,grass,5,5,81,59,5,N/A
+2020,September,7315,5329,TIAA Bank Stadium,outdoors,grass,4,5,80,85,3,N/A
+2020,September,7315,5331,Gillette Stadium,outdoors,fieldturf,1,2,70,62,8,N/A
+2020,September,7315,5332,M&T Bank Stadium,outdoors,grass,1,2,76,72,5,N/A
+2020,September,7315,5333,FedExField,outdoors,grass,3,5,76,68,5,N/A
+2020,September,7315,5334,Paul Brown Stadium,outdoors,grass,5,7,83,56,6,N/A
+2020,September,7315,5336,Levi's Stadium,outdoors,grass,3,5,66,68,6,N/A
+2020,September,7316,5338,MetLife Stadium,outdoors,fieldturf,3,3,71,44,5,N/A
+2020,September,7316,5339,Empower Field at Mile High,outdoors,grass,1,4,79,14,10,N/A
+2020,September,7319,5340,FirstEnergy Stadium,outdoors,grass,3,3,65,52,8,N/A
+2020,September,7322,5341,Soldier Field,outdoors,grass,3,5,66,41,12,N/A
+2020,September,7322,5344,Lambeau Field,outdoors,grass,2,3,66,41,12,N/A
+2020,September,7322,5345,Hard Rock Stadium,outdoors,grass,3,3,90,68,5,N/A
+2020,September,7322,5346,MetLife Stadium,outdoors,fieldturf,3,3,61,29,7,N/A
+2020,September,7322,5347,Nissan Stadium,outdoors,grass,3,3,72,60,5,N/A
+2020,September,7322,5348,Lincoln Financial Field,outdoors,grass,3,3,62,34,12,N/A
+2020,September,7322,5349,Heinz Field,outdoors,grass,3,4,64,39,5,N/A
+2020,September,7322,5350,Raymond James Stadium,outdoors,grass,2,2,85,72,17,N/A
+2020,September,7322,5354,Lumen Field,outdoors,fieldturf,1,2,70,57,5,N/A
+2020,September,7326,5356,TIAA Bank Stadium,outdoors,grass,1,1,81,75,12,N/A
+2020,September,7329,5358,Bills Stadium,outdoors,astroturf,1,2,79,52,16,N/A
+2020,September,7329,5359,FirstEnergy Stadium,outdoors,grass,2,2,73,64,18,N/A
+2020,September,7329,5361,Gillette Stadium,outdoors,fieldturf,5,6,73,81,8,N/A
+2020,September,7329,5362,MetLife Stadium,outdoors,fieldturf,6,7,75,72,2,N/A
+2020,September,7329,5363,Lincoln Financial Field,outdoors,grass,6,6,76,82,5,N/A
+2020,September,7329,5364,Heinz Field,outdoors,grass,2,2,79,69,6,N/A
+2020,September,7329,5368,Empower Field at Mile High,outdoors,grass,3,3,55,39,7,N/A
+2020,September,7329,5369,Lumen Field,outdoors,fieldturf,2,2,63,65,3,N/A
+2020,September,7330,5371,M&T Bank Stadium,outdoors,grass,2,3,73,84,8,N/A
+2020,October,7334,5372,MetLife Stadium,outdoors,fieldturf,8,8,64,55,6,N/A
+2020,October,7337,5373,Bank of America Stadium,outdoors,grass,1,2,68,48,8,N/A
+2020,October,7337,5374,Soldier Field,outdoors,grass,5,5,52,54,10,N/A
+2020,October,7337,5375,Paul Brown Stadium,outdoors,grass,8,9,64,58,6,N/A
+2020,October,7337,5379,Hard Rock Stadium,outdoors,grass,6,6,86,71,13,N/A
+2020,October,7337,5380,Raymond James Stadium,outdoors,grass,2,4,75,87,6,N/A
+2020,October,7337,5381,FedExField,outdoors,grass,2,3,65,45,5,N/A
+2020,October,7337,5384,Levi's Stadium,outdoors,grass,1,1,84,30,12,N/A
+2020,October,7338,5385,Arrowhead Stadium,outdoors,grass,3,3,73,39,14,N/A
+2020,October,7338,5386,Lambeau Field,outdoors,grass,2,2,53,46,9,N/A
+2020,October,7341,5387,Soldier Field,outdoors,grass,6,6,57,74,7,N/A
+2020,October,7344,5390,Arrowhead Stadium,outdoors,grass,3,3,80,57,16,N/A
+2020,October,7344,5391,MetLife Stadium,outdoors,fieldturf,2,2,64,57,8,N/A
+2020,October,7344,5392,Heinz Field,outdoors,grass,1,2,70,89,4,N/A
+2020,October,7344,5393,M&T Bank Stadium,outdoors,grass,3,4,69,92,3,N/A
+2020,October,7344,5394,FedExField,outdoors,grass,2,2,69,82,2,N/A
+2020,October,7344,5395,Levi's Stadium,outdoors,grass,6,6,73,41,6,N/A
+2020,October,7344,5396,FirstEnergy Stadium,outdoors,grass,6,6,64,67,16,N/A
+2020,October,7344,5398,Lumen Field,outdoors,fieldturf,2,2,54,90,10,N/A
+2020,October,7346,5400,Nissan Stadium,outdoors,grass,1,1,73,32,3,N/A
+2020,October,7351,5401,Bank of America Stadium,outdoors,grass,6,7,63,44,6,N/A
+2020,October,7351,5403,TIAA Bank Stadium,outdoors,grass,3,5,78,78,10,N/A
+2020,October,7351,5405,Gillette Stadium,outdoors,fieldturf,8,8,58,45,7,N/A
+2020,October,7351,5406,MetLife Stadium,outdoors,fieldturf,4,5,62,48,0,N/A
+2020,October,7351,5407,Nissan Stadium,outdoors,grass,1,3,61,58,10,N/A
+2020,October,7351,5408,Lincoln Financial Field,outdoors,grass,3,4,61,52,7,N/A
+2020,October,7351,5409,Heinz Field,outdoors,grass,1,1,61,43,9,N/A
+2020,October,7351,5410,Hard Rock Stadium,outdoors,grass,1,2,85,66,15,N/A
+2020,October,7351,5411,Raymond James Stadium,outdoors,grass,2,2,88,48,12,N/A
+2020,October,7351,5412,Levi's Stadium,outdoors,grass,2,2,86,22,10,N/A
+2020,October,7352,5413,Bills Stadium,outdoors,astroturf,3,4,51,92,6,N/A
+2020,October,7355,5415,Lincoln Financial Field,outdoors,grass,1,2,70,75,4,N/A
+2020,October,7358,5417,Paul Brown Stadium,outdoors,grass,3,3,48,77,8,N/A
+2020,October,7358,5420,MetLife Stadium,outdoors,fieldturf,7,9,52,52,8,N/A
+2020,October,7358,5421,Nissan Stadium,outdoors,grass,3,4,55,88,3,N/A
+2020,October,7358,5422,FedExField,outdoors,grass,2,3,46,90,5,N/A
+2020,October,7358,5424,Empower Field at Mile High,outdoors,grass,4,4,14,78,11,N/A
+2020,October,7358,5425,Gillette Stadium,outdoors,fieldturf,4,4,49,60,7,N/A
+2020,October,7362,5429,Bank of America Stadium,outdoors,grass,5,5,76,76,8,N/A
+2020,November,7364,5430,Bills Stadium,outdoors,astroturf,3,3,41,87,17,N/A
+2020,November,7364,5431,Paul Brown Stadium,outdoors,grass,1,2,48,52,24,N/A
+2020,November,7364,5432,FirstEnergy Stadium,outdoors,grass,5,7,49,56,35,N/A
+2020,November,7364,5434,Lambeau Field,outdoors,grass,0,0,34,50,23,N/A
+2020,November,7364,5435,Arrowhead Stadium,outdoors,grass,3,4,52,0,11,N/A
+2020,November,7364,5436,Hard Rock Stadium,outdoors,grass,1,2,86,73,10,N/A
+2020,November,7364,5437,M&T Bank Stadium,outdoors,grass,1,1,52,97,7,N/A
+2020,November,7364,5438,Empower Field at Mile High,outdoors,grass,4,4,64,23,10,N/A
+2020,November,7364,5439,Soldier Field,outdoors,grass,7,8,40,41,20,N/A
+2020,November,7364,5440,Lumen Field,outdoors,fieldturf,1,1,55,58,4,N/A
+2020,November,7364,5441,Lincoln Financial Field,outdoors,grass,3,4,49,66,17,N/A
+2020,November,7365,5442,MetLife Stadium,outdoors,fieldturf,5,5,39,46,8,N/A
+2020,November,7368,5443,Levi's Stadium,outdoors,grass,3,3,78,83,5,N/A
+2020,November,7371,5445,Bills Stadium,outdoors,astroturf,5,6,69,41,4,N/A
+2020,November,7371,5447,TIAA Bank Stadium,outdoors,grass,4,4,79,71,14,N/A
+2020,November,7371,5448,Arrowhead Stadium,outdoors,grass,3,6,71,63,19,N/A
+2020,November,7371,5450,Nissan Stadium,outdoors,grass,2,2,77,55,14,N/A
+2020,November,7371,5451,FedExField,outdoors,grass,5,5,75,49,1,N/A
+2020,November,7371,5455,Raymond James Stadium,outdoors,grass,2,2,77,76,17,N/A
+2020,November,7372,5456,MetLife Stadium,outdoors,fieldturf,5,5,61,72,2,N/A
+2020,November,7375,5457,Nissan Stadium,outdoors,grass,3,4,56,46,6,N/A
+2020,November,7378,5458,Bank of America Stadium,outdoors,grass,5,5,65,90,15,N/A
+2020,November,7378,5459,FirstEnergy Stadium,outdoors,grass,1,2,59,66,25,N/A
+2020,November,7378,5461,Lambeau Field,outdoors,grass,3,3,38,76,23,N/A
+2020,November,7378,5462,MetLife Stadium,outdoors,fieldturf,3,3,56,60,18,N/A
+2020,November,7378,5464,Hard Rock Stadium,outdoors,grass,3,4,83,73,7,N/A
+2020,November,7378,5467,Heinz Field,outdoors,grass,4,4,52,82,21,N/A
+2020,November,7378,5469,Gillette Stadium,outdoors,fieldturf,2,2,52,81,13,N/A
+2020,November,7379,5470,Soldier Field,outdoors,grass,4,4,44,59,11,N/A
+2020,November,7382,5471,Lumen Field,outdoors,fieldturf,2,2,48,74,11,N/A
+2020,November,7385,5472,Bank of America Stadium,outdoors,grass,2,3,65,67,7,N/A
+2020,November,7385,5473,FirstEnergy Stadium,outdoors,grass,3,4,38,88,8,N/A
+2020,November,7385,5475,TIAA Bank Stadium,outdoors,grass,3,4,72,84,3,N/A
+2020,November,7385,5477,M&T Bank Stadium,outdoors,grass,6,6,53,67,6,N/A
+2020,November,7385,5478,FedExField,outdoors,grass,3,6,57,63,7,N/A
+2020,November,7385,5479,Empower Field at Mile High,outdoors,grass,4,4,45,19,7,N/A
+2020,November,7386,5484,Raymond James Stadium,outdoors,grass,3,4,69,65,5,N/A
+2020,November,7392,5488,Bills Stadium,outdoors,astroturf,3,3,48,52,7,N/A
+2020,November,7392,5489,Paul Brown Stadium,outdoors,grass,5,5,52,50,4,N/A
+2020,November,7392,5491,TIAA Bank Stadium,outdoors,grass,4,5,70,83,1,N/A
+2020,November,7392,5493,Gillette Stadium,outdoors,fieldturf,3,4,52,40,8,N/A
+2020,November,7392,5494,MetLife Stadium,outdoors,fieldturf,3,4,54,32,2,N/A
+2020,November,7392,5495,Empower Field at Mile High,outdoors,grass,2,2,38,33,6,N/A
+2020,November,7392,5497,Raymond James Stadium,outdoors,grass,3,3,81,50,5,N/A
+2020,November,7392,5498,Lambeau Field,outdoors,grass,1,1,37,59,13,N/A
+2020,November,7393,5499,Lincoln Financial Field,outdoors,grass,4,4,60,94,16,N/A
+2020,December,7396,5500,Heinz Field,outdoors,grass,2,2,36,68,14,N/A
+2020,December,7400,5502,Soldier Field,outdoors,grass,1,1,35,80,5,N/A
+2020,December,7400,5504,Hard Rock Stadium,outdoors,grass,4,5,81,64,5,N/A
+2020,December,7400,5506,MetLife Stadium,outdoors,fieldturf,1,1,39,46,18,N/A
+2020,December,7400,5507,Nissan Stadium,outdoors,grass,2,2,52,68,1,N/A
+2020,December,7400,5509,Lumen Field,outdoors,fieldturf,2,2,51,83,4,N/A
+2020,December,7400,5510,Lambeau Field,outdoors,grass,2,2,34,64,9,N/A
+2020,December,7400,5512,Arrowhead Stadium,outdoors,grass,6,7,41,70,9,N/A
+2020,December,7401,5513,Heinz Field,outdoors,grass,4,4,34,58,10,N/A
+2020,December,7402,5515,M&T Bank Stadium,outdoors,grass,3,7,38,54,9,N/A
+2020,December,7407,5517,Bank of America Stadium,outdoors,grass,2,2,70,67,7,N/A
+2020,December,7407,5518,Soldier Field,outdoors,grass,2,2,34,70,1,N/A
+2020,December,7407,5519,Paul Brown Stadium,outdoors,grass,3,3,44,73,5,N/A
+2020,December,7407,5520,TIAA Bank Stadium,outdoors,grass,2,3,69,83,2,N/A
+2020,December,7407,5521,Hard Rock Stadium,outdoors,grass,3,4,81,56,8,N/A
+2020,December,7407,5522,MetLife Stadium,outdoors,fieldturf,4,4,59,58,15,N/A
+2020,December,7407,5523,Raymond James Stadium,outdoors,grass,2,5,78,63,5,N/A
+2020,December,7407,5525,Lumen Field,outdoors,fieldturf,3,6,43,90,8,N/A
+2020,December,7407,5527,Lincoln Financial Field,outdoors,grass,1,4,57,49,10,N/A
+2020,December,7407,5530,Bills Stadium,outdoors,astroturf,2,2,35,71,11,N/A
+2020,December,7408,5531,FirstEnergy Stadium,outdoors,grass,1,2,34,51,18,N/A
+2020,December,7413,5533,Empower Field at Mile High,outdoors,grass,2,3,47,22,24,N/A
+2020,December,7413,5534,Lambeau Field,outdoors,grass,4,4,33,85,5,N/A
+2020,December,7414,5538,Hard Rock Stadium,outdoors,grass,4,5,79,65,9,N/A
+2020,December,7414,5540,Nissan Stadium,outdoors,grass,2,2,46,86,5,N/A
+2020,December,7414,5541,M&T Bank Stadium,outdoors,grass,1,2,39,78,3,N/A
+2020,December,7414,5542,FedExField,outdoors,grass,3,3,43,69,8,N/A
+2020,December,7414,5546,MetLife Stadium,outdoors,fieldturf,2,2,36,82,0,N/A
+2020,December,7415,5547,Paul Brown Stadium,outdoors,grass,3,4,43,63,10,N/A
+2020,December,7421,5553,TIAA Bank Stadium,outdoors,grass,3,3,55,60,5,N/A
+2020,December,7421,5554,Arrowhead Stadium,outdoors,grass,1,2,49,44,8,N/A
+2020,December,7421,5555,MetLife Stadium,outdoors,fieldturf,2,4,37,42,5,N/A
+2020,December,7421,5556,Heinz Field,outdoors,grass,1,1,37,65,6,N/A
+2020,December,7421,5557,M&T Bank Stadium,outdoors,grass,4,4,38,48,3,N/A
+2020,December,7421,5559,FedExField,outdoors,grass,2,2,41,46,6,N/A
+2020,December,7421,5561,Lumen Field,outdoors,fieldturf,5,5,45,89,2,N/A
+2020,December,7421,5562,Lambeau Field,outdoors,grass,0,0,28,88,15,N/A
+2020,December,7422,5563,Gillette Stadium,outdoors,fieldturf,2,2,41,90,4,N/A
+2021,January,7434,5580,Bills Stadium,outdoors,astroturf,3,4,34,59,6,N/A
+2021,January,7434,5581,Lumen Field,outdoors,fieldturf,5,5,39,91,1,N/A
+2021,January,7434,5582,FedExField,outdoors,grass,5,5,40,47,10,N/A
+2021,January,7435,5583,Nissan Stadium,outdoors,grass,4,5,33,63,1,N/A
+2021,January,7435,5585,Heinz Field,outdoors,grass,3,3,34,72,1,N/A
+2021,January,7441,5586,Lambeau Field,outdoors,grass,3,3,35,69,13,N/A
+2021,January,7441,5587,Bills Stadium,outdoors,astroturf,2,6,34,81,13,N/A
+2021,January,7442,5588,Arrowhead Stadium,outdoors,grass,4,5,40,62,13,N/A
+2021,January,7449,5590,Lambeau Field,outdoors,grass,3,3,29,75,10,N/A
+2021,January,7449,5591,Arrowhead Stadium,outdoors,grass,5,5,40,70,7,N/A
+2021,February,7460,5592,Raymond James Stadium,outdoors,grass,4,4,63,78,9,N/A
+2021,September,7676,5593,Raymond James Stadium,outdoors,grass,4,6,82,85,9,N/A
+2021,September,7679,5595,Highmark Stadium,outdoors,a_turf,6,6,73,79,17,N/A
+2021,September,7679,5596,Bank of America Stadium,outdoors,grass,2,2,81,51,0,N/A
+2021,September,7679,5597,Paul Brown Stadium,outdoors,fieldturf,3,3,81,54,15,N/A
+2021,September,7679,5601,Nissan Stadium,outdoors,grass,1,3,82,55,8,N/A
+2021,September,7679,5602,FedExField,outdoors,grass,5,6,81,49,4,N/A
+2021,September,7679,5603,GEHA Field at Arrowhead Stadium,outdoors,grass,2,2,88,43,8,N/A
+2021,September,7679,5604,TIAA Bank Stadium,outdoors,grass,2,2,86,57,9,N/A
+2021,September,7679,5605,Gillette Stadium,outdoors,fieldturf,4,4,81,58,15,N/A
+2021,September,7679,5606,MetLife Stadium,outdoors,fieldturf,2,2,82,56,19,N/A
+2021,September,7683,5609,FedExField,outdoors,grass,8,8,71,94,0,N/A
+2021,September,7686,5610,Bank of America Stadium,outdoors,grass,2,3,83,65,4,N/A
+2021,September,7686,5611,Soldier Field,outdoors,grass,3,3,80,52,0,N/A
+2021,September,7686,5612,FirstEnergy Stadium,outdoors,grass,1,2,75,66,12,N/A
+2021,September,7686,5614,TIAA Bank Stadium,outdoors,grass,3,5,80,87,7,N/A
+2021,September,7686,5615,Hard Rock Stadium,outdoors,grass,0,1,89,59,7,N/A
+2021,September,7686,5616,MetLife Stadium,outdoors,fieldturf,6,7,72,49,13,N/A
+2021,September,7686,5617,Lincoln Financial Field,outdoors,grass,2,3,76,42,13,N/A
+2021,September,7686,5618,Heinz Field,outdoors,grass,5,5,77,60,4,N/A
+2021,September,7686,5620,Raymond James Stadium,outdoors,grass,1,1,85,72,0,N/A
+2021,September,7686,5622,Lumen Field,outdoors,fieldturf,5,6,62,70,14,N/A
+2021,September,7686,5623,M&T Bank Stadium,outdoors,grass,1,1,82,38,8,N/A
+2021,September,7687,5624,Lambeau Field,outdoors,grass,1,1,73,84,12,N/A
+2021,September,7693,5626,Highmark Stadium,outdoors,a_turf,3,3,67,40,21,N/A
+2021,September,7693,5627,FirstEnergy Stadium,outdoors,grass,6,6,70,38,22,N/A
+2021,September,7693,5629,TIAA Bank Stadium,outdoors,grass,1,2,81,49,4,N/A
+2021,September,7693,5630,GEHA Field at Arrowhead Stadium,outdoors,grass,2,2,81,34,19,N/A
+2021,September,7693,5631,Gillette Stadium,outdoors,fieldturf,2,4,73,55,11,N/A
+2021,September,7693,5632,MetLife Stadium,outdoors,fieldturf,3,3,69,45,13,N/A
+2021,September,7693,5633,Nissan Stadium,outdoors,grass,4,5,72,66,4,N/A
+2021,September,7693,5634,Heinz Field,outdoors,grass,2,3,67,42,9,N/A
+2021,September,7693,5635,Empower Field at Mile High,outdoors,grass,4,4,82,13,6,N/A
+2021,September,7693,5639,Levi's Stadium,outdoors,grass,3,3,69,57,15,N/A
+2021,September,7697,5641,Paul Brown Stadium,outdoors,fieldturf,1,2,65,84,0,N/A
+2021,October,7701,5643,Highmark Stadium,outdoors,a_turf,4,4,67,93,12,N/A
+2021,October,7701,5644,Soldier Field,outdoors,grass,1,1,72,79,4,N/A
+2021,October,7701,5646,Hard Rock Stadium,outdoors,grass,3,3,85,57,16,N/A
+2021,October,7701,5649,MetLife Stadium,outdoors,fieldturf,5,6,78,50,9,N/A
+2021,October,7701,5650,Lincoln Financial Field,outdoors,grass,3,3,73,69,8,N/A
+2021,October,7701,5652,Levi's Stadium,outdoors,grass,0,1,80,33,0,N/A
+2021,October,7701,5653,Empower Field at Mile High,outdoors,grass,3,3,77,14,11,N/A
+2021,October,7701,5654,Lambeau Field,outdoors,grass,3,3,67,87,4,N/A
+2021,October,7701,5655,Gillette Stadium,outdoors,fieldturf,5,7,62,84,4,N/A
+2021,October,7705,5657,Lumen Field,outdoors,fieldturf,3,4,56,53,8,N/A
+2021,October,7708,5658,Tottenham Stadium,outdoors,grass,4,4,63,77,8,N/A
+2021,October,7708,5659,Bank of America Stadium,outdoors,grass,5,5,76,60,13,N/A
+2021,October,7708,5660,Paul Brown Stadium,outdoors,fieldturf,4,9,76,67,12,N/A
+2021,October,7708,5662,TIAA Bank Stadium,outdoors,grass,1,2,78,71,11,N/A
+2021,October,7708,5664,Heinz Field,outdoors,grass,4,4,71,61,9,N/A
+2021,October,7708,5665,Raymond James Stadium,outdoors,grass,2,3,84,59,7,N/A
+2021,October,7708,5666,FedExField,outdoors,grass,3,3,70,78,12,N/A
+2021,October,7708,5671,GEHA Field at Arrowhead Stadium,outdoors,grass,3,3,76,52,0,N/A
+2021,October,7709,5672,M&T Bank Stadium,outdoors,grass,3,5,69,75,6,N/A
+2021,October,7712,5673,Lincoln Financial Field,outdoors,grass,0,1,74,56,8,N/A
+2021,October,7715,5674,Tottenham Stadium,outdoors,grass,5,6,63,72,11,N/A
+2021,October,7715,5675,Bank of America Stadium,outdoors,grass,5,7,62,39,7,N/A
+2021,October,7715,5676,Soldier Field,outdoors,grass,1,1,59,39,6,N/A
+2021,October,7715,5679,MetLife Stadium,outdoors,fieldturf,2,2,61,56,13,N/A
+2021,October,7715,5680,M&T Bank Stadium,outdoors,grass,2,2,63,46,15,N/A
+2021,October,7715,5681,FedExField,outdoors,grass,3,4,62,39,13,N/A
+2021,October,7715,5682,FirstEnergy Stadium,outdoors,grass,3,3,58,55,23,N/A
+2021,October,7715,5683,Empower Field at Mile High,outdoors,grass,3,4,76,10,8,N/A
+2021,October,7715,5684,Gillette Stadium,outdoors,fieldturf,3,4,62,46,11,N/A
+2021,October,7715,5685,Heinz Field,outdoors,grass,5,5,49,77,6,N/A
+2021,October,7716,5686,Nissan Stadium,outdoors,grass,5,5,66,40,6,N/A
+2021,October,7719,5687,FirstEnergy Stadium,outdoors,grass,1,2,59,69,27,N/A
+2021,October,7722,5688,Lambeau Field,outdoors,grass,2,4,49,56,11,N/A
+2021,October,7722,5689,Hard Rock Stadium,outdoors,grass,3,4,85,70,9,N/A
+2021,October,7722,5690,Gillette Stadium,outdoors,fieldturf,2,3,52,44,0,N/A
+2021,October,7722,5691,MetLife Stadium,outdoors,fieldturf,4,4,57,51,0,N/A
+2021,October,7722,5692,Nissan Stadium,outdoors,grass,3,4,74,48,14,N/A
+2021,October,7722,5693,M&T Bank Stadium,outdoors,grass,3,3,61,60,6,N/A
+2021,October,7722,5697,Raymond James Stadium,outdoors,grass,2,3,83,65,7,N/A
+2021,October,7722,5698,Levi's Stadium,outdoors,grass,3,3,64,84,16,N/A
+2021,October,7723,5699,Lumen Field,outdoors,fieldturf,3,5,54,77,16,N/A
+2021,October,7729,5702,Highmark Stadium,outdoors,a_turf,3,4,54,82,9,N/A
+2021,October,7729,5703,Soldier Field,outdoors,grass,7,8,53,63,12,N/A
+2021,October,7729,5704,FirstEnergy Stadium,outdoors,grass,2,2,57,67,13,N/A
+2021,October,7729,5708,MetLife Stadium,outdoors,fieldturf,3,4,63,67,11,N/A
+2021,October,7729,5710,Lumen Field,outdoors,fieldturf,1,1,54,45,8,N/A
+2021,October,7729,5711,Empower Field at Mile High,outdoors,grass,2,5,41,70,4,N/A
+2021,November,7729,5714,GEHA Field at Arrowhead Stadium,outdoors,grass,3,3,39,89,4,N/A
+2021,November,7735,5716,Bank of America Stadium,outdoors,grass,3,4,61,35,16,N/A
+2021,November,7735,5717,Paul Brown Stadium,outdoors,fieldturf,3,4,56,47,0,N/A
+2021,November,7735,5719,TIAA Bank Stadium,outdoors,grass,5,6,59,75,16,N/A
+2021,November,7735,5720,Hard Rock Stadium,outdoors,grass,4,4,72,57,19,N/A
+2021,November,7735,5722,MetLife Stadium,outdoors,fieldturf,6,7,54,38,4,N/A
+2021,November,7735,5723,M&T Bank Stadium,outdoors,grass,3,3,56,37,8,N/A
+2021,November,7735,5724,Lincoln Financial Field,outdoors,grass,3,3,54,37,11,N/A
+2021,November,7735,5725,GEHA Field at Arrowhead Stadium,outdoors,grass,2,4,51,74,12,N/A
+2021,November,7735,5726,Levi's Stadium,outdoors,grass,2,2,57,74,8,N/A
+2021,November,7736,5728,Heinz Field,outdoors,grass,5,6,55,51,7,N/A
+2021,November,7739,5729,Hard Rock Stadium,outdoors,grass,4,5,77,85,4,N/A
+2021,November,7742,5732,Gillette Stadium,outdoors,fieldturf,1,1,48,54,6,N/A
+2021,November,7742,5733,MetLife Stadium,outdoors,fieldturf,2,2,47,56,4,N/A
+2021,November,7742,5734,Nissan Stadium,outdoors,grass,4,4,53,48,12,N/A
+2021,November,7742,5735,Heinz Field,outdoors,grass,4,5,37,72,12,N/A
+2021,November,7742,5736,FedExField,outdoors,grass,5,5,47,40,8,N/A
+2021,November,7742,5739,Empower Field at Mile High,outdoors,grass,5,6,57,27,19,N/A
+2021,November,7742,5740,Lambeau Field,outdoors,grass,1,2,35,78,11,N/A
+2021,November,7743,5742,Levi's Stadium,outdoors,grass,2,2,59,88,0,N/A
+2021,November,7749,5744,Highmark Stadium,outdoors,a_turf,2,4,49,48,12,N/A
+2021,November,7749,5745,Bank of America Stadium,outdoors,grass,2,2,54,50,0,N/A
+2021,November,7749,5746,Soldier Field,outdoors,grass,3,4,46,71,9,N/A
+2021,November,7749,5747,FirstEnergy Stadium,outdoors,grass,1,2,42,84,7,N/A
+2021,November,7749,5748,TIAA Bank Stadium,outdoors,grass,4,4,68,84,17,N/A
+2021,November,7749,5750,MetLife Stadium,outdoors,fieldturf,2,5,52,44,4,N/A
+2021,November,7749,5751,Nissan Stadium,outdoors,grass,3,3,59,67,8,N/A
+2021,November,7749,5752,Lincoln Financial Field,outdoors,grass,5,5,51,63,4,N/A
+2021,November,7749,5754,GEHA Field at Arrowhead Stadium,outdoors,grass,5,6,57,31,17,N/A
+2021,November,7749,5755,Lumen Field,outdoors,fieldturf,3,5,46,76,0,N/A
+2021,November,7750,5757,Raymond James Stadium,outdoors,grass,4,4,68,61,6,N/A
+2021,November,7756,5761,Paul Brown Stadium,outdoors,fieldturf,3,3,43,65,12,N/A
+2021,November,7756,5764,TIAA Bank Stadium,outdoors,grass,2,2,61,41,4,N/A
+2021,November,7756,5765,Hard Rock Stadium,outdoors,grass,3,3,74,56,4,N/A
+2021,November,7756,5766,Gillette Stadium,outdoors,fieldturf,5,7,33,61,6,N/A
+2021,November,7756,5767,MetLife Stadium,outdoors,fieldturf,2,3,39,72,4,N/A
+2021,November,7756,5768,Empower Field at Mile High,outdoors,grass,0,1,62,22,0,N/A
+2021,November,7756,5769,Lambeau Field,outdoors,grass,5,6,37,46,14,N/A
+2021,November,7756,5770,Levi's Stadium,outdoors,grass,2,3,68,43,7,N/A
+2021,November,7756,5771,M&T Bank Stadium,outdoors,grass,4,5,43,70,0,N/A
+2021,November,7757,5772,FedExField,outdoors,grass,1,1,41,51,9,N/A
+2021,December,7764,5775,Soldier Field,outdoors,grass,2,2,34,80,8,N/A
+2021,December,7764,5776,Paul Brown Stadium,outdoors,fieldturf,3,3,48,51,11,N/A
+2021,December,7764,5779,Hard Rock Stadium,outdoors,grass,5,7,80,62,11,N/A
+2021,December,7764,5780,MetLife Stadium,outdoors,fieldturf,4,4,45,33,0,N/A
+2021,December,7764,5781,Lumen Field,outdoors,fieldturf,1,2,41,76,4,N/A
+2021,December,7764,5783,Heinz Field,outdoors,grass,4,4,50,44,7,N/A
+2021,December,7764,5785,GEHA Field at Arrowhead Stadium,outdoors,grass,4,4,58,55,22,N/A
+2021,December,7765,5786,Highmark Stadium,outdoors,a_turf,3,4,36,59,19,N/A
+2021,December,7771,5788,Bank of America Stadium,outdoors,grass,3,3,48,37,9,N/A
+2021,December,7771,5789,Paul Brown Stadium,outdoors,fieldturf,5,7,48,40,9,N/A
+2021,December,7771,5790,FirstEnergy Stadium,outdoors,grass,4,5,46,42,14,N/A
+2021,December,7771,5792,GEHA Field at Arrowhead Stadium,outdoors,grass,3,3,47,34,19,N/A
+2021,December,7771,5793,MetLife Stadium,outdoors,fieldturf,6,6,46,30,13,N/A
+2021,December,7771,5794,Nissan Stadium,outdoors,grass,2,3,45,58,0,N/A
+2021,December,7771,5795,FedExField,outdoors,grass,4,4,48,32,17,N/A
+2021,December,7771,5796,Empower Field at Mile High,outdoors,grass,2,2,63,12,8,N/A
+2021,December,7771,5798,Raymond James Stadium,outdoors,grass,4,4,82,66,4,N/A
+2021,December,7771,5799,Lambeau Field,outdoors,grass,4,4,36,59,8,N/A
+2021,December,7778,5803,Highmark Stadium,outdoors,a_turf,1,1,30,69,8,N/A
+2021,December,7778,5805,TIAA Bank Stadium,outdoors,grass,6,6,80,71,12,N/A
+2021,December,7778,5806,Hard Rock Stadium,outdoors,grass,2,2,82,70,9,N/A
+2021,December,7778,5807,MetLife Stadium,outdoors,fieldturf,5,5,37,54,8,N/A
+2021,December,7778,5808,Heinz Field,outdoors,grass,6,7,32,74,11,N/A
+2021,December,7778,5809,M&T Bank Stadium,outdoors,grass,2,2,43,52,11,N/A
+2021,December,7778,5810,Empower Field at Mile High,outdoors,grass,4,5,61,9,19,N/A
+2021,December,7778,5811,Levi's Stadium,outdoors,grass,3,3,46,81,0,N/A
+2021,December,7778,5812,Raymond James Stadium,outdoors,grass,3,4,75,99,0,N/A
+2021,December,7779,5813,FirstEnergy Stadium,outdoors,grass,3,4,40,47,8,N/A
+2021,December,7779,5814,Soldier Field,outdoors,grass,2,3,37,75,8,N/A
+2021,December,7780,5815,Lincoln Financial Field,outdoors,grass,3,3,42,57,7,N/A
+2021,December,7782,5817,Nissan Stadium,outdoors,grass,3,3,48,46,7,N/A
+2021,December,7784,5818,Lambeau Field,outdoors,grass,2,2,35,49,11,N/A
+2021,December,7785,5821,Bank of America Stadium,outdoors,grass,6,6,73,41,8,N/A
+2021,December,7785,5822,Paul Brown Stadium,outdoors,fieldturf,2,3,52,63,0,N/A
+2021,December,7785,5825,Gillette Stadium,outdoors,fieldturf,2,2,38,79,13,N/A
+2021,December,7785,5826,MetLife Stadium,outdoors,fieldturf,5,5,47,49,0,N/A
+2021,December,7785,5827,Lincoln Financial Field,outdoors,grass,3,4,53,46,9,N/A
+2021,December,7785,5828,Lumen Field,outdoors,fieldturf,2,3,25,85,11,N/A
+2021,December,7785,5829,GEHA Field at Arrowhead Stadium,outdoors,grass,4,6,60,64,22,N/A
+2022,January,7792,5833,Highmark Stadium,outdoors,a_turf,2,2,26,81,11,N/A
+2022,January,7792,5834,Soldier Field,outdoors,grass,3,3,25,74,13,N/A
+2022,January,7792,5835,Paul Brown Stadium,outdoors,fieldturf,3,3,33,81,13,N/A
+2022,January,7792,5839,Gillette Stadium,outdoors,fieldturf,2,2,46,100,4,N/A
+2022,January,7792,5840,MetLife Stadium,outdoors,fieldturf,3,3,57,82,9,N/A
+2022,January,7792,5841,Nissan Stadium,outdoors,grass,3,4,43,93,13,N/A
+2022,January,7792,5842,FedExField,outdoors,grass,5,5,62,91,4,N/A
+2022,January,7792,5844,Levi's Stadium,outdoors,grass,3,4,50,58,6,N/A
+2022,January,7792,5845,M&T Bank Stadium,outdoors,grass,4,5,59,92,6,N/A
+2022,January,7792,5846,Lumen Field,outdoors,fieldturf,3,4,37,92,0,N/A
+2022,January,7792,5847,Lambeau Field,outdoors,grass,4,4,11,60,9,N/A
+2022,January,7793,5848,Heinz Field,outdoors,grass,4,4,25,60,12,N/A
+2022,January,7798,5849,Empower Field at Mile High,outdoors,grass,3,3,41,57,4,N/A
+2022,January,7798,5850,Lincoln Financial Field,outdoors,grass,3,3,31,43,8,N/A
+2022,January,7799,5852,FirstEnergy Stadium,outdoors,grass,1,1,38,89,22,N/A
+2022,January,7799,5855,TIAA Bank Stadium,outdoors,grass,5,5,76,60,19,N/A
+2022,January,7799,5856,Hard Rock Stadium,outdoors,grass,3,3,75,79,8,N/A
+2022,January,7799,5858,MetLife Stadium,outdoors,fieldturf,3,3,38,64,0,N/A
+2022,January,7799,5859,M&T Bank Stadium,outdoors,grass,5,5,36,100,0,N/A
+2022,January,7799,5860,Raymond James Stadium,outdoors,grass,3,4,80,99,4,N/A
+2022,January,7799,5861,Highmark Stadium,outdoors,a_turf,3,3,36,67,19,N/A
+2022,January,7805,5865,Paul Brown Stadium,outdoors,fieldturf,8,8,31,63,12,N/A
+2022,January,7805,5866,Highmark Stadium,outdoors,a_turf,1,1,7,66,8,N/A
+2022,January,7806,5867,Raymond James Stadium,outdoors,grass,1,1,66,52,21,N/A
+2022,January,7806,5869,GEHA Field at Arrowhead Stadium,outdoors,grass,0,0,30,78,8,N/A
+2022,January,7812,5871,Nissan Stadium,outdoors,grass,5,5,35,43,0,N/A
+2022,January,7812,5872,Lambeau Field,outdoors,grass,3,4,15,53,12,N/A
+2022,January,7813,5873,Raymond James Stadium,outdoors,grass,5,7,50,69,11,N/A
+2022,January,7813,5874,GEHA Field at Arrowhead Stadium,outdoors,grass,3,4,35,54,6,N/A
+2022,January,7820,5875,GEHA Field at Arrowhead Stadium,outdoors,grass,5,5,41,41,4,N/A
+2022,September,8043,5879,Bank of America Stadium,outdoors,grass,5,5,80,81,8,N/A
+2022,September,8043,5880,Soldier Field,outdoors,grass,1,1,69,87,16,N/A
+2022,September,8043,5881,Paycor Stadium,outdoors,fieldturf,5,7,76,83,5,N/A
+2022,September,8043,5884,Hard Rock Stadium,outdoors,grass,2,2,92,58,12,N/A
+2022,September,8043,5885,MetLife Stadium,outdoors,fieldturf,2,3,73,79,3,N/A
+2022,September,8043,5886,FedExField,outdoors,grass,3,4,74,95,4,N/A
+2022,September,8043,5889,Nissan Stadium,outdoors,grass,2,3,75,87,9,N/A
+2022,September,8044,5892,Lumen Field,outdoors,fieldturf,4,5,74,53,6,N/A
+2022,September,8050,5894,FirstEnergy Stadium,outdoors,grass,2,2,80,55,11,N/A
+2022,September,8050,5898,MetLife Stadium,outdoors,fieldturf,7,7,73,74,12,N/A
+2022,September,8050,5899,Acrisure Stadium,outdoors,grass,3,4,81,51,8,N/A
+2022,September,8050,5900,M&T Bank Stadium,outdoors,grass,1,1,82,61,6,N/A
+2022,September,8050,5904,Empower Field at Mile High,outdoors,grass,6,6,77,28,11,N/A
+2022,September,8050,5906,Lambeau Field,outdoors,grass,3,3,73,76,5,N/A
+2022,September,8051,5907,Highmark Stadium,outdoors,a_turf,2,2,70,84,11,N/A
+2022,September,8051,5908,Lincoln Financial Field,outdoors,grass,1,2,76,62,4,N/A
+2022,September,8054,5909,FirstEnergy Stadium,outdoors,grass,2,3,60,54,21,N/A
+2022,September,8057,5910,Bank of America Stadium,outdoors,grass,3,5,68,70,7,N/A
+2022,September,8057,5911,Soldier Field,outdoors,grass,5,5,66,68,13,N/A
+2022,September,8057,5913,Hard Rock Stadium,outdoors,grass,1,2,89,63,5,N/A
+2022,September,8057,5915,Gillette Stadium,outdoors,fieldturf,3,3,66,61,10,N/A
+2022,September,8057,5916,MetLife Stadium,outdoors,fieldturf,6,7,66,62,8,N/A
+2022,September,8057,5917,Nissan Stadium,outdoors,grass,4,4,77,72,5,N/A
+2022,September,8057,5918,FedExField,outdoors,grass,1,1,72,60,9,N/A
+2022,September,8057,5921,Lumen Field,outdoors,fieldturf,5,5,67,67,6,N/A
+2022,September,8057,5922,Raymond James Stadium,outdoors,grass,2,2,88,58,5,N/A
+2022,September,8057,5923,Empower Field at Mile High,outdoors,grass,2,3,73,21,8,N/A
+2022,September,8058,5924,MetLife Stadium,outdoors,fieldturf,6,8,66,44,5,N/A
+2022,September,8061,5925,Paycor Stadium,outdoors,fieldturf,5,6,63,54,12,N/A
+2022,October,8065,5926,Tottenham Stadium,outdoors,grass,6,7,64,49,8,N/A
+2022,October,8065,5932,MetLife Stadium,outdoors,fieldturf,6,7,59,63,15,N/A
+2022,October,8065,5933,Lincoln Financial Field,outdoors,grass,1,1,57,93,11,N/A
+2022,October,8065,5934,Acrisure Stadium,outdoors,grass,3,3,57,77,7,N/A
+2022,October,8065,5935,M&T Bank Stadium,outdoors,grass,5,5,58,78,2,N/A
+2022,October,8065,5936,Bank of America Stadium,outdoors,grass,3,3,66,59,15,N/A
+2022,October,8065,5937,Lambeau Field,outdoors,grass,3,3,66,59,9,N/A
+2022,October,8065,5939,Raymond James Stadium,outdoors,grass,3,3,75,64,2,N/A
+2022,October,8066,5940,Levi's Stadium,outdoors,grass,4,5,73,53,13,N/A
+2022,October,8069,5941,Empower Field at Mile High,outdoors,grass,7,8,69,24,6,N/A
+2022,October,8072,5942,Tottenham Stadium,outdoors,grass,4,4,64,48,10,N/A
+2022,October,8072,5943,Highmark Stadium,outdoors,a_turf,2,5,55,62,16,N/A
+2022,October,8072,5944,FirstEnergy Stadium,outdoors,grass,3,5,59,44,15,N/A
+2022,October,8072,5945,TIAA Bank Stadium,outdoors,grass,4,4,80,69,8,N/A
+2022,October,8072,5948,Gillette Stadium,outdoors,fieldturf,5,5,58,44,12,N/A
+2022,October,8072,5949,MetLife Stadium,outdoors,fieldturf,2,3,63,37,12,N/A
+2022,October,8072,5950,Raymond James Stadium,outdoors,grass,2,3,83,57,8,N/A
+2022,October,8072,5951,FedExField,outdoors,grass,1,1,61,36,9,N/A
+2022,October,8072,5952,Bank of America Stadium,outdoors,grass,4,6,68,53,3,N/A
+2022,October,8072,5955,M&T Bank Stadium,outdoors,grass,5,5,60,42,3,N/A
+2022,October,8073,5956,GEHA Field at Arrowhead Stadium,outdoors,grass,4,5,77,37,5,N/A
+2022,October,8076,5957,Soldier Field,outdoors,grass,2,3,46,55,14,N/A
+2022,October,8079,5959,FirstEnergy Stadium,outdoors,grass,4,5,62,41,11,N/A
+2022,October,8079,5961,Lambeau Field,outdoors,grass,3,5,49,64,12,N/A
+2022,October,8079,5962,Hard Rock Stadium,outdoors,grass,2,3,86,55,14,N/A
+2022,October,8079,5964,MetLife Stadium,outdoors,fieldturf,3,4,60,53,3,N/A
+2022,October,8079,5965,Acrisure Stadium,outdoors,grass,6,6,62,46,7,N/A
+2022,October,8079,5967,Lumen Field,outdoors,fieldturf,5,5,72,44,5,N/A
+2022,October,8079,5969,Lincoln Financial Field,outdoors,grass,3,4,63,43,3,N/A
+2022,October,8086,5972,Bank of America Stadium,outdoors,grass,1,1,67,51,5,N/A
+2022,October,8086,5973,Paycor Stadium,outdoors,fieldturf,1,1,73,43,7,N/A
+2022,October,8086,5976,Nissan Stadium,outdoors,grass,5,5,74,43,12,N/A
+2022,October,8086,5977,M&T Bank Stadium,outdoors,grass,5,6,64,59,6,N/A
+2022,October,8086,5978,FedExField,outdoors,grass,3,4,62,66,7,N/A
+2022,October,8086,5982,Levi's Stadium,outdoors,grass,3,4,64,34,10,N/A
+2022,October,8086,5983,Hard Rock Stadium,outdoors,grass,4,4,78,63,10,N/A
+2022,October,8087,5984,Gillette Stadium,outdoors,fieldturf,4,4,56,100,4,N/A
+2022,October,8090,5985,Raymond James Stadium,outdoors,grass,5,6,79,74,4,N/A
+2022,October,8093,5986,Wembley Stadium,outdoors,grass,1,1,61,77,11,N/A
+2022,October,8093,5992,MetLife Stadium,outdoors,fieldturf,6,7,59,45,1,N/A
+2022,October,8093,5993,Lincoln Financial Field,outdoors,grass,2,2,61,47,2,N/A
+2022,October,8093,5997,Lumen Field,outdoors,fieldturf,4,4,54,72,12,N/A
+2022,October,8093,5998,Highmark Stadium,outdoors,a_turf,3,4,50,57,4,N/A
+2022,October,8094,5999,FirstEnergy Stadium,outdoors,grass,1,3,66,69,9,N/A
+2022,November,8099,6002,Soldier Field,outdoors,grass,1,2,58,55,17,N/A
+2022,November,8099,6003,Paycor Stadium,outdoors,fieldturf,0,1,68,57,11,N/A
+2022,November,8099,6005,TIAA Bank Stadium,outdoors,grass,4,5,81,72,14,N/A
+2022,November,8099,6006,Gillette Stadium,outdoors,fieldturf,5,6,78,56,13,N/A
+2022,November,8099,6007,MetLife Stadium,outdoors,fieldturf,3,4,69,81,17,N/A
+2022,November,8099,6008,FedExField,outdoors,grass,3,3,71,79,11,N/A
+2022,November,8099,6010,Raymond James Stadium,outdoors,grass,5,6,88,57,2,N/A
+2022,November,8099,6011,GEHA Field at Arrowhead Stadium,outdoors,grass,3,4,54,61,7,N/A
+2022,November,8103,6013,Bank of America Stadium,outdoors,grass,5,5,61,88,12,N/A
+2022,November,8106,6014,Allianz Arena,outdoors,grass,1,2,54,71,9,N/A
+2022,November,8106,6015,Highmark Stadium,outdoors,a_turf,5,5,38,85,11,N/A
+2022,November,8106,6016,Soldier Field,outdoors,grass,2,2,34,45,13,N/A
+2022,November,8106,6017,GEHA Field at Arrowhead Stadium,outdoors,grass,1,3,33,56,7,N/A
+2022,November,8106,6018,Hard Rock Stadium,outdoors,grass,3,3,85,48,7,N/A
+2022,November,8106,6019,MetLife Stadium,outdoors,fieldturf,4,4,50,58,15,N/A
+2022,November,8106,6020,Nissan Stadium,outdoors,grass,2,2,36,48,9,N/A
+2022,November,8106,6021,Acrisure Stadium,outdoors,grass,3,5,37,65,15,N/A
+2022,November,8106,6023,Lambeau Field,outdoors,grass,1,2,33,53,8,N/A
+2022,November,8106,6025,Levi's Stadium,outdoors,grass,6,6,57,38,6,N/A
+2022,November,8107,6026,Lincoln Financial Field,outdoors,grass,4,4,43,45,6,N/A
+2022,November,8110,6027,Lambeau Field,outdoors,grass,1,1,25,81,11,N/A
+2022,November,8113,6033,Gillette Stadium,outdoors,fieldturf,2,4,42,35,2,N/A
+2022,November,8113,6034,MetLife Stadium,outdoors,fieldturf,1,1,35,30,21,N/A
+2022,November,8113,6035,M&T Bank Stadium,outdoors,grass,3,3,36,24,2,N/A
+2022,November,8113,6036,Empower Field at Mile High,outdoors,grass,6,8,49,23,11,N/A
+2022,November,8113,6038,Acrisure Stadium,outdoors,grass,6,6,27,38,12,N/A
+2022,November,8114,6040,Azteca Stadium,outdoors,grass,2,2,64,52,4,N/A
+2022,November,8120,6044,Bank of America Stadium,outdoors,grass,4,5,66,94,15,N/A
+2022,November,8120,6045,FirstEnergy Stadium,outdoors,grass,2,3,56,84,14,N/A
+2022,November,8120,6046,TIAA Bank Stadium,outdoors,grass,6,7,77,82,19,N/A
+2022,November,8120,6047,Hard Rock Stadium,outdoors,grass,4,4,84,63,13,N/A
+2022,November,8120,6048,MetLife Stadium,outdoors,fieldturf,2,3,50,61,9,N/A
+2022,November,8120,6049,Nissan Stadium,outdoors,grass,5,6,56,62,14,N/A
+2022,November,8120,6050,FedExField,outdoors,grass,4,5,46,97,9,N/A
+2022,November,8120,6052,Lumen Field,outdoors,fieldturf,4,5,44,67,8,N/A
+2022,November,8120,6053,GEHA Field at Arrowhead Stadium,outdoors,grass,5,5,44,65,6,N/A
+2022,November,8120,6054,Levi's Stadium,outdoors,grass,2,3,59,63,2,N/A
+2022,November,8120,6055,Lincoln Financial Field,outdoors,grass,4,4,62,86,24,N/A
+2022,December,8125,6057,Gillette Stadium,outdoors,fieldturf,2,3,35,57,2,N/A
+2022,December,8128,6059,Soldier Field,outdoors,grass,4,5,38,42,12,N/A
+2022,December,8128,6063,MetLife Stadium,outdoors,fieldturf,4,6,40,63,9,N/A
+2022,December,8128,6064,Lincoln Financial Field,outdoors,grass,1,1,60,62,7,N/A
+2022,December,8128,6065,M&T Bank Stadium,outdoors,grass,4,5,63,75,8,N/A
+2022,December,8128,6067,Levi's Stadium,outdoors,grass,5,5,38,73,6,N/A
+2022,December,8128,6068,Paycor Stadium,outdoors,fieldturf,3,4,57,77,2,N/A
+2022,December,8129,6071,Raymond James Stadium,outdoors,grass,4,4,69,78,2,N/A
+2022,December,8135,6073,Highmark Stadium,outdoors,a_turf,3,3,36,92,11,N/A
+2022,December,8135,6074,Paycor Stadium,outdoors,fieldturf,2,2,47,63,8,N/A
+2022,December,8135,6077,MetLife Stadium,outdoors,fieldturf,2,2,37,78,6,N/A
+2022,December,8135,6078,Nissan Stadium,outdoors,grass,3,3,54,77,8,N/A
+2022,December,8135,6079,Acrisure Stadium,outdoors,grass,3,4,42,82,12,N/A
+2022,December,8135,6080,Empower Field at Mile High,outdoors,grass,2,2,55,19,4,N/A
+2022,December,8135,6081,Lumen Field,outdoors,fieldturf,4,4,45,97,4,N/A
+2022,December,8135,6082,Levi's Stadium,outdoors,grass,0,1,54,54,8,N/A
+2022,December,8139,6085,Lumen Field,outdoors,fieldturf,2,3,39,71,6,N/A
+2022,December,8141,6087,FirstEnergy Stadium,outdoors,grass,3,7,34,59,12,N/A
+2022,December,8141,6088,Highmark Stadium,outdoors,a_turf,4,4,29,92,4,N/A
+2022,December,8142,6089,Bank of America Stadium,outdoors,grass,4,4,47,37,7,N/A
+2022,December,8142,6090,Soldier Field,outdoors,grass,1,2,17,70,17,N/A
+2022,December,8142,6092,TIAA Bank Stadium,outdoors,grass,4,4,54,37,9,N/A
+2022,December,8142,6094,MetLife Stadium,outdoors,fieldturf,3,5,38,52,13,N/A
+2022,December,8142,6095,Empower Field at Mile High,outdoors,grass,4,5,37,20,4,N/A
+2022,December,8142,6098,Raymond James Stadium,outdoors,grass,3,4,66,43,6,N/A
+2022,December,8142,6099,FedExField,outdoors,grass,4,4,35,47,13,N/A
+2022,December,8143,6100,Lambeau Field,outdoors,grass,3,3,15,76,4,N/A
+2022,December,8146,6101,MetLife Stadium,outdoors,fieldturf,5,6,43,89,17,N/A
+2022,December,8148,6102,Bank of America Stadium,outdoors,grass,4,4,20,43,12,N/A
+2022,December,8148,6103,Soldier Field,outdoors,grass,2,3,7,72,17,N/A
+2022,December,8148,6104,FirstEnergy Stadium,outdoors,grass,2,2,6,66,27,N/A
+2022,December,8148,6105,GEHA Field at Arrowhead Stadium,outdoors,grass,2,2,12,61,9,N/A
+2022,December,8148,6107,Gillette Stadium,outdoors,fieldturf,1,2,21,43,2,N/A
+2022,December,8148,6108,Nissan Stadium,outdoors,grass,2,2,22,55,14,N/A
+2022,December,8148,6109,M&T Bank Stadium,outdoors,grass,6,7,17,38,9,N/A
+2022,December,8148,6110,Levi's Stadium,outdoors,grass,3,3,54,82,2,N/A
+2022,December,8148,6112,Acrisure Stadium,outdoors,grass,3,5,9,76,21,N/A
+2022,December,8149,6113,Hard Rock Stadium,outdoors,grass,6,7,45,68,14,N/A
+2022,December,8153,6117,Nissan Stadium,outdoors,grass,4,4,56,72,4,N/A
+2023,January,8156,6121,GEHA Field at Arrowhead Stadium,outdoors,grass,1,2,47,80,2,N/A
+2023,January,8156,6122,Gillette Stadium,outdoors,fieldturf,1,2,53,73,2,N/A
+2023,January,8156,6123,MetLife Stadium,outdoors,fieldturf,2,3,52,57,14,N/A
+2023,January,8156,6124,Lincoln Financial Field,outdoors,grass,3,3,54,57,11,N/A
+2023,January,8156,6125,Raymond James Stadium,outdoors,grass,2,4,75,87,2,N/A
+2023,January,8156,6126,FedExField,outdoors,grass,2,2,59,51,9,N/A
+2023,January,8156,6128,Lumen Field,outdoors,fieldturf,5,7,45,93,2,N/A
+2023,January,8156,6129,Lambeau Field,outdoors,grass,3,5,39,79,7,N/A
+2023,January,8156,6131,M&T Bank Stadium,outdoors,grass,5,6,44,89,2,N/A
+2023,January,8162,6133,TIAA Bank Stadium,outdoors,grass,5,5,56,67,4,N/A
+2023,January,8163,6135,Highmark Stadium,outdoors,a_turf,1,1,30,74,6,N/A
+2023,January,8163,6136,Soldier Field,outdoors,grass,3,3,32,74,2,N/A
+2023,January,8163,6137,Paycor Stadium,outdoors,fieldturf,5,5,38,62,7,N/A
+2023,January,8163,6139,Hard Rock Stadium,outdoors,grass,5,6,75,66,9,N/A
+2023,January,8163,6141,Acrisure Stadium,outdoors,grass,2,2,36,64,8,N/A
+2023,January,8163,6142,Empower Field at Mile High,outdoors,grass,3,3,43,39,4,N/A
+2023,January,8163,6143,Lincoln Financial Field,outdoors,grass,6,6,43,55,12,N/A
+2023,January,8163,6144,Lumen Field,outdoors,fieldturf,7,8,45,100,4,N/A
+2023,January,8163,6145,Levi's Stadium,outdoors,grass,1,1,57,77,2,N/A
+2023,January,8163,6146,FedExField,outdoors,grass,2,4,42,53,7,N/A
+2023,January,8163,6147,Lambeau Field,outdoors,grass,5,7,21,92,4,N/A
+2023,January,8169,6148,Levi's Stadium,outdoors,grass,5,5,57,82,11,N/A
+2023,January,8169,6149,TIAA Bank Stadium,outdoors,grass,4,5,37,75,4,N/A
+2023,January,8170,6150,Highmark Stadium,outdoors,a_turf,5,5,27,80,4,N/A
+2023,January,8170,6152,Paycor Stadium,outdoors,fieldturf,2,2,30,71,4,N/A
+2023,January,8171,6153,Raymond James Stadium,outdoors,grass,0,0,58,42,2,N/A
+2023,January,8176,6154,GEHA Field at Arrowhead Stadium,outdoors,grass,4,4,36,92,6,N/A
+2023,January,8176,6155,Lincoln Financial Field,outdoors,grass,1,1,40,55,6,N/A
+2023,January,8177,6156,Highmark Stadium,outdoors,a_turf,3,3,32,100,4,N/A
+2023,January,8177,6157,Levi's Stadium,outdoors,grass,6,6,55,47,19,N/A
+2023,January,8184,6158,Lincoln Financial Field,outdoors,grass,1,1,52,48,14,N/A
+2023,January,8184,6159,GEHA Field at Arrowhead Stadium,outdoors,grass,5,5,22,55,13,N/A
